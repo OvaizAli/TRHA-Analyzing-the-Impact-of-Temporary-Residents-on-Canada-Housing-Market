@@ -64,6 +64,7 @@ df_grouped_ts = df.groupby(['Province', 'Year'], as_index=False)['Avg_Value'].me
 
 # Initialize Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 # App layout
 app.layout = html.Div([
