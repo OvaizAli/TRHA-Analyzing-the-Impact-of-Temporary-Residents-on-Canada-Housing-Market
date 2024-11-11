@@ -246,7 +246,9 @@ app.layout = html.Div([
                     id='metric-dropdown',
                     options=[
                         {'label': 'Housing Price Index (Avg_Value)', 'value': 'Avg_Value'},
-                        {'label': 'CPI Index', 'value': 'CPI_Index'}
+                        {'label': 'Number_of_Study_Permits_Issued', 'value': 'Number_of_Study_Permits_Issued'},
+                        {'label': 'Total_Workers_Count', 'value': 'Total_Workers_Count'},
+                        {'label': 'Combined_Impact_Ratio', 'value': 'Combined_Impact_Ratio'}
                     ],
                     value='Avg_Value',
                     clearable=False,
