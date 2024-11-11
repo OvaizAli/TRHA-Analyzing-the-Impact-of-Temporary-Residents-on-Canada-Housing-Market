@@ -1,0 +1,1081 @@
+Year,Province,Location,New Housing Price Index,Avg_Value,Number_of_Study_Permits_Issued,Study_Permit_To_Value_Impact_Metric,Total_Workers_Count,Number_of_Class_Titles,Most_Common_Class_Title,Workers_To_Housing_Impact_Ratio,Combined_Impact_Ratio,Avg_Total_CPI,Avg_Total_CPI_Seasonally_Adjusted,Avg_STATIC_TOTALCPICHANGE,Avg_CPI_TRIM,Avg_CPI_MEDIAN
+2016,Ontario,"Windsor, Ontario",Land only,97.42,103720.0,1064.67,25565.0,475.0,0011 - Legislators,262.42,663.55,128.37,128.38,1.44,1.82,1.99
+2017,Manitoba,Manitoba,Land only,100.0,108870.0,1088.7,6825.0,409.0,0012 - Senior government managers and officials,68.25,578.48,130.42,130.43,1.6,1.44,1.63
+2020,Nova Scotia,Nova Scotia,House only,106.92,105815.0,989.67,4250.0,391.0,0012 - Senior government managers and officials,39.75,514.71,136.96,136.95,0.73,1.77,1.88
+2020,Alberta,Alberta,Total (house and land),96.83,105815.0,1092.79,6200.0,436.0,0011 - Legislators,64.03,578.41,136.96,136.95,0.73,1.77,1.88
+2021,British Columbia,"Victoria, British Columbia",Land only,106.08,152280.0,1435.52,9615.0,470.0,0011 - Legislators,90.64,763.08,141.61,141.61,3.4,2.91,2.65
+2016,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,8.33,103720.0,12451.38,12770.0,482.0,0011 - Legislators,1533.01,6992.2,128.37,128.38,1.44,1.82,1.99
+2019,Saskatchewan,"Regina, Saskatchewan",House only,94.0,126555.0,1346.33,5215.0,386.0,0012 - Senior government managers and officials,55.48,700.91,135.98,135.97,1.94,2.05,2.01
+2020,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,101.0,105815.0,1047.67,2510.0,369.0,"0013 - Senior managers - financial, communications and other business services",24.85,536.26,136.96,136.95,0.73,1.77,1.88
+2021,Quebec,"Montréal, Quebec",Total (house and land),135.0,152280.0,1128.0,17550.0,482.0,0011 - Legislators,130.0,629.0,141.61,141.61,3.4,2.91,2.65
+2021,Alberta,Alberta,Land only,101.33,152280.0,1502.81,3710.0,436.0,0011 - Legislators,36.61,769.71,141.61,141.61,3.4,2.91,2.65
+2021,British Columbia,"Kelowna, British Columbia",Total (house and land),115.83,152280.0,1314.69,9615.0,470.0,0011 - Legislators,83.01,698.85,141.61,141.61,3.4,2.91,2.65
+2022,Manitoba,Manitoba,Total (house and land),141.25,168235.0,1191.04,4250.0,409.0,0012 - Senior government managers and officials,30.09,610.56,151.24,151.24,6.8,5.25,4.84
+2023,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Total (house and land),105.58,181960.0,1723.43,4520.0,310.0,0012 - Senior government managers and officials,42.81,883.12,157.11,157.11,3.89,3.89,4.02
+2016,Nova Scotia,Nova Scotia,Land only,99.33,103720.0,1044.2,2955.0,391.0,0012 - Senior government managers and officials,29.75,536.98,128.37,128.38,1.44,1.82,1.99
+2019,British Columbia,"Victoria, British Columbia",House only,100.92,126555.0,1254.01,15480.0,470.0,0011 - Legislators,153.39,703.7,135.98,135.97,1.94,2.05,2.01
+2021,Ontario,Ontario,Land only,116.33,152280.0,1309.03,22675.0,475.0,0011 - Legislators,194.92,751.98,141.61,141.61,3.4,2.91,2.65
+2017,British Columbia,"Kelowna, British Columbia",House only,101.92,108870.0,1068.19,10470.0,470.0,0011 - Legislators,102.73,585.46,130.42,130.43,1.6,1.44,1.63
+2020,Manitoba,Manitoba,Total (house and land),106.33,105815.0,995.16,7230.0,409.0,0012 - Senior government managers and officials,68.0,531.58,136.96,136.95,0.73,1.77,1.88
+2023,Quebec,Quebec,Land only,120.75,181960.0,1506.92,13935.0,482.0,0011 - Legislators,115.4,811.16,157.11,157.11,3.89,3.89,4.02
+2018,Quebec,"Trois-Rivières, Quebec",Land only,100.0,117625.0,1176.25,17045.0,482.0,0011 - Legislators,170.45,673.35,133.38,133.36,2.27,1.94,1.88
+2018,Alberta,Prairie Region,Land only,100.0,117625.0,1176.25,5060.0,436.0,0011 - Legislators,50.6,613.43,133.38,133.36,2.27,1.94,1.88
+2018,Saskatchewan,"Saskatoon, Saskatchewan",Land only,99.75,117625.0,1179.2,4790.0,386.0,0012 - Senior government managers and officials,48.02,613.61,133.38,133.36,2.27,1.94,1.88
+2018,Alberta,Alberta,House only,98.58,117625.0,1193.19,5060.0,436.0,0011 - Legislators,51.33,622.26,133.38,133.36,2.27,1.94,1.88
+2019,,Canada,Total (house and land),102.92,126555.0,1229.64,,,,,,135.98,135.97,1.94,2.05,2.01
+2019,Prince Edward Island,"Charlottetown, Prince Edward Island",Total (house and land),101.0,126555.0,1253.02,1490.0,250.0,0011 - Legislators,14.75,633.89,135.98,135.97,1.94,2.05,2.01
+2023,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,104.0,181960.0,1749.62,13935.0,482.0,0011 - Legislators,133.99,941.81,157.11,157.11,3.89,3.89,4.02
+2020,Nova Scotia,Atlantic Region,House only,102.75,105815.0,1029.83,4250.0,391.0,0012 - Senior government managers and officials,41.36,535.59,136.96,136.95,0.73,1.77,1.88
+2020,New Brunswick,New Brunswick,Total (house and land),103.17,105815.0,1025.64,2510.0,369.0,"0013 - Senior managers - financial, communications and other business services",24.33,524.99,136.96,136.95,0.73,1.77,1.88
+2021,Quebec,Quebec,Total (house and land),127.92,152280.0,1190.43,17550.0,482.0,0011 - Legislators,137.2,663.82,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"St. Catharines-Niagara, Ontario",Land only,122.33,168235.0,1375.26,29435.0,475.0,0011 - Legislators,240.62,807.94,151.24,151.24,6.8,5.25,4.84
+2023,Quebec,"Montréal, Quebec",Total (house and land),151.08,181960.0,1204.4,13935.0,482.0,0011 - Legislators,92.24,648.32,157.11,157.11,3.89,3.89,4.02
+2016,Nova Scotia,"Halifax, Nova Scotia",Land only,99.33,103720.0,1044.2,2955.0,391.0,0012 - Senior government managers and officials,29.75,536.98,128.37,128.38,1.44,1.82,1.99
+2016,Quebec,"Québec, Quebec",Total (house and land),99.5,103720.0,1042.41,12770.0,482.0,0011 - Legislators,128.34,585.38,128.37,128.38,1.44,1.82,1.99
+2016,Ontario,"St. Catharines-Niagara, Ontario",Total (house and land),97.0,103720.0,1069.28,25565.0,475.0,0011 - Legislators,263.56,666.42,128.37,128.38,1.44,1.82,1.99
+2022,Saskatchewan,"Regina, Saskatchewan",House only,101.83,168235.0,1652.12,8910.0,386.0,0012 - Senior government managers and officials,87.5,869.81,151.24,151.24,6.8,5.25,4.84
+2016,,Canada,Land only,98.5,103720.0,1052.99,,,,,,128.37,128.38,1.44,1.82,1.99
+2017,Prince Edward Island,Prince Edward Island,Total (house and land),99.83,108870.0,1090.55,730.0,250.0,0011 - Legislators,7.31,548.93,130.42,130.43,1.6,1.44,1.63
+2017,Nova Scotia,Nova Scotia,House only,100.42,108870.0,1084.15,2900.0,391.0,0012 - Senior government managers and officials,28.88,556.52,130.42,130.43,1.6,1.44,1.63
+2017,Nova Scotia,"Halifax, Nova Scotia",Total (house and land),100.25,108870.0,1085.99,2900.0,391.0,0012 - Senior government managers and officials,28.93,557.46,130.42,130.43,1.6,1.44,1.63
+2019,Newfoundland and Labrador,Newfoundland and Labrador,Total (house and land),97.17,126555.0,1302.41,1245.0,310.0,0012 - Senior government managers and officials,12.81,657.61,135.98,135.97,1.94,2.05,2.01
+2021,Saskatchewan,"Regina, Saskatchewan",Land only,98.5,152280.0,1545.99,6115.0,386.0,0012 - Senior government managers and officials,62.08,804.04,141.61,141.61,3.4,2.91,2.65
+2015,Nova Scotia,Nova Scotia,House only,98.42,96265.0,978.1,1970.0,391.0,0012 - Senior government managers and officials,20.02,499.06,126.57,126.56,1.13,1.63,1.77
+2015,Ontario,"London, Ontario",House only,95.58,96265.0,1007.17,23515.0,475.0,0011 - Legislators,246.02,626.6,126.57,126.56,1.13,1.63,1.77
+2018,Saskatchewan,"Regina, Saskatchewan",House only,97.83,117625.0,1202.34,4790.0,386.0,0012 - Senior government managers and officials,48.96,625.65,133.38,133.36,2.27,1.94,1.88
+2021,Quebec,Quebec,Land only,115.0,152280.0,1324.17,17550.0,482.0,0011 - Legislators,152.61,738.39,141.61,141.61,3.4,2.91,2.65
+2015,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,0.0,96265.0,,13220.0,482.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2016,British Columbia,"Victoria, British Columbia",House only,96.42,103720.0,1075.71,10115.0,470.0,0011 - Legislators,104.91,590.31,128.37,128.38,1.44,1.82,1.99
+2017,Saskatchewan,"Regina, Saskatchewan",House only,100.0,108870.0,1088.7,4950.0,386.0,0012 - Senior government managers and officials,49.5,569.1,130.42,130.43,1.6,1.44,1.63
+2018,Newfoundland and Labrador,Newfoundland and Labrador,Total (house and land),98.33,117625.0,1196.23,1100.0,310.0,0012 - Senior government managers and officials,11.19,603.71,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,"St. Catharines-Niagara, Ontario",House only,107.0,126555.0,1182.76,29875.0,475.0,0011 - Legislators,279.21,730.99,135.98,135.97,1.94,2.05,2.01
+2020,Prince Edward Island,Prince Edward Island,Land only,100.5,105815.0,1052.89,1185.0,250.0,0011 - Legislators,11.79,532.34,136.96,136.95,0.73,1.77,1.88
+2022,Prince Edward Island,"Charlottetown, Prince Edward Island",Total (house and land),121.25,168235.0,1387.51,2290.0,250.0,0011 - Legislators,18.89,703.2,151.24,151.24,6.8,5.25,4.84
+2022,Nova Scotia,Nova Scotia,House only,125.5,168235.0,1340.52,8140.0,391.0,0012 - Senior government managers and officials,64.86,702.69,151.24,151.24,6.8,5.25,4.84
+2022,Nova Scotia,"Halifax, Nova Scotia",Total (house and land),120.67,168235.0,1394.17,8140.0,391.0,0012 - Senior government managers and officials,67.46,730.82,151.24,151.24,6.8,5.25,4.84
+2022,Alberta,"Edmonton, Alberta",House only,111.42,168235.0,1509.92,5205.0,436.0,0011 - Legislators,46.72,778.32,151.24,151.24,6.8,5.25,4.84
+2023,Newfoundland and Labrador,Newfoundland and Labrador,Total (house and land),105.58,181960.0,1723.43,4520.0,310.0,0012 - Senior government managers and officials,42.81,883.12,157.11,157.11,3.89,3.89,4.02
+2023,Ontario,"Windsor, Ontario",Land only,133.17,181960.0,1366.37,29680.0,475.0,0011 - Legislators,222.87,794.62,157.11,157.11,3.89,3.89,4.02
+2019,Manitoba,"Winnipeg, Manitoba",House only,105.75,126555.0,1196.74,8615.0,409.0,0012 - Senior government managers and officials,81.47,639.11,135.98,135.97,1.94,2.05,2.01
+2020,Quebec,"Sherbrooke, Quebec",Land only,103.0,105815.0,1027.33,14745.0,482.0,0011 - Legislators,143.16,585.25,136.96,136.95,0.73,1.77,1.88
+2021,Quebec,"Québec, Quebec",Land only,105.25,152280.0,1446.84,17550.0,482.0,0011 - Legislators,166.75,806.8,141.61,141.61,3.4,2.91,2.65
+2023,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),157.17,181960.0,1157.73,29680.0,475.0,0011 - Legislators,188.84,673.29,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Greater Sudbury, Ontario",Total (house and land),98.67,96265.0,975.63,23515.0,475.0,0011 - Legislators,238.32,606.98,126.57,126.56,1.13,1.63,1.77
+2018,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Land only,99.5,117625.0,1182.16,1100.0,310.0,0012 - Senior government managers and officials,11.06,596.61,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"Windsor, Ontario",Land only,104.25,117625.0,1128.3,27435.0,475.0,0011 - Legislators,263.17,695.74,133.38,133.36,2.27,1.94,1.88
+2019,Quebec,Quebec,House only,106.25,126555.0,1191.11,22435.0,482.0,0011 - Legislators,211.15,701.13,135.98,135.97,1.94,2.05,2.01
+2015,British Columbia,"Victoria, British Columbia",House only,93.0,96265.0,1035.11,7465.0,470.0,0011 - Legislators,80.27,557.69,126.57,126.56,1.13,1.63,1.77
+2019,Saskatchewan,Saskatchewan,Land only,100.92,126555.0,1254.01,5215.0,386.0,0012 - Senior government managers and officials,51.67,652.84,135.98,135.97,1.94,2.05,2.01
+2022,Ontario,Ontario,Total (house and land),126.42,168235.0,1330.76,29435.0,475.0,0011 - Legislators,232.83,781.8,151.24,151.24,6.8,5.25,4.84
+2016,Ontario,"Hamilton, Ontario",House only,97.42,103720.0,1064.67,25565.0,475.0,0011 - Legislators,262.42,663.55,128.37,128.38,1.44,1.82,1.99
+2016,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",House only,96.58,103720.0,1073.93,25565.0,475.0,0011 - Legislators,264.7,669.32,128.37,128.38,1.44,1.82,1.99
+2018,Nova Scotia,Nova Scotia,Land only,99.83,117625.0,1178.25,3115.0,391.0,0012 - Senior government managers and officials,31.2,604.73,133.38,133.36,2.27,1.94,1.88
+2016,Ontario,"St. Catharines-Niagara, Ontario",House only,96.5,103720.0,1074.82,25565.0,475.0,0011 - Legislators,264.92,669.87,128.37,128.38,1.44,1.82,1.99
+2018,New Brunswick,New Brunswick,Total (house and land),100.67,117625.0,1168.42,1715.0,369.0,"0013 - Senior managers - financial, communications and other business services",17.04,592.73,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,"Guelph, Ontario",House only,105.83,126555.0,1195.83,29875.0,475.0,0011 - Legislators,282.29,739.06,135.98,135.97,1.94,2.05,2.01
+2020,British Columbia,"Victoria, British Columbia",House only,103.58,105815.0,1021.58,7240.0,470.0,0011 - Legislators,69.9,545.74,136.96,136.95,0.73,1.77,1.88
+2021,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",House only,102.67,152280.0,1483.2,1535.0,310.0,0012 - Senior government managers and officials,14.95,749.08,141.61,141.61,3.4,2.91,2.65
+2022,British Columbia,"Kelowna, British Columbia",Total (house and land),123.0,168235.0,1367.76,12545.0,470.0,0011 - Legislators,101.99,734.88,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Toronto, Ontario",Land only,117.0,181960.0,1555.21,29680.0,475.0,0011 - Legislators,253.68,904.45,157.11,157.11,3.89,3.89,4.02
+2023,Alberta,Prairie Region,Total (house and land),118.5,181960.0,1535.53,6605.0,436.0,0011 - Legislators,55.74,795.64,157.11,157.11,3.89,3.89,4.02
+2016,Ontario,"London, Ontario",House only,98.0,103720.0,1058.37,25565.0,475.0,0011 - Legislators,260.87,659.62,128.37,128.38,1.44,1.82,1.99
+2019,Ontario,"London, Ontario",Land only,101.58,126555.0,1245.87,29875.0,475.0,0011 - Legislators,294.1,769.98,135.98,135.97,1.94,2.05,2.01
+2019,Alberta,"Edmonton, Alberta",House only,96.75,126555.0,1308.06,5500.0,436.0,0011 - Legislators,56.85,682.45,135.98,135.97,1.94,2.05,2.01
+2020,Prince Edward Island,"Charlottetown, Prince Edward Island",Total (house and land),103.0,105815.0,1027.33,1185.0,250.0,0011 - Legislators,11.5,519.42,136.96,136.95,0.73,1.77,1.88
+2020,Ontario,"Guelph, Ontario",House only,112.0,105815.0,944.78,17775.0,475.0,0011 - Legislators,158.71,551.75,136.96,136.95,0.73,1.77,1.88
+2015,Quebec,"Québec, Quebec",Total (house and land),99.83,96265.0,964.29,13220.0,482.0,0011 - Legislators,132.43,548.36,126.57,126.56,1.13,1.63,1.77
+2015,Manitoba,Manitoba,House only,95.75,96265.0,1005.38,4105.0,409.0,0012 - Senior government managers and officials,42.87,524.13,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Land only,99.08,103720.0,1046.83,25565.0,475.0,0011 - Legislators,258.02,652.43,128.37,128.38,1.44,1.82,1.99
+2018,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,100.0,117625.0,1176.25,1715.0,369.0,"0013 - Senior managers - financial, communications and other business services",17.15,596.7,133.38,133.36,2.27,1.94,1.88
+2018,British Columbia,British Columbia,Land only,104.0,117625.0,1131.01,12395.0,470.0,0011 - Legislators,119.18,625.1,133.38,133.36,2.27,1.94,1.88
+2020,Quebec,"Trois-Rivières, Quebec",Total (house and land),104.17,105815.0,1015.79,14745.0,482.0,0011 - Legislators,141.55,578.67,136.96,136.95,0.73,1.77,1.88
+2021,Saskatchewan,"Saskatoon, Saskatchewan",Total (house and land),102.83,152280.0,1480.89,6115.0,386.0,0012 - Senior government managers and officials,59.47,770.18,141.61,141.61,3.4,2.91,2.65
+2023,Nova Scotia,Nova Scotia,Land only,103.0,181960.0,1766.6,6735.0,391.0,0012 - Senior government managers and officials,65.39,916.0,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,"Québec, Quebec",House only,100.17,96265.0,961.02,13220.0,482.0,0011 - Legislators,131.98,546.5,126.57,126.56,1.13,1.63,1.77
+2015,British Columbia,"Victoria, British Columbia",Total (house and land),94.83,96265.0,1015.13,7465.0,470.0,0011 - Legislators,78.72,546.93,126.57,126.56,1.13,1.63,1.77
+2017,Ontario,"Toronto, Ontario",Total (house and land),103.08,108870.0,1056.17,26770.0,475.0,0011 - Legislators,259.7,657.94,130.42,130.43,1.6,1.44,1.63
+2020,Alberta,Alberta,House only,95.0,105815.0,1113.84,6200.0,436.0,0011 - Legislators,65.26,589.55,136.96,136.95,0.73,1.77,1.88
+2021,Nova Scotia,Nova Scotia,Land only,103.0,152280.0,1478.45,7055.0,391.0,0012 - Senior government managers and officials,68.5,773.48,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,Ontario,House only,130.08,168235.0,1293.32,29435.0,475.0,0011 - Legislators,226.28,759.8,151.24,151.24,6.8,5.25,4.84
+2015,Ontario,"Windsor, Ontario",House only,95.0,96265.0,1013.32,23515.0,475.0,0011 - Legislators,247.53,630.43,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"Oshawa, Ontario",Total (house and land),8.33,103720.0,12451.38,25565.0,475.0,0011 - Legislators,3069.03,7760.21,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Toronto, Ontario",House only,102.08,108870.0,1066.52,26770.0,475.0,0011 - Legislators,262.25,664.39,130.42,130.43,1.6,1.44,1.63
+2017,British Columbia,"Vancouver, British Columbia",House only,104.83,108870.0,1038.54,10470.0,470.0,0011 - Legislators,99.88,569.21,130.42,130.43,1.6,1.44,1.63
+2019,Ontario,"Toronto, Ontario",Total (house and land),102.25,126555.0,1237.7,29875.0,475.0,0011 - Legislators,292.18,764.94,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"Guelph, Ontario",Total (house and land),105.25,126555.0,1202.42,29875.0,475.0,0011 - Legislators,283.85,743.14,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,Ontario,Total (house and land),107.08,105815.0,988.19,17775.0,475.0,0011 - Legislators,166.0,577.1,136.96,136.95,0.73,1.77,1.88
+2022,Manitoba,"Winnipeg, Manitoba",Land only,110.0,168235.0,1529.41,4250.0,409.0,0012 - Senior government managers and officials,38.64,784.03,151.24,151.24,6.8,5.25,4.84
+2017,Nova Scotia,"Halifax, Nova Scotia",Land only,99.25,108870.0,1096.93,2900.0,391.0,0012 - Senior government managers and officials,29.22,563.08,130.42,130.43,1.6,1.44,1.63
+2019,Ontario,"Hamilton, Ontario",Total (house and land),103.58,126555.0,1221.81,29875.0,475.0,0011 - Legislators,288.42,755.12,135.98,135.97,1.94,2.05,2.01
+2020,,Canada,Total (house and land),104.92,105815.0,1008.53,,,,,,136.96,136.95,0.73,1.77,1.88
+2020,British Columbia,"Kelowna, British Columbia",House only,106.25,105815.0,995.91,7240.0,470.0,0011 - Legislators,68.14,532.03,136.96,136.95,0.73,1.77,1.88
+2015,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),98.42,96265.0,978.1,23515.0,475.0,0011 - Legislators,238.93,608.52,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),98.92,103720.0,1048.52,25565.0,475.0,0011 - Legislators,258.44,653.48,128.37,128.38,1.44,1.82,1.99
+2018,Ontario,"Hamilton, Ontario",Land only,100.25,117625.0,1173.32,27435.0,475.0,0011 - Legislators,273.67,723.5,133.38,133.36,2.27,1.94,1.88
+2020,Newfoundland and Labrador,Newfoundland and Labrador,Land only,99.0,105815.0,1068.84,985.0,310.0,0012 - Senior government managers and officials,9.95,539.4,136.96,136.95,0.73,1.77,1.88
+2020,Quebec,"Québec, Quebec",Total (house and land),101.58,105815.0,1041.69,14745.0,482.0,0011 - Legislators,145.16,593.43,136.96,136.95,0.73,1.77,1.88
+2022,Ontario,"Greater Sudbury, Ontario",Land only,118.58,168235.0,1418.75,29435.0,475.0,0011 - Legislators,248.23,833.49,151.24,151.24,6.8,5.25,4.84
+2023,Quebec,"Trois-Rivières, Quebec",House only,112.17,181960.0,1622.18,13935.0,482.0,0011 - Legislators,124.23,873.21,157.11,157.11,3.89,3.89,4.02
+2016,Ontario,"Guelph, Ontario",Land only,8.33,103720.0,12451.38,25565.0,475.0,0011 - Legislators,3069.03,7760.21,128.37,128.38,1.44,1.82,1.99
+2017,Quebec,"Québec, Quebec",Land only,100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2020,Nova Scotia,Atlantic Region,Land only,100.92,105815.0,1048.5,4250.0,391.0,0012 - Senior government managers and officials,42.11,545.31,136.96,136.95,0.73,1.77,1.88
+2020,Quebec,"Québec, Quebec",House only,101.67,105815.0,1040.77,14745.0,482.0,0011 - Legislators,145.03,592.9,136.96,136.95,0.73,1.77,1.88
+2020,Ontario,"Guelph, Ontario",Land only,106.08,105815.0,997.5,17775.0,475.0,0011 - Legislators,167.56,582.53,136.96,136.95,0.73,1.77,1.88
+2021,British Columbia,British Columbia,Total (house and land),119.5,152280.0,1274.31,9615.0,470.0,0011 - Legislators,80.46,677.39,141.61,141.61,3.4,2.91,2.65
+2022,Manitoba,"Winnipeg, Manitoba",House only,155.42,168235.0,1082.45,4250.0,409.0,0012 - Senior government managers and officials,27.35,554.9,151.24,151.24,6.8,5.25,4.84
+2023,British Columbia,"Vancouver, British Columbia",Total (house and land),127.67,181960.0,1425.24,13760.0,470.0,0011 - Legislators,107.78,766.51,157.11,157.11,3.89,3.89,4.02
+2015,Nova Scotia,Nova Scotia,Land only,98.92,96265.0,973.16,1970.0,391.0,0012 - Senior government managers and officials,19.92,496.54,126.57,126.56,1.13,1.63,1.77
+2015,Ontario,"St. Catharines-Niagara, Ontario",Land only,98.0,96265.0,982.3,23515.0,475.0,0011 - Legislators,239.95,611.13,126.57,126.56,1.13,1.63,1.77
+2017,British Columbia,British Columbia,House only,104.17,108870.0,1045.12,10470.0,470.0,0011 - Legislators,100.51,572.81,130.42,130.43,1.6,1.44,1.63
+2018,Manitoba,Manitoba,House only,104.67,117625.0,1123.77,8325.0,409.0,0012 - Senior government managers and officials,79.54,601.66,133.38,133.36,2.27,1.94,1.88
+2018,British Columbia,"Vancouver, British Columbia",Total (house and land),108.25,117625.0,1086.61,12395.0,470.0,0011 - Legislators,114.5,600.56,133.38,133.36,2.27,1.94,1.88
+2022,Prince Edward Island,Prince Edward Island,Land only,103.83,168235.0,1620.29,2290.0,250.0,0011 - Legislators,22.06,821.18,151.24,151.24,6.8,5.25,4.84
+2016,Nova Scotia,Nova Scotia,Total (house and land),98.83,103720.0,1049.48,2955.0,391.0,0012 - Senior government managers and officials,29.9,539.69,128.37,128.38,1.44,1.82,1.99
+2016,Ontario,"Windsor, Ontario",Total (house and land),96.75,103720.0,1072.04,25565.0,475.0,0011 - Legislators,264.24,668.14,128.37,128.38,1.44,1.82,1.99
+2020,British Columbia,British Columbia,Total (house and land),107.67,105815.0,982.77,7240.0,470.0,0011 - Legislators,67.24,525.01,136.96,136.95,0.73,1.77,1.88
+2023,Ontario,"Toronto, Ontario",Total (house and land),114.75,181960.0,1585.71,29680.0,475.0,0011 - Legislators,258.65,922.18,157.11,157.11,3.89,3.89,4.02
+2016,Ontario,"Hamilton, Ontario",Land only,100.0,103720.0,1037.2,25565.0,475.0,0011 - Legislators,255.65,646.43,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",House only,101.83,108870.0,1069.13,26770.0,475.0,0011 - Legislators,262.89,666.01,130.42,130.43,1.6,1.44,1.63
+2018,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",House only,102.67,117625.0,1145.66,27435.0,475.0,0011 - Legislators,267.22,706.44,133.38,133.36,2.27,1.94,1.88
+2020,Nova Scotia,Nova Scotia,Land only,101.67,105815.0,1040.77,4250.0,391.0,0012 - Senior government managers and officials,41.8,541.29,136.96,136.95,0.73,1.77,1.88
+2020,Manitoba,"Winnipeg, Manitoba",Total (house and land),106.33,105815.0,995.16,7230.0,409.0,0012 - Senior government managers and officials,68.0,531.58,136.96,136.95,0.73,1.77,1.88
+2021,Saskatchewan,"Saskatoon, Saskatchewan",House only,103.5,152280.0,1471.3,6115.0,386.0,0012 - Senior government managers and officials,59.08,765.19,141.61,141.61,3.4,2.91,2.65
+2017,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2018,Newfoundland and Labrador,Newfoundland and Labrador,Land only,99.5,117625.0,1182.16,1100.0,310.0,0012 - Senior government managers and officials,11.06,596.61,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,"London, Ontario",Total (house and land),112.75,126555.0,1122.44,29875.0,475.0,0011 - Legislators,264.97,693.71,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Greater Sudbury, Ontario",Total (house and land),102.67,105815.0,1030.63,17775.0,475.0,0011 - Legislators,173.13,601.88,136.96,136.95,0.73,1.77,1.88
+2020,Alberta,"Edmonton, Alberta",House only,95.92,105815.0,1103.16,6200.0,436.0,0011 - Legislators,64.64,583.9,136.96,136.95,0.73,1.77,1.88
+2023,Quebec,"Sherbrooke, Quebec",Land only,105.5,181960.0,1724.74,13935.0,482.0,0011 - Legislators,132.09,928.42,157.11,157.11,3.89,3.89,4.02
+2023,Alberta,Prairie Region,House only,124.58,181960.0,1460.59,6605.0,436.0,0011 - Legislators,53.02,756.81,157.11,157.11,3.89,3.89,4.02
+2016,Newfoundland and Labrador,Newfoundland and Labrador,Land only,99.67,103720.0,1040.63,1180.0,310.0,0012 - Senior government managers and officials,11.84,526.24,128.37,128.38,1.44,1.82,1.99
+2016,Ontario,"Guelph, Ontario",House only,8.33,103720.0,12451.38,25565.0,475.0,0011 - Legislators,3069.03,7760.21,128.37,128.38,1.44,1.82,1.99
+2019,Nova Scotia,Atlantic Region,Total (house and land),100.0,126555.0,1265.55,4485.0,391.0,0012 - Senior government managers and officials,44.85,655.2,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"Greater Sudbury, Ontario",Land only,100.42,126555.0,1260.26,29875.0,475.0,0011 - Legislators,297.5,778.88,135.98,135.97,1.94,2.05,2.01
+2020,Saskatchewan,"Saskatoon, Saskatchewan",Total (house and land),96.08,105815.0,1101.32,4500.0,386.0,0012 - Senior government managers and officials,46.84,574.08,136.96,136.95,0.73,1.77,1.88
+2023,Ontario,"Windsor, Ontario",House only,146.33,181960.0,1243.49,29680.0,475.0,0011 - Legislators,202.83,723.16,157.11,157.11,3.89,3.89,4.02
+2019,Quebec,"Montréal, Quebec",Total (house and land),106.92,126555.0,1183.64,22435.0,482.0,0011 - Legislators,209.83,696.74,135.98,135.97,1.94,2.05,2.01
+2020,Prince Edward Island,"Charlottetown, Prince Edward Island",House only,103.67,105815.0,1020.69,1185.0,250.0,0011 - Legislators,11.43,516.06,136.96,136.95,0.73,1.77,1.88
+2022,New Brunswick,New Brunswick,House only,120.25,168235.0,1399.04,5690.0,369.0,"0013 - Senior managers - financial, communications and other business services",47.32,723.18,151.24,151.24,6.8,5.25,4.84
+2022,British Columbia,"Victoria, British Columbia",Land only,110.25,168235.0,1525.94,12545.0,470.0,0011 - Legislators,113.79,819.87,151.24,151.24,6.8,5.25,4.84
+2023,Saskatchewan,"Saskatoon, Saskatchewan",Land only,94.08,181960.0,1934.1,7140.0,386.0,0012 - Senior government managers and officials,75.89,1005.0,157.11,157.11,3.89,3.89,4.02
+2023,British Columbia,"Vancouver, British Columbia",Land only,121.08,181960.0,1502.81,13760.0,470.0,0011 - Legislators,113.64,808.23,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Greater Sudbury, Ontario",Land only,99.0,96265.0,972.37,23515.0,475.0,0011 - Legislators,237.53,604.95,126.57,126.56,1.13,1.63,1.77
+2017,Prince Edward Island,"Charlottetown, Prince Edward Island",Total (house and land),99.83,108870.0,1090.55,730.0,250.0,0011 - Legislators,7.31,548.93,130.42,130.43,1.6,1.44,1.63
+2017,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Land only,103.42,108870.0,1052.7,26770.0,475.0,0011 - Legislators,258.85,655.78,130.42,130.43,1.6,1.44,1.63
+2017,Saskatchewan,Saskatchewan,Total (house and land),99.25,108870.0,1096.93,4950.0,386.0,0012 - Senior government managers and officials,49.87,573.4,130.42,130.43,1.6,1.44,1.63
+2020,Manitoba,"Winnipeg, Manitoba",Land only,102.83,105815.0,1029.03,7230.0,409.0,0012 - Senior government managers and officials,70.31,549.67,136.96,136.95,0.73,1.77,1.88
+2020,Saskatchewan,"Regina, Saskatchewan",Total (house and land),92.17,105815.0,1148.04,4500.0,386.0,0012 - Senior government managers and officials,48.82,598.43,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"Toronto, Ontario",Total (house and land),110.08,152280.0,1383.36,22675.0,475.0,0011 - Legislators,205.99,794.68,141.61,141.61,3.4,2.91,2.65
+2021,Manitoba,Manitoba,Land only,106.67,152280.0,1427.58,7220.0,409.0,0012 - Senior government managers and officials,67.69,747.64,141.61,141.61,3.4,2.91,2.65
+2021,Alberta,"Calgary, Alberta",House only,106.0,152280.0,1436.6,3710.0,436.0,0011 - Legislators,35.0,735.8,141.61,141.61,3.4,2.91,2.65
+2023,Alberta,"Edmonton, Alberta",Land only,101.67,181960.0,1789.71,6605.0,436.0,0011 - Legislators,64.97,927.34,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,"Montréal, Quebec",Land only,98.83,96265.0,974.05,13220.0,482.0,0011 - Legislators,133.77,553.91,126.57,126.56,1.13,1.63,1.77
+2015,Ontario,"Guelph, Ontario",Total (house and land),0.0,96265.0,,23515.0,475.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2015,Saskatchewan,Saskatchewan,House only,102.33,96265.0,940.73,4945.0,386.0,0012 - Senior government managers and officials,48.32,494.53,126.57,126.56,1.13,1.63,1.77
+2016,Prince Edward Island,"Charlottetown, Prince Edward Island",Land only,99.75,103720.0,1039.8,610.0,250.0,0011 - Legislators,6.12,522.96,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Oshawa, Ontario",Land only,103.33,108870.0,1053.61,26770.0,475.0,0011 - Legislators,259.07,656.34,130.42,130.43,1.6,1.44,1.63
+2019,Quebec,"Québec, Quebec",Total (house and land),100.0,126555.0,1265.55,22435.0,482.0,0011 - Legislators,224.35,744.95,135.98,135.97,1.94,2.05,2.01
+2021,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Total (house and land),101.67,152280.0,1497.79,1535.0,310.0,0012 - Senior government managers and officials,15.1,756.44,141.61,141.61,3.4,2.91,2.65
+2022,Alberta,Alberta,House only,120.67,168235.0,1394.17,5205.0,436.0,0011 - Legislators,43.13,718.65,151.24,151.24,6.8,5.25,4.84
+2016,Ontario,"Greater Sudbury, Ontario",Total (house and land),99.17,103720.0,1045.88,25565.0,475.0,0011 - Legislators,257.79,651.84,128.37,128.38,1.44,1.82,1.99
+2016,Ontario,"Greater Sudbury, Ontario",House only,98.67,103720.0,1051.18,25565.0,475.0,0011 - Legislators,259.1,655.14,128.37,128.38,1.44,1.82,1.99
+2017,Nova Scotia,Nova Scotia,Land only,99.25,108870.0,1096.93,2900.0,391.0,0012 - Senior government managers and officials,29.22,563.08,130.42,130.43,1.6,1.44,1.63
+2017,British Columbia,"Kelowna, British Columbia",Total (house and land),101.25,108870.0,1075.26,10470.0,470.0,0011 - Legislators,103.41,589.34,130.42,130.43,1.6,1.44,1.63
+2018,Alberta,"Calgary, Alberta",House only,98.58,117625.0,1193.19,5060.0,436.0,0011 - Legislators,51.33,622.26,133.38,133.36,2.27,1.94,1.88
+2019,Prince Edward Island,"Charlottetown, Prince Edward Island",Land only,100.0,126555.0,1265.55,1490.0,250.0,0011 - Legislators,14.9,640.23,135.98,135.97,1.94,2.05,2.01
+2020,Prince Edward Island,Prince Edward Island,House only,103.67,105815.0,1020.69,1185.0,250.0,0011 - Legislators,11.43,516.06,136.96,136.95,0.73,1.77,1.88
+2022,Alberta,"Calgary, Alberta",Land only,106.67,168235.0,1577.15,5205.0,436.0,0011 - Legislators,48.8,812.98,151.24,151.24,6.8,5.25,4.84
+2015,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",House only,99.83,96265.0,964.29,930.0,310.0,0012 - Senior government managers and officials,9.32,486.81,126.57,126.56,1.13,1.63,1.77
+2016,Saskatchewan,Saskatchewan,Land only,99.42,103720.0,1043.25,6020.0,386.0,0012 - Senior government managers and officials,60.55,551.9,128.37,128.38,1.44,1.82,1.99
+2017,Quebec,"Montréal, Quebec",House only,100.5,108870.0,1083.28,15475.0,482.0,0011 - Legislators,153.98,618.63,130.42,130.43,1.6,1.44,1.63
+2017,Ontario,Ontario,House only,102.08,108870.0,1066.52,26770.0,475.0,0011 - Legislators,262.25,664.39,130.42,130.43,1.6,1.44,1.63
+2017,Ontario,"Hamilton, Ontario",Total (house and land),101.92,108870.0,1068.19,26770.0,475.0,0011 - Legislators,262.66,665.43,130.42,130.43,1.6,1.44,1.63
+2019,Quebec,"Trois-Rivières, Quebec",House only,101.75,126555.0,1243.78,22435.0,482.0,0011 - Legislators,220.49,732.14,135.98,135.97,1.94,2.05,2.01
+2021,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),114.0,152280.0,1335.79,17550.0,482.0,0011 - Legislators,153.95,744.87,141.61,141.61,3.4,2.91,2.65
+2022,Prince Edward Island,"Charlottetown, Prince Edward Island",Land only,103.83,168235.0,1620.29,2290.0,250.0,0011 - Legislators,22.06,821.18,151.24,151.24,6.8,5.25,4.84
+2022,Ontario,"Guelph, Ontario",House only,134.0,168235.0,1255.49,29435.0,475.0,0011 - Legislators,219.66,737.58,151.24,151.24,6.8,5.25,4.84
+2023,Prince Edward Island,"Charlottetown, Prince Edward Island",House only,127.0,181960.0,1432.76,3435.0,250.0,0011 - Legislators,27.05,729.91,157.11,157.11,3.89,3.89,4.02
+2023,Manitoba,"Winnipeg, Manitoba",Land only,109.92,181960.0,1655.39,1145.0,409.0,0012 - Senior government managers and officials,10.42,832.91,157.11,157.11,3.89,3.89,4.02
+2023,Alberta,"Calgary, Alberta",Total (house and land),125.75,181960.0,1447.0,6605.0,436.0,0011 - Legislators,52.52,749.76,157.11,157.11,3.89,3.89,4.02
+2015,Newfoundland and Labrador,Newfoundland and Labrador,Total (house and land),99.5,96265.0,967.49,930.0,310.0,0012 - Senior government managers and officials,9.35,488.42,126.57,126.56,1.13,1.63,1.77
+2015,British Columbia,British Columbia,Land only,99.0,96265.0,972.37,7465.0,470.0,0011 - Legislators,75.4,523.89,126.57,126.56,1.13,1.63,1.77
+2021,British Columbia,British Columbia,House only,118.25,152280.0,1287.78,9615.0,470.0,0011 - Legislators,81.31,684.55,141.61,141.61,3.4,2.91,2.65
+2017,Ontario,Ontario,Land only,104.67,108870.0,1040.13,26770.0,475.0,0011 - Legislators,255.76,647.95,130.42,130.43,1.6,1.44,1.63
+2017,Saskatchewan,Saskatchewan,Land only,99.58,108870.0,1093.29,4950.0,386.0,0012 - Senior government managers and officials,49.71,571.5,130.42,130.43,1.6,1.44,1.63
+2018,Nova Scotia,"Halifax, Nova Scotia",Total (house and land),101.17,117625.0,1162.65,3115.0,391.0,0012 - Senior government managers and officials,30.79,596.72,133.38,133.36,2.27,1.94,1.88
+2020,Quebec,"Trois-Rivières, Quebec",House only,104.58,105815.0,1011.81,14745.0,482.0,0011 - Legislators,140.99,576.4,136.96,136.95,0.73,1.77,1.88
+2020,Alberta,"Calgary, Alberta",Total (house and land),96.42,105815.0,1097.44,6200.0,436.0,0011 - Legislators,64.3,580.87,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"Guelph, Ontario",Total (house and land),121.17,152280.0,1256.75,22675.0,475.0,0011 - Legislators,187.13,721.94,141.61,141.61,3.4,2.91,2.65
+2023,British Columbia,"Victoria, British Columbia",Total (house and land),120.58,181960.0,1509.04,13760.0,470.0,0011 - Legislators,114.12,811.58,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Oshawa, Ontario",Land only,0.0,96265.0,,23515.0,475.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2015,British Columbia,"Kelowna, British Columbia",Land only,0.0,96265.0,,7465.0,470.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2016,Quebec,Quebec,Total (house and land),99.33,103720.0,1044.2,12770.0,482.0,0011 - Legislators,128.56,586.38,128.37,128.38,1.44,1.82,1.99
+2016,Manitoba,Manitoba,Land only,99.17,103720.0,1045.88,6310.0,409.0,0012 - Senior government managers and officials,63.63,554.76,128.37,128.38,1.44,1.82,1.99
+2016,British Columbia,British Columbia,Total (house and land),98.5,103720.0,1052.99,10115.0,470.0,0011 - Legislators,102.69,577.84,128.37,128.38,1.44,1.82,1.99
+2018,Alberta,Alberta,Total (house and land),99.08,117625.0,1187.17,5060.0,436.0,0011 - Legislators,51.07,619.12,133.38,133.36,2.27,1.94,1.88
+2020,Alberta,"Edmonton, Alberta",Total (house and land),97.17,105815.0,1088.97,6200.0,436.0,0011 - Legislators,63.81,576.39,136.96,136.95,0.73,1.77,1.88
+2022,Alberta,Alberta,Total (house and land),116.0,168235.0,1450.3,5205.0,436.0,0011 - Legislators,44.87,747.58,151.24,151.24,6.8,5.25,4.84
+2023,Saskatchewan,Saskatchewan,House only,109.83,181960.0,1656.74,7140.0,386.0,0012 - Senior government managers and officials,65.01,860.88,157.11,157.11,3.89,3.89,4.02
+2016,British Columbia,British Columbia,Land only,99.25,103720.0,1045.04,10115.0,470.0,0011 - Legislators,101.91,573.48,128.37,128.38,1.44,1.82,1.99
+2018,Nova Scotia,Nova Scotia,Total (house and land),101.17,117625.0,1162.65,3115.0,391.0,0012 - Senior government managers and officials,30.79,596.72,133.38,133.36,2.27,1.94,1.88
+2018,British Columbia,"Victoria, British Columbia",House only,102.83,117625.0,1143.88,12395.0,470.0,0011 - Legislators,120.54,632.21,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,Ontario,Total (house and land),104.33,126555.0,1213.03,29875.0,475.0,0011 - Legislators,286.35,749.69,135.98,135.97,1.94,2.05,2.01
+2015,Nova Scotia,"Halifax, Nova Scotia",Land only,98.92,96265.0,973.16,1970.0,391.0,0012 - Senior government managers and officials,19.92,496.54,126.57,126.56,1.13,1.63,1.77
+2020,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),111.5,105815.0,949.01,17775.0,475.0,0011 - Legislators,159.42,554.22,136.96,136.95,0.73,1.77,1.88
+2021,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",House only,111.08,152280.0,1370.9,4175.0,369.0,"0013 - Senior managers - financial, communications and other business services",37.59,704.25,141.61,141.61,3.4,2.91,2.65
+2023,British Columbia,British Columbia,House only,126.25,181960.0,1441.27,13760.0,470.0,0011 - Legislators,108.99,775.13,157.11,157.11,3.89,3.89,4.02
+2016,Quebec,"Québec, Quebec",House only,99.5,103720.0,1042.41,12770.0,482.0,0011 - Legislators,128.34,585.38,128.37,128.38,1.44,1.82,1.99
+2016,Ontario,"St. Catharines-Niagara, Ontario",Land only,98.42,103720.0,1053.85,25565.0,475.0,0011 - Legislators,259.75,656.8,128.37,128.38,1.44,1.82,1.99
+2017,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2022,Ontario,"Toronto, Ontario",House only,113.75,168235.0,1478.99,29435.0,475.0,0011 - Legislators,258.77,868.88,151.24,151.24,6.8,5.25,4.84
+2022,Ontario,"Toronto, Ontario",Land only,117.0,168235.0,1437.91,29435.0,475.0,0011 - Legislators,251.58,844.75,151.24,151.24,6.8,5.25,4.84
+2015,Ontario,"Toronto, Ontario",House only,88.08,96265.0,1092.93,23515.0,475.0,0011 - Legislators,266.97,679.95,126.57,126.56,1.13,1.63,1.77
+2016,,Canada,Total (house and land),98.25,103720.0,1055.67,,,,,,128.37,128.38,1.44,1.82,1.99
+2016,Nova Scotia,Nova Scotia,House only,98.67,103720.0,1051.18,2955.0,391.0,0012 - Senior government managers and officials,29.95,540.57,128.37,128.38,1.44,1.82,1.99
+2016,Manitoba,"Winnipeg, Manitoba",Total (house and land),98.42,103720.0,1053.85,6310.0,409.0,0012 - Senior government managers and officials,64.11,558.98,128.37,128.38,1.44,1.82,1.99
+2016,Manitoba,"Winnipeg, Manitoba",Land only,99.17,103720.0,1045.88,6310.0,409.0,0012 - Senior government managers and officials,63.63,554.76,128.37,128.38,1.44,1.82,1.99
+2020,Ontario,"Guelph, Ontario",Total (house and land),109.92,105815.0,962.65,17775.0,475.0,0011 - Legislators,161.71,562.18,136.96,136.95,0.73,1.77,1.88
+2022,Alberta,Prairie Region,House only,123.5,168235.0,1362.23,5205.0,436.0,0011 - Legislators,42.15,702.19,151.24,151.24,6.8,5.25,4.84
+2019,Newfoundland and Labrador,Newfoundland and Labrador,Land only,99.58,126555.0,1270.89,1245.0,310.0,0012 - Senior government managers and officials,12.5,641.7,135.98,135.97,1.94,2.05,2.01
+2021,Alberta,"Calgary, Alberta",Total (house and land),105.17,152280.0,1447.94,3710.0,436.0,0011 - Legislators,35.28,741.61,141.61,141.61,3.4,2.91,2.65
+2022,British Columbia,"Victoria, British Columbia",House only,131.08,168235.0,1283.45,12545.0,470.0,0011 - Legislators,95.7,689.58,151.24,151.24,6.8,5.25,4.84
+2015,Nova Scotia,"Halifax, Nova Scotia",House only,98.42,96265.0,978.1,1970.0,391.0,0012 - Senior government managers and officials,20.02,499.06,126.57,126.56,1.13,1.63,1.77
+2017,Prince Edward Island,Prince Edward Island,Land only,100.0,108870.0,1088.7,730.0,250.0,0011 - Legislators,7.3,548.0,130.42,130.43,1.6,1.44,1.63
+2018,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,100.42,117625.0,1171.33,17045.0,482.0,0011 - Legislators,169.74,670.54,133.38,133.36,2.27,1.94,1.88
+2019,New Brunswick,New Brunswick,House only,101.17,126555.0,1250.91,2225.0,369.0,"0013 - Senior managers - financial, communications and other business services",21.99,636.45,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"Windsor, Ontario",House only,106.25,126555.0,1191.11,29875.0,475.0,0011 - Legislators,281.18,736.15,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"St. Catharines-Niagara, Ontario",Land only,108.58,105815.0,974.53,17775.0,475.0,0011 - Legislators,163.7,569.12,136.96,136.95,0.73,1.77,1.88
+2021,British Columbia,"Vancouver, British Columbia",Total (house and land),120.17,152280.0,1267.2,9615.0,470.0,0011 - Legislators,80.01,673.61,141.61,141.61,3.4,2.91,2.65
+2022,Saskatchewan,Saskatchewan,Land only,99.17,168235.0,1696.43,8910.0,386.0,0012 - Senior government managers and officials,89.85,893.14,151.24,151.24,6.8,5.25,4.84
+2022,British Columbia,"Vancouver, British Columbia",Land only,121.0,168235.0,1390.37,12545.0,470.0,0011 - Legislators,103.68,747.03,151.24,151.24,6.8,5.25,4.84
+2023,,Canada,House only,127.67,181960.0,1425.24,,,,,,157.11,157.11,3.89,3.89,4.02
+2023,British Columbia,British Columbia,Land only,119.42,181960.0,1523.7,13760.0,470.0,0011 - Legislators,115.22,819.46,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,Quebec,House only,98.25,96265.0,979.8,13220.0,482.0,0011 - Legislators,134.55,557.18,126.57,126.56,1.13,1.63,1.77
+2017,Alberta,"Calgary, Alberta",House only,99.5,108870.0,1094.17,5980.0,436.0,0011 - Legislators,60.1,577.14,130.42,130.43,1.6,1.44,1.63
+2019,Ontario,Ontario,Land only,106.5,126555.0,1188.31,29875.0,475.0,0011 - Legislators,280.52,734.42,135.98,135.97,1.94,2.05,2.01
+2019,Manitoba,Manitoba,Total (house and land),104.17,126555.0,1214.89,8615.0,409.0,0012 - Senior government managers and officials,82.7,648.8,135.98,135.97,1.94,2.05,2.01
+2020,Quebec,"Sherbrooke, Quebec",Total (house and land),103.5,105815.0,1022.37,14745.0,482.0,0011 - Legislators,142.46,582.42,136.96,136.95,0.73,1.77,1.88
+2021,British Columbia,"Vancouver, British Columbia",House only,118.17,152280.0,1288.65,9615.0,470.0,0011 - Legislators,81.37,685.01,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"Greater Sudbury, Ontario",House only,121.5,168235.0,1384.65,29435.0,475.0,0011 - Legislators,242.26,813.46,151.24,151.24,6.8,5.25,4.84
+2016,New Brunswick,New Brunswick,Total (house and land),98.58,103720.0,1052.14,1285.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.04,532.59,128.37,128.38,1.44,1.82,1.99
+2018,Ontario,"Greater Sudbury, Ontario",Total (house and land),99.83,117625.0,1178.25,27435.0,475.0,0011 - Legislators,274.82,726.54,133.38,133.36,2.27,1.94,1.88
+2019,,Canada,Land only,104.0,126555.0,1216.88,,,,,,135.98,135.97,1.94,2.05,2.01
+2018,Prince Edward Island,Prince Edward Island,House only,99.92,117625.0,1177.19,1080.0,250.0,0011 - Legislators,10.81,594.0,133.38,133.36,2.27,1.94,1.88
+2018,New Brunswick,New Brunswick,House only,100.75,117625.0,1167.49,1715.0,369.0,"0013 - Senior managers - financial, communications and other business services",17.02,592.26,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),103.0,117625.0,1141.99,27435.0,475.0,0011 - Legislators,266.36,704.18,133.38,133.36,2.27,1.94,1.88
+2022,Quebec,"Sherbrooke, Quebec",Land only,104.0,168235.0,1617.64,17755.0,482.0,0011 - Legislators,170.72,894.18,151.24,151.24,6.8,5.25,4.84
+2022,Ontario,"Guelph, Ontario",Total (house and land),124.0,168235.0,1356.73,29435.0,475.0,0011 - Legislators,237.38,797.06,151.24,151.24,6.8,5.25,4.84
+2022,Ontario,"Guelph, Ontario",Land only,108.0,168235.0,1557.73,29435.0,475.0,0011 - Legislators,272.55,915.14,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"St. Catharines-Niagara, Ontario",House only,129.5,181960.0,1405.1,29680.0,475.0,0011 - Legislators,229.19,817.15,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"London, Ontario",Total (house and land),96.0,96265.0,1002.76,23515.0,475.0,0011 - Legislators,244.95,623.86,126.57,126.56,1.13,1.63,1.77
+2018,Nova Scotia,Nova Scotia,House only,101.75,117625.0,1156.02,3115.0,391.0,0012 - Senior government managers and officials,30.61,593.31,133.38,133.36,2.27,1.94,1.88
+2022,Quebec,"Montréal, Quebec",Total (house and land),150.0,168235.0,1121.57,17755.0,482.0,0011 - Legislators,118.37,619.97,151.24,151.24,6.8,5.25,4.84
+2015,Manitoba,"Winnipeg, Manitoba",Land only,98.58,96265.0,976.52,4105.0,409.0,0012 - Senior government managers and officials,41.64,509.08,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"Windsor, Ontario",House only,96.67,103720.0,1072.93,25565.0,475.0,0011 - Legislators,264.46,668.7,128.37,128.38,1.44,1.82,1.99
+2017,British Columbia,British Columbia,Land only,102.58,108870.0,1061.32,10470.0,470.0,0011 - Legislators,102.07,581.69,130.42,130.43,1.6,1.44,1.63
+2018,Nova Scotia,Atlantic Region,House only,99.83,117625.0,1178.25,3115.0,391.0,0012 - Senior government managers and officials,31.2,604.73,133.38,133.36,2.27,1.94,1.88
+2018,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Total (house and land),98.33,117625.0,1196.23,1100.0,310.0,0012 - Senior government managers and officials,11.19,603.71,133.38,133.36,2.27,1.94,1.88
+2019,Nova Scotia,Atlantic Region,Land only,99.92,126555.0,1266.56,4485.0,391.0,0012 - Senior government managers and officials,44.89,655.73,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"St. Catharines-Niagara, Ontario",Total (house and land),110.25,105815.0,959.77,17775.0,475.0,0011 - Legislators,161.22,560.5,136.96,136.95,0.73,1.77,1.88
+2020,Alberta,Alberta,Land only,100.0,105815.0,1058.15,6200.0,436.0,0011 - Legislators,62.0,560.08,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"Guelph, Ontario",House only,129.67,152280.0,1174.37,22675.0,475.0,0011 - Legislators,174.87,674.62,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"Oshawa, Ontario",Land only,114.0,168235.0,1475.75,29435.0,475.0,0011 - Legislators,258.2,866.98,151.24,151.24,6.8,5.25,4.84
+2022,Ontario,"London, Ontario",Total (house and land),146.83,168235.0,1145.78,29435.0,475.0,0011 - Legislators,200.47,673.13,151.24,151.24,6.8,5.25,4.84
+2023,Alberta,Prairie Region,Land only,105.5,181960.0,1724.74,6605.0,436.0,0011 - Legislators,62.61,893.68,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,"Montréal, Quebec",Total (house and land),98.17,96265.0,980.59,13220.0,482.0,0011 - Legislators,134.66,557.63,126.57,126.56,1.13,1.63,1.77
+2016,Quebec,Quebec,Land only,99.33,103720.0,1044.2,12770.0,482.0,0011 - Legislators,128.56,586.38,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Greater Sudbury, Ontario",Land only,99.25,108870.0,1096.93,26770.0,475.0,0011 - Legislators,269.72,683.33,130.42,130.43,1.6,1.44,1.63
+2018,Ontario,Ontario,Land only,106.0,117625.0,1109.67,27435.0,475.0,0011 - Legislators,258.82,684.25,133.38,133.36,2.27,1.94,1.88
+2021,Alberta,Prairie Region,House only,106.17,152280.0,1434.3,3710.0,436.0,0011 - Legislators,34.94,734.62,141.61,141.61,3.4,2.91,2.65
+2023,Newfoundland and Labrador,Newfoundland and Labrador,Land only,102.0,181960.0,1783.92,4520.0,310.0,0012 - Senior government managers and officials,44.31,914.12,157.11,157.11,3.89,3.89,4.02
+2017,Ontario,"Greater Sudbury, Ontario",Total (house and land),99.0,108870.0,1099.7,26770.0,475.0,0011 - Legislators,270.4,685.05,130.42,130.43,1.6,1.44,1.63
+2018,Quebec,"Sherbrooke, Quebec",House only,99.75,117625.0,1179.2,17045.0,482.0,0011 - Legislators,170.88,675.04,133.38,133.36,2.27,1.94,1.88
+2020,Nova Scotia,"Halifax, Nova Scotia",Land only,101.67,105815.0,1040.77,4250.0,391.0,0012 - Senior government managers and officials,41.8,541.29,136.96,136.95,0.73,1.77,1.88
+2022,Ontario,"London, Ontario",House only,155.0,168235.0,1085.39,29435.0,475.0,0011 - Legislators,189.9,637.65,151.24,151.24,6.8,5.25,4.84
+2015,Ontario,"St. Catharines-Niagara, Ontario",House only,91.42,96265.0,1053.0,23515.0,475.0,0011 - Legislators,257.22,655.11,126.57,126.56,1.13,1.63,1.77
+2016,British Columbia,British Columbia,House only,98.25,103720.0,1055.67,10115.0,470.0,0011 - Legislators,102.95,579.31,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"London, Ontario",Land only,100.0,108870.0,1088.7,26770.0,475.0,0011 - Legislators,267.7,678.2,130.42,130.43,1.6,1.44,1.63
+2019,Ontario,"Hamilton, Ontario",House only,105.5,126555.0,1199.57,29875.0,475.0,0011 - Legislators,283.18,741.38,135.98,135.97,1.94,2.05,2.01
+2019,British Columbia,"Kelowna, British Columbia",House only,103.92,126555.0,1217.81,15480.0,470.0,0011 - Legislators,148.96,683.39,135.98,135.97,1.94,2.05,2.01
+2021,Prince Edward Island,"Charlottetown, Prince Edward Island",Land only,103.0,152280.0,1478.45,2050.0,250.0,0011 - Legislators,19.9,749.18,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"Oshawa, Ontario",House only,118.17,152280.0,1288.65,22675.0,475.0,0011 - Legislators,191.88,740.27,141.61,141.61,3.4,2.91,2.65
+2022,British Columbia,"Kelowna, British Columbia",Land only,118.0,168235.0,1425.72,12545.0,470.0,0011 - Legislators,106.31,766.02,151.24,151.24,6.8,5.25,4.84
+2015,Saskatchewan,"Saskatoon, Saskatchewan",Total (house and land),102.0,96265.0,943.77,4945.0,386.0,0012 - Senior government managers and officials,48.48,496.13,126.57,126.56,1.13,1.63,1.77
+2016,Newfoundland and Labrador,Newfoundland and Labrador,Total (house and land),99.92,103720.0,1038.03,1180.0,310.0,0012 - Senior government managers and officials,11.81,524.92,128.37,128.38,1.44,1.82,1.99
+2019,Prince Edward Island,Prince Edward Island,Total (house and land),101.0,126555.0,1253.02,1490.0,250.0,0011 - Legislators,14.75,633.89,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,114.5,126555.0,1105.28,29875.0,475.0,0011 - Legislators,260.92,683.1,135.98,135.97,1.94,2.05,2.01
+2021,Prince Edward Island,"Charlottetown, Prince Edward Island",House only,119.58,152280.0,1273.46,2050.0,250.0,0011 - Legislators,17.14,645.3,141.61,141.61,3.4,2.91,2.65
+2022,Quebec,Quebec,Land only,119.75,168235.0,1404.89,17755.0,482.0,0011 - Legislators,148.27,776.58,151.24,151.24,6.8,5.25,4.84
+2015,Saskatchewan,"Regina, Saskatchewan",House only,101.5,96265.0,948.42,4945.0,386.0,0012 - Senior government managers and officials,48.72,498.57,126.57,126.56,1.13,1.63,1.77
+2018,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,101.75,117625.0,1156.02,17045.0,482.0,0011 - Legislators,167.52,661.77,133.38,133.36,2.27,1.94,1.88
+2020,Ontario,"Windsor, Ontario",Total (house and land),109.5,105815.0,966.35,17775.0,475.0,0011 - Legislators,162.33,564.34,136.96,136.95,0.73,1.77,1.88
+2021,Manitoba,"Winnipeg, Manitoba",House only,129.25,152280.0,1178.18,7220.0,409.0,0012 - Senior government managers and officials,55.86,617.02,141.61,141.61,3.4,2.91,2.65
+2022,Quebec,"Montréal, Quebec",Land only,125.42,168235.0,1341.37,17755.0,482.0,0011 - Legislators,141.56,741.46,151.24,151.24,6.8,5.25,4.84
+2022,Saskatchewan,"Saskatoon, Saskatchewan",Land only,98.42,168235.0,1709.36,8910.0,386.0,0012 - Senior government managers and officials,90.53,899.94,151.24,151.24,6.8,5.25,4.84
+2015,Saskatchewan,"Regina, Saskatchewan",Land only,96.42,96265.0,998.39,4945.0,386.0,0012 - Senior government managers and officials,51.29,524.84,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"Greater Sudbury, Ontario",Land only,99.25,103720.0,1045.04,25565.0,475.0,0011 - Legislators,257.58,651.31,128.37,128.38,1.44,1.82,1.99
+2019,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),103.58,126555.0,1221.81,22435.0,482.0,0011 - Legislators,216.6,719.2,135.98,135.97,1.94,2.05,2.01
+2022,Ontario,"Oshawa, Ontario",House only,125.0,168235.0,1345.88,29435.0,475.0,0011 - Legislators,235.48,790.68,151.24,151.24,6.8,5.25,4.84
+2022,Alberta,Prairie Region,Land only,104.75,168235.0,1606.06,5205.0,436.0,0011 - Legislators,49.69,827.88,151.24,151.24,6.8,5.25,4.84
+2023,Manitoba,Manitoba,House only,154.5,181960.0,1177.73,1145.0,409.0,0012 - Senior government managers and officials,7.41,592.57,157.11,157.11,3.89,3.89,4.02
+2023,Alberta,"Edmonton, Alberta",Total (house and land),107.17,181960.0,1697.86,6605.0,436.0,0011 - Legislators,61.63,879.75,157.11,157.11,3.89,3.89,4.02
+2015,Prince Edward Island,Prince Edward Island,House only,99.42,96265.0,968.27,240.0,250.0,0011 - Legislators,2.41,485.34,126.57,126.56,1.13,1.63,1.77
+2016,Quebec,"Québec, Quebec",Land only,100.0,103720.0,1037.2,12770.0,482.0,0011 - Legislators,127.7,582.45,128.37,128.38,1.44,1.82,1.99
+2017,Saskatchewan,"Regina, Saskatchewan",Total (house and land),99.92,108870.0,1089.57,4950.0,386.0,0012 - Senior government managers and officials,49.54,569.56,130.42,130.43,1.6,1.44,1.63
+2018,Alberta,"Edmonton, Alberta",Land only,100.0,117625.0,1176.25,5060.0,436.0,0011 - Legislators,50.6,613.43,133.38,133.36,2.27,1.94,1.88
+2021,Nova Scotia,Atlantic Region,House only,113.33,152280.0,1343.69,7055.0,391.0,0012 - Senior government managers and officials,62.25,702.97,141.61,141.61,3.4,2.91,2.65
+2022,Alberta,"Calgary, Alberta",Total (house and land),122.25,168235.0,1376.16,5205.0,436.0,0011 - Legislators,42.58,709.37,151.24,151.24,6.8,5.25,4.84
+2015,Manitoba,"Winnipeg, Manitoba",Total (house and land),96.58,96265.0,996.74,4105.0,409.0,0012 - Senior government managers and officials,42.5,519.62,126.57,126.56,1.13,1.63,1.77
+2015,British Columbia,British Columbia,House only,91.83,96265.0,1048.3,7465.0,470.0,0011 - Legislators,81.29,564.8,126.57,126.56,1.13,1.63,1.77
+2016,Alberta,Prairie Region,Total (house and land),99.58,103720.0,1041.57,7035.0,436.0,0011 - Legislators,70.65,556.11,128.37,128.38,1.44,1.82,1.99
+2019,Ontario,"Windsor, Ontario",Total (house and land),106.17,126555.0,1192.0,29875.0,475.0,0011 - Legislators,281.39,736.69,135.98,135.97,1.94,2.05,2.01
+2021,Manitoba,Manitoba,House only,129.25,152280.0,1178.18,7220.0,409.0,0012 - Senior government managers and officials,55.86,617.02,141.61,141.61,3.4,2.91,2.65
+2015,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,98.42,96265.0,978.1,23515.0,475.0,0011 - Legislators,238.93,608.52,126.57,126.56,1.13,1.63,1.77
+2015,Ontario,"Windsor, Ontario",Land only,96.0,96265.0,1002.76,23515.0,475.0,0011 - Legislators,244.95,623.86,126.57,126.56,1.13,1.63,1.77
+2018,Quebec,"Montréal, Quebec",Land only,101.33,117625.0,1160.81,17045.0,482.0,0011 - Legislators,168.21,664.51,133.38,133.36,2.27,1.94,1.88
+2019,Saskatchewan,"Saskatoon, Saskatchewan",Total (house and land),96.33,126555.0,1313.77,5215.0,386.0,0012 - Senior government managers and officials,54.14,683.96,135.98,135.97,1.94,2.05,2.01
+2021,Quebec,"Montréal, Quebec",Land only,119.08,152280.0,1278.8,17550.0,482.0,0011 - Legislators,147.38,713.09,141.61,141.61,3.4,2.91,2.65
+2023,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),119.0,181960.0,1529.08,8210.0,369.0,"0013 - Senior managers - financial, communications and other business services",68.99,799.04,157.11,157.11,3.89,3.89,4.02
+2016,Nova Scotia,Atlantic Region,House only,99.17,103720.0,1045.88,2955.0,391.0,0012 - Senior government managers and officials,29.8,537.84,128.37,128.38,1.44,1.82,1.99
+2016,Quebec,Quebec,House only,99.33,103720.0,1044.2,12770.0,482.0,0011 - Legislators,128.56,586.38,128.37,128.38,1.44,1.82,1.99
+2016,Ontario,"Oshawa, Ontario",House only,8.33,103720.0,12451.38,25565.0,475.0,0011 - Legislators,3069.03,7760.21,128.37,128.38,1.44,1.82,1.99
+2017,British Columbia,"Kelowna, British Columbia",Land only,100.33,108870.0,1085.12,10470.0,470.0,0011 - Legislators,104.36,594.74,130.42,130.43,1.6,1.44,1.63
+2018,Alberta,"Edmonton, Alberta",Total (house and land),99.0,117625.0,1188.13,5060.0,436.0,0011 - Legislators,51.11,619.62,133.38,133.36,2.27,1.94,1.88
+2020,Saskatchewan,Saskatchewan,House only,92.33,105815.0,1146.05,4500.0,386.0,0012 - Senior government managers and officials,48.74,597.4,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,164.5,152280.0,925.71,22675.0,475.0,0011 - Legislators,137.84,531.78,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),158.17,168235.0,1063.63,29435.0,475.0,0011 - Legislators,186.1,624.87,151.24,151.24,6.8,5.25,4.84
+2023,Alberta,Alberta,Land only,105.83,181960.0,1719.36,6605.0,436.0,0011 - Legislators,62.41,890.89,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,99.0,96265.0,972.37,23515.0,475.0,0011 - Legislators,237.53,604.95,126.57,126.56,1.13,1.63,1.77
+2017,British Columbia,"Victoria, British Columbia",House only,101.17,108870.0,1076.11,10470.0,470.0,0011 - Legislators,103.49,589.8,130.42,130.43,1.6,1.44,1.63
+2019,Alberta,Prairie Region,House only,97.42,126555.0,1299.07,5500.0,436.0,0011 - Legislators,56.46,677.77,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"London, Ontario",House only,119.67,105815.0,884.22,17775.0,475.0,0011 - Legislators,148.53,516.38,136.96,136.95,0.73,1.77,1.88
+2020,British Columbia,British Columbia,Land only,107.5,105815.0,984.33,7240.0,470.0,0011 - Legislators,67.35,525.84,136.96,136.95,0.73,1.77,1.88
+2016,Ontario,"Guelph, Ontario",Total (house and land),8.33,103720.0,12451.38,25565.0,475.0,0011 - Legislators,3069.03,7760.21,128.37,128.38,1.44,1.82,1.99
+2018,British Columbia,"Victoria, British Columbia",Total (house and land),101.83,117625.0,1155.11,12395.0,470.0,0011 - Legislators,121.72,638.42,133.38,133.36,2.27,1.94,1.88
+2022,Manitoba,Manitoba,Land only,110.0,168235.0,1529.41,4250.0,409.0,0012 - Senior government managers and officials,38.64,784.03,151.24,151.24,6.8,5.25,4.84
+2016,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,100.0,103720.0,1037.2,1285.0,369.0,"0013 - Senior managers - financial, communications and other business services",12.85,525.03,128.37,128.38,1.44,1.82,1.99
+2017,,Canada,House only,101.5,108870.0,1072.61,,,,,,130.42,130.43,1.6,1.44,1.63
+2017,Prince Edward Island,"Charlottetown, Prince Edward Island",House only,99.83,108870.0,1090.55,730.0,250.0,0011 - Legislators,7.31,548.93,130.42,130.43,1.6,1.44,1.63
+2017,Nova Scotia,Nova Scotia,Total (house and land),100.25,108870.0,1085.99,2900.0,391.0,0012 - Senior government managers and officials,28.93,557.46,130.42,130.43,1.6,1.44,1.63
+2018,Prince Edward Island,"Charlottetown, Prince Edward Island",Total (house and land),100.0,117625.0,1176.25,1080.0,250.0,0011 - Legislators,10.8,593.53,133.38,133.36,2.27,1.94,1.88
+2019,New Brunswick,New Brunswick,Land only,100.08,126555.0,1264.54,2225.0,369.0,"0013 - Senior managers - financial, communications and other business services",22.23,643.39,135.98,135.97,1.94,2.05,2.01
+2017,Quebec,"Québec, Quebec",House only,99.92,108870.0,1089.57,15475.0,482.0,0011 - Legislators,154.87,622.22,130.42,130.43,1.6,1.44,1.63
+2023,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,119.42,181960.0,1523.7,13935.0,482.0,0011 - Legislators,116.69,820.2,157.11,157.11,3.89,3.89,4.02
+2017,Ontario,"London, Ontario",House only,105.17,108870.0,1035.18,26770.0,475.0,0011 - Legislators,254.54,644.86,130.42,130.43,1.6,1.44,1.63
+2018,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,107.75,117625.0,1091.65,27435.0,475.0,0011 - Legislators,254.62,673.14,133.38,133.36,2.27,1.94,1.88
+2016,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Land only,99.67,103720.0,1040.63,1180.0,310.0,0012 - Senior government managers and officials,11.84,526.24,128.37,128.38,1.44,1.82,1.99
+2016,British Columbia,"Kelowna, British Columbia",Land only,8.33,103720.0,12451.38,10115.0,470.0,0011 - Legislators,1214.29,6832.83,128.37,128.38,1.44,1.82,1.99
+2018,Manitoba,"Winnipeg, Manitoba",Total (house and land),103.5,117625.0,1136.47,8325.0,409.0,0012 - Senior government managers and officials,80.43,608.45,133.38,133.36,2.27,1.94,1.88
+2021,Quebec,"Trois-Rivières, Quebec",House only,109.58,152280.0,1389.67,17550.0,482.0,0011 - Legislators,160.16,774.92,141.61,141.61,3.4,2.91,2.65
+2022,Saskatchewan,Saskatchewan,Total (house and land),105.25,168235.0,1598.43,8910.0,386.0,0012 - Senior government managers and officials,84.66,841.55,151.24,151.24,6.8,5.25,4.84
+2015,,Canada,House only,95.17,96265.0,1011.51,,,,,,126.57,126.56,1.13,1.63,1.77
+2016,Alberta,Alberta,Land only,98.83,103720.0,1049.48,7035.0,436.0,0011 - Legislators,71.18,560.33,128.37,128.38,1.44,1.82,1.99
+2018,Prince Edward Island,"Charlottetown, Prince Edward Island",Land only,100.0,117625.0,1176.25,1080.0,250.0,0011 - Legislators,10.8,593.53,133.38,133.36,2.27,1.94,1.88
+2020,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",House only,97.08,105815.0,1089.98,985.0,310.0,0012 - Senior government managers and officials,10.15,550.07,136.96,136.95,0.73,1.77,1.88
+2020,Saskatchewan,"Saskatoon, Saskatchewan",Land only,100.17,105815.0,1056.35,4500.0,386.0,0012 - Senior government managers and officials,44.92,550.64,136.96,136.95,0.73,1.77,1.88
+2023,Manitoba,"Winnipeg, Manitoba",House only,154.5,181960.0,1177.73,1145.0,409.0,0012 - Senior government managers and officials,7.41,592.57,157.11,157.11,3.89,3.89,4.02
+2019,Newfoundland and Labrador,Newfoundland and Labrador,House only,96.0,126555.0,1318.28,1245.0,310.0,0012 - Senior government managers and officials,12.97,665.63,135.98,135.97,1.94,2.05,2.01
+2021,Ontario,"Toronto, Ontario",Land only,114.42,152280.0,1330.89,22675.0,475.0,0011 - Legislators,198.17,764.53,141.61,141.61,3.4,2.91,2.65
+2022,Quebec,Quebec,Total (house and land),140.0,168235.0,1201.68,17755.0,482.0,0011 - Legislators,126.82,664.25,151.24,151.24,6.8,5.25,4.84
+2022,Saskatchewan,Saskatchewan,House only,108.5,168235.0,1550.55,8910.0,386.0,0012 - Senior government managers and officials,82.12,816.34,151.24,151.24,6.8,5.25,4.84
+2018,Nova Scotia,Atlantic Region,Total (house and land),100.0,117625.0,1176.25,3115.0,391.0,0012 - Senior government managers and officials,31.15,603.7,133.38,133.36,2.27,1.94,1.88
+2015,Newfoundland and Labrador,Newfoundland and Labrador,House only,99.83,96265.0,964.29,930.0,310.0,0012 - Senior government managers and officials,9.32,486.81,126.57,126.56,1.13,1.63,1.77
+2015,Prince Edward Island,"Charlottetown, Prince Edward Island",House only,99.42,96265.0,968.27,240.0,250.0,0011 - Legislators,2.41,485.34,126.57,126.56,1.13,1.63,1.77
+2015,Saskatchewan,"Saskatoon, Saskatchewan",Land only,100.0,96265.0,962.65,4945.0,386.0,0012 - Senior government managers and officials,49.45,506.05,126.57,126.56,1.13,1.63,1.77
+2017,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),100.08,108870.0,1087.83,1370.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.69,550.76,130.42,130.43,1.6,1.44,1.63
+2017,Quebec,Quebec,Land only,100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2019,British Columbia,"Vancouver, British Columbia",House only,106.92,126555.0,1183.64,15480.0,470.0,0011 - Legislators,144.78,664.21,135.98,135.97,1.94,2.05,2.01
+2021,Quebec,"Trois-Rivières, Quebec",Land only,104.0,152280.0,1464.23,17550.0,482.0,0011 - Legislators,168.75,816.49,141.61,141.61,3.4,2.91,2.65
+2015,Alberta,"Calgary, Alberta",Total (house and land),100.25,96265.0,960.25,8370.0,436.0,0011 - Legislators,83.49,521.87,126.57,126.56,1.13,1.63,1.77
+2017,Prince Edward Island,Prince Edward Island,House only,99.83,108870.0,1090.55,730.0,250.0,0011 - Legislators,7.31,548.93,130.42,130.43,1.6,1.44,1.63
+2021,Ontario,"Hamilton, Ontario",Total (house and land),116.0,152280.0,1312.76,22675.0,475.0,0011 - Legislators,195.47,754.12,141.61,141.61,3.4,2.91,2.65
+2022,Nova Scotia,Nova Scotia,Total (house and land),120.67,168235.0,1394.17,8140.0,391.0,0012 - Senior government managers and officials,67.46,730.82,151.24,151.24,6.8,5.25,4.84
+2023,Nova Scotia,"Halifax, Nova Scotia",House only,126.08,181960.0,1443.21,6735.0,391.0,0012 - Senior government managers and officials,53.42,748.32,157.11,157.11,3.89,3.89,4.02
+2015,Nova Scotia,Atlantic Region,Total (house and land),99.0,96265.0,972.37,1970.0,391.0,0012 - Senior government managers and officials,19.9,496.14,126.57,126.56,1.13,1.63,1.77
+2017,Quebec,Quebec,House only,100.33,108870.0,1085.12,15475.0,482.0,0011 - Legislators,154.24,619.68,130.42,130.43,1.6,1.44,1.63
+2017,Ontario,"St. Catharines-Niagara, Ontario",Total (house and land),102.67,108870.0,1060.39,26770.0,475.0,0011 - Legislators,260.74,660.57,130.42,130.43,1.6,1.44,1.63
+2018,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),100.67,117625.0,1168.42,1715.0,369.0,"0013 - Senior managers - financial, communications and other business services",17.04,592.73,133.38,133.36,2.27,1.94,1.88
+2015,Alberta,"Edmonton, Alberta",Total (house and land),100.0,96265.0,962.65,8370.0,436.0,0011 - Legislators,83.7,523.18,126.57,126.56,1.13,1.63,1.77
+2017,Ontario,"Greater Sudbury, Ontario",House only,99.0,108870.0,1099.7,26770.0,475.0,0011 - Legislators,270.4,685.05,130.42,130.43,1.6,1.44,1.63
+2017,Alberta,"Edmonton, Alberta",Total (house and land),99.5,108870.0,1094.17,5980.0,436.0,0011 - Legislators,60.1,577.14,130.42,130.43,1.6,1.44,1.63
+2018,Quebec,"Québec, Quebec",Total (house and land),100.0,117625.0,1176.25,17045.0,482.0,0011 - Legislators,170.45,673.35,133.38,133.36,2.27,1.94,1.88
+2023,Prince Edward Island,Prince Edward Island,House only,127.0,181960.0,1432.76,3435.0,250.0,0011 - Legislators,27.05,729.91,157.11,157.11,3.89,3.89,4.02
+2019,Quebec,"Sherbrooke, Quebec",Land only,102.42,126555.0,1235.65,22435.0,482.0,0011 - Legislators,219.05,727.35,135.98,135.97,1.94,2.05,2.01
+2020,Newfoundland and Labrador,Newfoundland and Labrador,Total (house and land),97.67,105815.0,1083.39,985.0,310.0,0012 - Senior government managers and officials,10.08,546.74,136.96,136.95,0.73,1.77,1.88
+2022,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,120.0,168235.0,1401.96,17755.0,482.0,0011 - Legislators,147.96,774.96,151.24,151.24,6.8,5.25,4.84
+2015,Manitoba,Manitoba,Land only,98.58,96265.0,976.52,4105.0,409.0,0012 - Senior government managers and officials,41.64,509.08,126.57,126.56,1.13,1.63,1.77
+2019,New Brunswick,New Brunswick,Total (house and land),100.92,126555.0,1254.01,2225.0,369.0,"0013 - Senior managers - financial, communications and other business services",22.05,638.03,135.98,135.97,1.94,2.05,2.01
+2022,Saskatchewan,"Regina, Saskatchewan",Total (house and land),102.0,168235.0,1649.36,8910.0,386.0,0012 - Senior government managers and officials,87.35,868.35,151.24,151.24,6.8,5.25,4.84
+2023,Saskatchewan,"Regina, Saskatchewan",Land only,100.83,181960.0,1804.62,7140.0,386.0,0012 - Senior government managers and officials,70.81,937.71,157.11,157.11,3.89,3.89,4.02
+2017,Ontario,"Toronto, Ontario",Land only,106.25,108870.0,1024.66,26770.0,475.0,0011 - Legislators,251.95,638.31,130.42,130.43,1.6,1.44,1.63
+2018,Ontario,"St. Catharines-Niagara, Ontario",Land only,103.58,117625.0,1135.6,27435.0,475.0,0011 - Legislators,264.87,700.23,133.38,133.36,2.27,1.94,1.88
+2018,Saskatchewan,"Saskatoon, Saskatchewan",House only,96.67,117625.0,1216.77,4790.0,386.0,0012 - Senior government managers and officials,49.55,633.16,133.38,133.36,2.27,1.94,1.88
+2015,Alberta,"Calgary, Alberta",Land only,97.58,96265.0,986.52,8370.0,436.0,0011 - Legislators,85.78,536.15,126.57,126.56,1.13,1.63,1.77
+2018,Nova Scotia,Atlantic Region,Land only,99.83,117625.0,1178.25,3115.0,391.0,0012 - Senior government managers and officials,31.2,604.73,133.38,133.36,2.27,1.94,1.88
+2023,Quebec,Quebec,Total (house and land),141.42,181960.0,1286.66,13935.0,482.0,0011 - Legislators,98.54,692.6,157.11,157.11,3.89,3.89,4.02
+2017,Newfoundland and Labrador,Newfoundland and Labrador,Land only,99.5,108870.0,1094.17,1005.0,310.0,0012 - Senior government managers and officials,10.1,552.14,130.42,130.43,1.6,1.44,1.63
+2017,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,101.83,108870.0,1069.13,26770.0,475.0,0011 - Legislators,262.89,666.01,130.42,130.43,1.6,1.44,1.63
+2020,Ontario,"Windsor, Ontario",Land only,109.42,105815.0,967.05,17775.0,475.0,0011 - Legislators,162.45,564.75,136.96,136.95,0.73,1.77,1.88
+2023,Saskatchewan,"Regina, Saskatchewan",Total (house and land),101.75,181960.0,1788.3,7140.0,386.0,0012 - Senior government managers and officials,70.17,929.24,157.11,157.11,3.89,3.89,4.02
+2017,Saskatchewan,Saskatchewan,House only,99.08,108870.0,1098.81,4950.0,386.0,0012 - Senior government managers and officials,49.96,574.39,130.42,130.43,1.6,1.44,1.63
+2022,New Brunswick,New Brunswick,Total (house and land),118.33,168235.0,1421.74,5690.0,369.0,"0013 - Senior managers - financial, communications and other business services",48.09,734.92,151.24,151.24,6.8,5.25,4.84
+2023,Nova Scotia,Nova Scotia,House only,126.08,181960.0,1443.21,6735.0,391.0,0012 - Senior government managers and officials,53.42,748.32,157.11,157.11,3.89,3.89,4.02
+2015,Manitoba,"Winnipeg, Manitoba",House only,95.75,96265.0,1005.38,4105.0,409.0,0012 - Senior government managers and officials,42.87,524.13,126.57,126.56,1.13,1.63,1.77
+2019,Prince Edward Island,"Charlottetown, Prince Edward Island",House only,101.0,126555.0,1253.02,1490.0,250.0,0011 - Legislators,14.75,633.89,135.98,135.97,1.94,2.05,2.01
+2019,Nova Scotia,"Halifax, Nova Scotia",Total (house and land),101.92,126555.0,1241.71,4485.0,391.0,0012 - Senior government managers and officials,44.01,642.86,135.98,135.97,1.94,2.05,2.01
+2022,Ontario,"Greater Sudbury, Ontario",Total (house and land),121.42,168235.0,1385.56,29435.0,475.0,0011 - Legislators,242.42,813.99,151.24,151.24,6.8,5.25,4.84
+2015,Alberta,Alberta,Land only,98.58,96265.0,976.52,8370.0,436.0,0011 - Legislators,84.91,530.72,126.57,126.56,1.13,1.63,1.77
+2016,Prince Edward Island,Prince Edward Island,Land only,99.75,103720.0,1039.8,610.0,250.0,0011 - Legislators,6.12,522.96,128.37,128.38,1.44,1.82,1.99
+2016,Quebec,"Trois-Rivières, Quebec",Land only,8.33,103720.0,12451.38,12770.0,482.0,0011 - Legislators,1533.01,6992.2,128.37,128.38,1.44,1.82,1.99
+2018,Ontario,"Hamilton, Ontario",House only,104.58,117625.0,1124.74,27435.0,475.0,0011 - Legislators,262.34,693.54,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"London, Ontario",Total (house and land),109.5,117625.0,1074.2,27435.0,475.0,0011 - Legislators,250.55,662.38,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"Windsor, Ontario",House only,103.75,117625.0,1133.73,27435.0,475.0,0011 - Legislators,264.43,699.08,133.38,133.36,2.27,1.94,1.88
+2019,Manitoba,Manitoba,House only,105.75,126555.0,1196.74,8615.0,409.0,0012 - Senior government managers and officials,81.47,639.11,135.98,135.97,1.94,2.05,2.01
+2019,Alberta,Alberta,House only,96.5,126555.0,1311.45,5500.0,436.0,0011 - Legislators,56.99,684.22,135.98,135.97,1.94,2.05,2.01
+2019,Alberta,Alberta,Land only,100.0,126555.0,1265.55,5500.0,436.0,0011 - Legislators,55.0,660.28,135.98,135.97,1.94,2.05,2.01
+2020,Nova Scotia,Atlantic Region,Total (house and land),102.5,105815.0,1032.34,4250.0,391.0,0012 - Senior government managers and officials,41.46,536.9,136.96,136.95,0.73,1.77,1.88
+2022,Ontario,"Windsor, Ontario",House only,145.92,168235.0,1152.93,29435.0,475.0,0011 - Legislators,201.72,677.33,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Hamilton, Ontario",Land only,103.42,181960.0,1759.43,29680.0,475.0,0011 - Legislators,286.99,1023.21,157.11,157.11,3.89,3.89,4.02
+2015,Nova Scotia,Atlantic Region,House only,99.0,96265.0,972.37,1970.0,391.0,0012 - Senior government managers and officials,19.9,496.14,126.57,126.56,1.13,1.63,1.77
+2017,Manitoba,"Winnipeg, Manitoba",Land only,100.0,108870.0,1088.7,6825.0,409.0,0012 - Senior government managers and officials,68.25,578.48,130.42,130.43,1.6,1.44,1.63
+2018,Ontario,"Guelph, Ontario",House only,104.67,117625.0,1123.77,27435.0,475.0,0011 - Legislators,262.11,692.94,133.38,133.36,2.27,1.94,1.88
+2020,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Land only,108.75,105815.0,973.01,17775.0,475.0,0011 - Legislators,163.45,568.23,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,Ontario,Total (house and land),118.75,152280.0,1282.36,22675.0,475.0,0011 - Legislators,190.95,736.66,141.61,141.61,3.4,2.91,2.65
+2022,Alberta,"Edmonton, Alberta",Land only,102.08,168235.0,1648.07,5205.0,436.0,0011 - Legislators,50.99,849.53,151.24,151.24,6.8,5.25,4.84
+2016,Alberta,"Edmonton, Alberta",Total (house and land),99.75,103720.0,1039.8,7035.0,436.0,0011 - Legislators,70.53,555.17,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Guelph, Ontario",House only,103.08,108870.0,1056.17,26770.0,475.0,0011 - Legislators,259.7,657.94,130.42,130.43,1.6,1.44,1.63
+2017,Alberta,Alberta,Land only,99.58,108870.0,1093.29,5980.0,436.0,0011 - Legislators,60.05,576.67,130.42,130.43,1.6,1.44,1.63
+2019,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",House only,104.92,126555.0,1206.2,29875.0,475.0,0011 - Legislators,284.74,745.47,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"London, Ontario",House only,115.58,126555.0,1094.96,29875.0,475.0,0011 - Legislators,258.48,676.72,135.98,135.97,1.94,2.05,2.01
+2022,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),172.5,168235.0,975.28,29435.0,475.0,0011 - Legislators,170.64,572.96,151.24,151.24,6.8,5.25,4.84
+2022,Ontario,"Oshawa, Ontario",Total (house and land),122.0,168235.0,1378.98,29435.0,475.0,0011 - Legislators,241.27,810.13,151.24,151.24,6.8,5.25,4.84
+2015,Quebec,"Québec, Quebec",Land only,99.67,96265.0,965.84,13220.0,482.0,0011 - Legislators,132.64,549.24,126.57,126.56,1.13,1.63,1.77
+2016,Quebec,"Sherbrooke, Quebec",Land only,8.33,103720.0,12451.38,12770.0,482.0,0011 - Legislators,1533.01,6992.2,128.37,128.38,1.44,1.82,1.99
+2018,British Columbia,"Vancouver, British Columbia",Land only,105.0,117625.0,1120.24,12395.0,470.0,0011 - Legislators,118.05,619.15,133.38,133.36,2.27,1.94,1.88
+2019,Alberta,Prairie Region,Total (house and land),98.25,126555.0,1288.09,5500.0,436.0,0011 - Legislators,55.98,672.04,135.98,135.97,1.94,2.05,2.01
+2020,Quebec,"Montréal, Quebec",House only,118.17,105815.0,895.45,14745.0,482.0,0011 - Legislators,124.78,510.12,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"St. Catharines-Niagara, Ontario",Total (house and land),123.5,152280.0,1233.04,22675.0,475.0,0011 - Legislators,183.6,708.32,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"St. Catharines-Niagara, Ontario",Land only,120.5,152280.0,1263.73,22675.0,475.0,0011 - Legislators,188.17,725.95,141.61,141.61,3.4,2.91,2.65
+2017,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",House only,98.58,108870.0,1104.38,1005.0,310.0,0012 - Senior government managers and officials,10.19,557.29,130.42,130.43,1.6,1.44,1.63
+2017,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Land only,99.5,108870.0,1094.17,1005.0,310.0,0012 - Senior government managers and officials,10.1,552.14,130.42,130.43,1.6,1.44,1.63
+2017,Ontario,"Windsor, Ontario",Total (house and land),101.08,108870.0,1077.07,26770.0,475.0,0011 - Legislators,264.84,670.95,130.42,130.43,1.6,1.44,1.63
+2019,Alberta,"Edmonton, Alberta",Total (house and land),97.83,126555.0,1293.62,5500.0,436.0,0011 - Legislators,56.22,674.92,135.98,135.97,1.94,2.05,2.01
+2020,Saskatchewan,"Saskatoon, Saskatchewan",House only,94.25,105815.0,1122.71,4500.0,386.0,0012 - Senior government managers and officials,47.75,585.23,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"Oshawa, Ontario",Total (house and land),116.25,152280.0,1309.94,22675.0,475.0,0011 - Legislators,195.05,752.5,141.61,141.61,3.4,2.91,2.65
+2022,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),115.67,168235.0,1454.44,17755.0,482.0,0011 - Legislators,153.5,803.97,151.24,151.24,6.8,5.25,4.84
+2015,Manitoba,Manitoba,Total (house and land),96.58,96265.0,996.74,4105.0,409.0,0012 - Senior government managers and officials,42.5,519.62,126.57,126.56,1.13,1.63,1.77
+2018,Quebec,"Québec, Quebec",Land only,100.83,117625.0,1166.57,17045.0,482.0,0011 - Legislators,169.05,667.81,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"St. Catharines-Niagara, Ontario",Total (house and land),105.08,117625.0,1119.39,27435.0,475.0,0011 - Legislators,261.09,690.24,133.38,133.36,2.27,1.94,1.88
+2021,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,101.92,152280.0,1494.11,4175.0,369.0,"0013 - Senior managers - financial, communications and other business services",40.96,767.54,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"Windsor, Ontario",Land only,127.25,152280.0,1196.7,22675.0,475.0,0011 - Legislators,178.19,687.45,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"Windsor, Ontario",Land only,135.33,168235.0,1243.15,29435.0,475.0,0011 - Legislators,217.51,730.33,151.24,151.24,6.8,5.25,4.84
+2016,Ontario,"Toronto, Ontario",Land only,96.83,103720.0,1071.16,25565.0,475.0,0011 - Legislators,264.02,667.59,128.37,128.38,1.44,1.82,1.99
+2018,Manitoba,"Winnipeg, Manitoba",House only,104.67,117625.0,1123.77,8325.0,409.0,0012 - Senior government managers and officials,79.54,601.66,133.38,133.36,2.27,1.94,1.88
+2022,Ontario,"St. Catharines-Niagara, Ontario",House only,131.67,168235.0,1277.7,29435.0,475.0,0011 - Legislators,223.55,750.63,151.24,151.24,6.8,5.25,4.84
+2015,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,0.0,96265.0,,13220.0,482.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,Ontario,Total (house and land),96.75,103720.0,1072.04,25565.0,475.0,0011 - Legislators,264.24,668.14,128.37,128.38,1.44,1.82,1.99
+2019,Quebec,Quebec,Land only,102.33,126555.0,1236.73,22435.0,482.0,0011 - Legislators,219.24,727.99,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"Greater Sudbury, Ontario",Total (house and land),100.92,126555.0,1254.01,29875.0,475.0,0011 - Legislators,296.03,775.02,135.98,135.97,1.94,2.05,2.01
+2022,Newfoundland and Labrador,Newfoundland and Labrador,Land only,102.0,168235.0,1649.36,3240.0,310.0,0012 - Senior government managers and officials,31.76,840.56,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,135.83,181960.0,1339.62,29680.0,475.0,0011 - Legislators,218.51,779.06,157.11,157.11,3.89,3.89,4.02
+2015,Saskatchewan,Saskatchewan,Total (house and land),101.5,96265.0,948.42,4945.0,386.0,0012 - Senior government managers and officials,48.72,498.57,126.57,126.56,1.13,1.63,1.77
+2016,British Columbia,"Victoria, British Columbia",Total (house and land),97.33,103720.0,1065.65,10115.0,470.0,0011 - Legislators,103.92,584.79,128.37,128.38,1.44,1.82,1.99
+2018,,Canada,Total (house and land),103.0,117625.0,1141.99,,,,,,133.38,133.36,2.27,1.94,1.88
+2021,New Brunswick,New Brunswick,House only,111.08,152280.0,1370.9,4175.0,369.0,"0013 - Senior managers - financial, communications and other business services",37.59,704.25,141.61,141.61,3.4,2.91,2.65
+2023,Quebec,"Montréal, Quebec",Land only,125.75,181960.0,1447.0,13935.0,482.0,0011 - Legislators,110.82,778.91,157.11,157.11,3.89,3.89,4.02
+2015,Alberta,Prairie Region,Land only,98.58,96265.0,976.52,8370.0,436.0,0011 - Legislators,84.91,530.72,126.57,126.56,1.13,1.63,1.77
+2017,,Canada,Total (house and land),101.75,108870.0,1069.98,,,,,,130.42,130.43,1.6,1.44,1.63
+2017,Quebec,"Québec, Quebec",Total (house and land),100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2019,Quebec,"Sherbrooke, Quebec",House only,101.67,126555.0,1244.76,22435.0,482.0,0011 - Legislators,220.66,732.71,135.98,135.97,1.94,2.05,2.01
+2021,British Columbia,"Vancouver, British Columbia",Land only,116.25,152280.0,1309.94,9615.0,470.0,0011 - Legislators,82.71,696.33,141.61,141.61,3.4,2.91,2.65
+2022,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,102.0,168235.0,1649.36,5690.0,369.0,"0013 - Senior managers - financial, communications and other business services",55.78,852.57,151.24,151.24,6.8,5.25,4.84
+2022,Ontario,"Toronto, Ontario",Total (house and land),114.83,168235.0,1465.08,29435.0,475.0,0011 - Legislators,256.34,860.71,151.24,151.24,6.8,5.25,4.84
+2019,Nova Scotia,Nova Scotia,Land only,100.0,126555.0,1265.55,4485.0,391.0,0012 - Senior government managers and officials,44.85,655.2,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"Oshawa, Ontario",Total (house and land),103.0,126555.0,1228.69,29875.0,475.0,0011 - Legislators,290.05,759.37,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"Toronto, Ontario",Land only,108.0,126555.0,1171.81,29875.0,475.0,0011 - Legislators,276.62,724.21,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Greater Sudbury, Ontario",Land only,102.75,105815.0,1029.83,17775.0,475.0,0011 - Legislators,172.99,601.41,136.96,136.95,0.73,1.77,1.88
+2022,New Brunswick,New Brunswick,Land only,102.0,168235.0,1649.36,5690.0,369.0,"0013 - Senior managers - financial, communications and other business services",55.78,852.57,151.24,151.24,6.8,5.25,4.84
+2015,Ontario,"Hamilton, Ontario",House only,94.0,96265.0,1024.1,23515.0,475.0,0011 - Legislators,250.16,637.13,126.57,126.56,1.13,1.63,1.77
+2015,Alberta,"Edmonton, Alberta",House only,100.25,96265.0,960.25,8370.0,436.0,0011 - Legislators,83.49,521.87,126.57,126.56,1.13,1.63,1.77
+2017,Quebec,"Trois-Rivières, Quebec",Land only,100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2017,British Columbia,"Vancouver, British Columbia",Land only,103.0,108870.0,1056.99,10470.0,470.0,0011 - Legislators,101.65,579.32,130.42,130.43,1.6,1.44,1.63
+2023,Alberta,"Calgary, Alberta",House only,134.58,181960.0,1352.06,6605.0,436.0,0011 - Legislators,49.08,700.57,157.11,157.11,3.89,3.89,4.02
+2018,Manitoba,Manitoba,Total (house and land),103.5,117625.0,1136.47,8325.0,409.0,0012 - Senior government managers and officials,80.43,608.45,133.38,133.36,2.27,1.94,1.88
+2020,British Columbia,"Vancouver, British Columbia",Total (house and land),108.25,105815.0,977.51,7240.0,470.0,0011 - Legislators,66.88,522.19,136.96,136.95,0.73,1.77,1.88
+2021,Saskatchewan,"Regina, Saskatchewan",Total (house and land),95.83,152280.0,1589.06,6115.0,386.0,0012 - Senior government managers and officials,63.81,826.44,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"Hamilton, Ontario",Land only,104.67,168235.0,1607.29,29435.0,475.0,0011 - Legislators,281.22,944.26,151.24,151.24,6.8,5.25,4.84
+2018,Ontario,"Toronto, Ontario",Land only,107.58,117625.0,1093.37,27435.0,475.0,0011 - Legislators,255.02,674.19,133.38,133.36,2.27,1.94,1.88
+2020,Manitoba,Manitoba,Land only,102.83,105815.0,1029.03,7230.0,409.0,0012 - Senior government managers and officials,70.31,549.67,136.96,136.95,0.73,1.77,1.88
+2021,Nova Scotia,"Halifax, Nova Scotia",Total (house and land),115.58,152280.0,1317.53,7055.0,391.0,0012 - Senior government managers and officials,61.04,689.29,141.61,141.61,3.4,2.91,2.65
+2023,Ontario,"Hamilton, Ontario",House only,120.17,181960.0,1514.19,29680.0,475.0,0011 - Legislators,246.98,880.59,157.11,157.11,3.89,3.89,4.02
+2015,Saskatchewan,"Regina, Saskatchewan",Total (house and land),100.25,96265.0,960.25,4945.0,386.0,0012 - Senior government managers and officials,49.33,504.79,126.57,126.56,1.13,1.63,1.77
+2018,Prince Edward Island,"Charlottetown, Prince Edward Island",House only,99.92,117625.0,1177.19,1080.0,250.0,0011 - Legislators,10.81,594.0,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"Windsor, Ontario",Total (house and land),103.83,117625.0,1132.86,27435.0,475.0,0011 - Legislators,264.23,698.55,133.38,133.36,2.27,1.94,1.88
+2018,Saskatchewan,Saskatchewan,Total (house and land),97.92,117625.0,1201.24,4790.0,386.0,0012 - Senior government managers and officials,48.92,625.08,133.38,133.36,2.27,1.94,1.88
+2020,Ontario,"Toronto, Ontario",Land only,108.75,105815.0,973.01,17775.0,475.0,0011 - Legislators,163.45,568.23,136.96,136.95,0.73,1.77,1.88
+2015,British Columbia,British Columbia,Total (house and land),94.08,96265.0,1023.22,7465.0,470.0,0011 - Legislators,79.35,551.29,126.57,126.56,1.13,1.63,1.77
+2019,Ontario,"Greater Sudbury, Ontario",House only,100.83,126555.0,1255.13,29875.0,475.0,0011 - Legislators,296.29,775.71,135.98,135.97,1.94,2.05,2.01
+2015,Newfoundland and Labrador,Newfoundland and Labrador,Land only,98.67,96265.0,975.63,930.0,310.0,0012 - Senior government managers and officials,9.43,492.53,126.57,126.56,1.13,1.63,1.77
+2019,Quebec,Quebec,Total (house and land),105.0,126555.0,1205.29,22435.0,482.0,0011 - Legislators,213.67,709.48,135.98,135.97,1.94,2.05,2.01
+2022,,Canada,Land only,116.25,168235.0,1447.18,,,,,,151.24,151.24,6.8,5.25,4.84
+2022,Quebec,"Québec, Quebec",Land only,107.25,168235.0,1568.62,17755.0,482.0,0011 - Legislators,165.55,867.08,151.24,151.24,6.8,5.25,4.84
+2015,British Columbia,"Vancouver, British Columbia",House only,91.83,96265.0,1048.3,7465.0,470.0,0011 - Legislators,81.29,564.8,126.57,126.56,1.13,1.63,1.77
+2016,Nova Scotia,Atlantic Region,Total (house and land),99.25,103720.0,1045.04,2955.0,391.0,0012 - Senior government managers and officials,29.77,537.41,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Windsor, Ontario",Land only,102.58,108870.0,1061.32,26770.0,475.0,0011 - Legislators,260.97,661.15,130.42,130.43,1.6,1.44,1.63
+2017,Manitoba,"Winnipeg, Manitoba",House only,102.33,108870.0,1063.91,6825.0,409.0,0012 - Senior government managers and officials,66.7,565.31,130.42,130.43,1.6,1.44,1.63
+2018,Prince Edward Island,Prince Edward Island,Total (house and land),100.0,117625.0,1176.25,1080.0,250.0,0011 - Legislators,10.8,593.53,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,Ontario,House only,103.08,117625.0,1141.1,27435.0,475.0,0011 - Legislators,266.15,703.63,133.38,133.36,2.27,1.94,1.88
+2019,Prince Edward Island,Prince Edward Island,Land only,100.0,126555.0,1265.55,1490.0,250.0,0011 - Legislators,14.9,640.23,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Oshawa, Ontario",Land only,106.33,105815.0,995.16,17775.0,475.0,0011 - Legislators,167.17,581.17,136.96,136.95,0.73,1.77,1.88
+2022,Nova Scotia,Atlantic Region,Land only,102.0,168235.0,1649.36,8140.0,391.0,0012 - Senior government managers and officials,79.8,864.58,151.24,151.24,6.8,5.25,4.84
+2017,Alberta,"Edmonton, Alberta",Land only,99.42,108870.0,1095.05,5980.0,436.0,0011 - Legislators,60.15,577.6,130.42,130.43,1.6,1.44,1.63
+2017,British Columbia,"Victoria, British Columbia",Land only,100.0,108870.0,1088.7,10470.0,470.0,0011 - Legislators,104.7,596.7,130.42,130.43,1.6,1.44,1.63
+2021,Newfoundland and Labrador,Newfoundland and Labrador,Total (house and land),101.67,152280.0,1497.79,1535.0,310.0,0012 - Senior government managers and officials,15.1,756.44,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",House only,131.5,152280.0,1158.02,22675.0,475.0,0011 - Legislators,172.43,665.23,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"Greater Sudbury, Ontario",Total (house and land),116.58,152280.0,1306.23,22675.0,475.0,0011 - Legislators,194.5,750.37,141.61,141.61,3.4,2.91,2.65
+2023,Ontario,Ontario,House only,128.67,181960.0,1414.16,29680.0,475.0,0011 - Legislators,230.67,822.42,157.11,157.11,3.89,3.89,4.02
+2023,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),170.25,181960.0,1068.78,29680.0,475.0,0011 - Legislators,174.33,621.56,157.11,157.11,3.89,3.89,4.02
+2023,Saskatchewan,"Regina, Saskatchewan",House only,101.83,181960.0,1786.9,7140.0,386.0,0012 - Senior government managers and officials,70.12,928.51,157.11,157.11,3.89,3.89,4.02
+2016,Alberta,Alberta,House only,100.08,103720.0,1036.37,7035.0,436.0,0011 - Legislators,70.29,553.33,128.37,128.38,1.44,1.82,1.99
+2020,Saskatchewan,Saskatchewan,Land only,99.5,105815.0,1063.47,4500.0,386.0,0012 - Senior government managers and officials,45.23,554.35,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),139.08,152280.0,1094.91,22675.0,475.0,0011 - Legislators,163.04,628.98,141.61,141.61,3.4,2.91,2.65
+2021,Manitoba,"Winnipeg, Manitoba",Land only,106.67,152280.0,1427.58,7220.0,409.0,0012 - Senior government managers and officials,67.69,747.64,141.61,141.61,3.4,2.91,2.65
+2016,New Brunswick,New Brunswick,Land only,100.0,103720.0,1037.2,1285.0,369.0,"0013 - Senior managers - financial, communications and other business services",12.85,525.03,128.37,128.38,1.44,1.82,1.99
+2017,Alberta,Prairie Region,Land only,99.58,108870.0,1093.29,5980.0,436.0,0011 - Legislators,60.05,576.67,130.42,130.43,1.6,1.44,1.63
+2017,Manitoba,Manitoba,House only,102.33,108870.0,1063.91,6825.0,409.0,0012 - Senior government managers and officials,66.7,565.31,130.42,130.43,1.6,1.44,1.63
+2019,Quebec,"Sherbrooke, Quebec",Total (house and land),101.83,126555.0,1242.81,22435.0,482.0,0011 - Legislators,220.32,731.56,135.98,135.97,1.94,2.05,2.01
+2020,Newfoundland and Labrador,Newfoundland and Labrador,House only,97.08,105815.0,1089.98,985.0,310.0,0012 - Senior government managers and officials,10.15,550.07,136.96,136.95,0.73,1.77,1.88
+2020,Quebec,Quebec,Total (house and land),111.58,105815.0,948.33,14745.0,482.0,0011 - Legislators,132.15,540.24,136.96,136.95,0.73,1.77,1.88
+2022,British Columbia,"Victoria, British Columbia",Total (house and land),124.42,168235.0,1352.15,12545.0,470.0,0011 - Legislators,100.83,726.49,151.24,151.24,6.8,5.25,4.84
+2023,New Brunswick,New Brunswick,Total (house and land),119.0,181960.0,1529.08,8210.0,369.0,"0013 - Senior managers - financial, communications and other business services",68.99,799.04,157.11,157.11,3.89,3.89,4.02
+2017,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",House only,100.08,108870.0,1087.83,1370.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.69,550.76,130.42,130.43,1.6,1.44,1.63
+2018,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),101.5,117625.0,1158.87,17045.0,482.0,0011 - Legislators,167.93,663.4,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,"Windsor, Ontario",Land only,105.33,126555.0,1201.51,29875.0,475.0,0011 - Legislators,283.63,742.57,135.98,135.97,1.94,2.05,2.01
+2020,New Brunswick,New Brunswick,Land only,101.0,105815.0,1047.67,2510.0,369.0,"0013 - Senior managers - financial, communications and other business services",24.85,536.26,136.96,136.95,0.73,1.77,1.88
+2020,Manitoba,Manitoba,House only,107.83,105815.0,981.31,7230.0,409.0,0012 - Senior government managers and officials,67.05,524.18,136.96,136.95,0.73,1.77,1.88
+2022,,Canada,House only,128.08,168235.0,1313.51,,,,,,151.24,151.24,6.8,5.25,4.84
+2015,Nova Scotia,Atlantic Region,Land only,98.92,96265.0,973.16,1970.0,391.0,0012 - Senior government managers and officials,19.92,496.54,126.57,126.56,1.13,1.63,1.77
+2015,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Land only,98.67,96265.0,975.63,930.0,310.0,0012 - Senior government managers and officials,9.43,492.53,126.57,126.56,1.13,1.63,1.77
+2016,Quebec,"Montréal, Quebec",House only,99.25,103720.0,1045.04,12770.0,482.0,0011 - Legislators,128.66,586.85,128.37,128.38,1.44,1.82,1.99
+2017,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,100.0,108870.0,1088.7,1370.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.7,551.2,130.42,130.43,1.6,1.44,1.63
+2020,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,102.83,105815.0,1029.03,14745.0,482.0,0011 - Legislators,143.39,586.21,136.96,136.95,0.73,1.77,1.88
+2021,Prince Edward Island,Prince Edward Island,Land only,103.0,152280.0,1478.45,2050.0,250.0,0011 - Legislators,19.9,749.18,141.61,141.61,3.4,2.91,2.65
+2022,Quebec,"Sherbrooke, Quebec",House only,112.08,168235.0,1501.03,17755.0,482.0,0011 - Legislators,158.41,829.72,151.24,151.24,6.8,5.25,4.84
+2015,British Columbia,"Victoria, British Columbia",Land only,99.0,96265.0,972.37,7465.0,470.0,0011 - Legislators,75.4,523.89,126.57,126.56,1.13,1.63,1.77
+2016,Saskatchewan,"Saskatoon, Saskatchewan",Land only,100.0,103720.0,1037.2,6020.0,386.0,0012 - Senior government managers and officials,60.2,548.7,128.37,128.38,1.44,1.82,1.99
+2017,Nova Scotia,Atlantic Region,Land only,99.5,108870.0,1094.17,2900.0,391.0,0012 - Senior government managers and officials,29.15,561.66,130.42,130.43,1.6,1.44,1.63
+2017,Alberta,Prairie Region,Total (house and land),99.83,108870.0,1090.55,5980.0,436.0,0011 - Legislators,59.9,575.23,130.42,130.43,1.6,1.44,1.63
+2018,Ontario,"Toronto, Ontario",House only,100.75,117625.0,1167.49,27435.0,475.0,0011 - Legislators,272.31,719.9,133.38,133.36,2.27,1.94,1.88
+2018,Saskatchewan,"Regina, Saskatchewan",Land only,100.0,117625.0,1176.25,4790.0,386.0,0012 - Senior government managers and officials,47.9,612.08,133.38,133.36,2.27,1.94,1.88
+2021,Alberta,Prairie Region,Land only,101.58,152280.0,1499.11,3710.0,436.0,0011 - Legislators,36.52,767.81,141.61,141.61,3.4,2.91,2.65
+2016,Nova Scotia,"Halifax, Nova Scotia",House only,98.67,103720.0,1051.18,2955.0,391.0,0012 - Senior government managers and officials,29.95,540.57,128.37,128.38,1.44,1.82,1.99
+2016,British Columbia,"Vancouver, British Columbia",House only,98.58,103720.0,1052.14,10115.0,470.0,0011 - Legislators,102.61,577.38,128.37,128.38,1.44,1.82,1.99
+2017,,Canada,Land only,102.25,108870.0,1064.74,,,,,,130.42,130.43,1.6,1.44,1.63
+2023,Nova Scotia,Atlantic Region,House only,120.17,181960.0,1514.19,6735.0,391.0,0012 - Senior government managers and officials,56.05,785.12,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Guelph, Ontario",Land only,0.0,96265.0,,23515.0,475.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2018,Alberta,Prairie Region,House only,99.08,117625.0,1187.17,5060.0,436.0,0011 - Legislators,51.07,619.12,133.38,133.36,2.27,1.94,1.88
+2021,British Columbia,"Kelowna, British Columbia",House only,118.42,152280.0,1285.93,9615.0,470.0,0011 - Legislators,81.19,683.56,141.61,141.61,3.4,2.91,2.65
+2022,Nova Scotia,"Halifax, Nova Scotia",House only,125.5,168235.0,1340.52,8140.0,391.0,0012 - Senior government managers and officials,64.86,702.69,151.24,151.24,6.8,5.25,4.84
+2023,,Canada,Total (house and land),124.25,181960.0,1464.47,,,,,,157.11,157.11,3.89,3.89,4.02
+2015,Nova Scotia,Nova Scotia,Total (house and land),98.5,96265.0,977.31,1970.0,391.0,0012 - Senior government managers and officials,20.0,498.66,126.57,126.56,1.13,1.63,1.77
+2015,Ontario,Ontario,Land only,95.25,96265.0,1010.66,23515.0,475.0,0011 - Legislators,246.88,628.77,126.57,126.56,1.13,1.63,1.77
+2016,Prince Edward Island,Prince Edward Island,Total (house and land),99.92,103720.0,1038.03,610.0,250.0,0011 - Legislators,6.1,522.06,128.37,128.38,1.44,1.82,1.99
+2016,Manitoba,"Winnipeg, Manitoba",House only,98.17,103720.0,1056.53,6310.0,409.0,0012 - Senior government managers and officials,64.28,560.41,128.37,128.38,1.44,1.82,1.99
+2018,British Columbia,"Victoria, British Columbia",Land only,100.33,117625.0,1172.38,12395.0,470.0,0011 - Legislators,123.54,647.96,133.38,133.36,2.27,1.94,1.88
+2019,British Columbia,British Columbia,Total (house and land),106.08,126555.0,1193.01,15480.0,470.0,0011 - Legislators,145.93,669.47,135.98,135.97,1.94,2.05,2.01
+2021,Nova Scotia,"Halifax, Nova Scotia",Land only,103.0,152280.0,1478.45,7055.0,391.0,0012 - Senior government managers and officials,68.5,773.48,141.61,141.61,3.4,2.91,2.65
+2021,Alberta,"Calgary, Alberta",Land only,102.0,152280.0,1492.94,3710.0,436.0,0011 - Legislators,36.37,764.66,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,Ontario,Land only,120.0,168235.0,1401.96,29435.0,475.0,0011 - Legislators,245.29,823.63,151.24,151.24,6.8,5.25,4.84
+2022,Manitoba,Manitoba,House only,155.42,168235.0,1082.45,4250.0,409.0,0012 - Senior government managers and officials,27.35,554.9,151.24,151.24,6.8,5.25,4.84
+2015,Ontario,"Oshawa, Ontario",House only,0.0,96265.0,,23515.0,475.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2015,Saskatchewan,Saskatchewan,Land only,98.42,96265.0,978.1,4945.0,386.0,0012 - Senior government managers and officials,50.24,514.17,126.57,126.56,1.13,1.63,1.77
+2017,Nova Scotia,"Halifax, Nova Scotia",House only,100.42,108870.0,1084.15,2900.0,391.0,0012 - Senior government managers and officials,28.88,556.52,130.42,130.43,1.6,1.44,1.63
+2020,Ontario,"London, Ontario",Land only,103.33,105815.0,1024.05,17775.0,475.0,0011 - Legislators,172.02,598.04,136.96,136.95,0.73,1.77,1.88
+2015,Prince Edward Island,Prince Edward Island,Total (house and land),99.42,96265.0,968.27,240.0,250.0,0011 - Legislators,2.41,485.34,126.57,126.56,1.13,1.63,1.77
+2015,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),95.08,96265.0,1012.46,23515.0,475.0,0011 - Legislators,247.32,629.89,126.57,126.56,1.13,1.63,1.77
+2018,Ontario,"Guelph, Ontario",Total (house and land),104.67,117625.0,1123.77,27435.0,475.0,0011 - Legislators,262.11,692.94,133.38,133.36,2.27,1.94,1.88
+2019,British Columbia,"Victoria, British Columbia",Total (house and land),101.25,126555.0,1249.93,15480.0,470.0,0011 - Legislators,152.89,701.41,135.98,135.97,1.94,2.05,2.01
+2020,Quebec,"Sherbrooke, Quebec",House only,103.0,105815.0,1027.33,14745.0,482.0,0011 - Legislators,143.16,585.25,136.96,136.95,0.73,1.77,1.88
+2021,Quebec,Quebec,House only,132.83,152280.0,1146.43,17550.0,482.0,0011 - Legislators,132.12,639.28,141.61,141.61,3.4,2.91,2.65
+2021,British Columbia,"Victoria, British Columbia",House only,118.58,152280.0,1284.2,9615.0,470.0,0011 - Legislators,81.08,682.64,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"St. Catharines-Niagara, Ontario",Total (house and land),129.33,168235.0,1300.82,29435.0,475.0,0011 - Legislators,227.6,764.21,151.24,151.24,6.8,5.25,4.84
+2023,Quebec,"Sherbrooke, Quebec",Total (house and land),111.5,181960.0,1631.93,13935.0,482.0,0011 - Legislators,124.98,878.46,157.11,157.11,3.89,3.89,4.02
+2023,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),115.08,181960.0,1581.16,13935.0,482.0,0011 - Legislators,121.09,851.13,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,"Trois-Rivières, Quebec",House only,0.0,96265.0,,13220.0,482.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2015,Ontario,Ontario,Total (house and land),92.17,96265.0,1044.43,23515.0,475.0,0011 - Legislators,255.13,649.78,126.57,126.56,1.13,1.63,1.77
+2019,Alberta,Alberta,Total (house and land),97.75,126555.0,1294.68,5500.0,436.0,0011 - Legislators,56.27,675.48,135.98,135.97,1.94,2.05,2.01
+2021,Alberta,"Edmonton, Alberta",Total (house and land),101.75,152280.0,1496.61,3710.0,436.0,0011 - Legislators,36.46,766.54,141.61,141.61,3.4,2.91,2.65
+2023,Ontario,"London, Ontario",Land only,118.08,181960.0,1540.99,29680.0,475.0,0011 - Legislators,251.36,896.18,157.11,157.11,3.89,3.89,4.02
+2017,Prince Edward Island,"Charlottetown, Prince Edward Island",Land only,100.0,108870.0,1088.7,730.0,250.0,0011 - Legislators,7.3,548.0,130.42,130.43,1.6,1.44,1.63
+2023,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,181.92,181960.0,1000.22,29680.0,475.0,0011 - Legislators,163.15,581.69,157.11,157.11,3.89,3.89,4.02
+2018,Ontario,"London, Ontario",House only,111.58,117625.0,1054.18,27435.0,475.0,0011 - Legislators,245.88,650.03,133.38,133.36,2.27,1.94,1.88
+2017,Saskatchewan,"Regina, Saskatchewan",Land only,99.92,108870.0,1089.57,4950.0,386.0,0012 - Senior government managers and officials,49.54,569.56,130.42,130.43,1.6,1.44,1.63
+2016,Ontario,Ontario,Land only,97.42,103720.0,1064.67,25565.0,475.0,0011 - Legislators,262.42,663.55,128.37,128.38,1.44,1.82,1.99
+2016,Saskatchewan,"Saskatoon, Saskatchewan",House only,99.67,103720.0,1040.63,6020.0,386.0,0012 - Senior government managers and officials,60.4,550.52,128.37,128.38,1.44,1.82,1.99
+2018,British Columbia,British Columbia,House only,108.25,117625.0,1086.61,12395.0,470.0,0011 - Legislators,114.5,600.56,133.38,133.36,2.27,1.94,1.88
+2023,Ontario,"London, Ontario",Total (house and land),145.17,181960.0,1253.43,29680.0,475.0,0011 - Legislators,204.45,728.94,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Greater Sudbury, Ontario",House only,98.17,96265.0,980.59,23515.0,475.0,0011 - Legislators,239.53,610.06,126.57,126.56,1.13,1.63,1.77
+2019,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Total (house and land),97.17,126555.0,1302.41,1245.0,310.0,0012 - Senior government managers and officials,12.81,657.61,135.98,135.97,1.94,2.05,2.01
+2020,Nova Scotia,"Halifax, Nova Scotia",House only,106.92,105815.0,989.67,4250.0,391.0,0012 - Senior government managers and officials,39.75,514.71,136.96,136.95,0.73,1.77,1.88
+2021,Newfoundland and Labrador,Newfoundland and Labrador,House only,102.67,152280.0,1483.2,1535.0,310.0,0012 - Senior government managers and officials,14.95,749.08,141.61,141.61,3.4,2.91,2.65
+2023,Prince Edward Island,"Charlottetown, Prince Edward Island",Land only,104.0,181960.0,1749.62,3435.0,250.0,0011 - Legislators,33.03,891.32,157.11,157.11,3.89,3.89,4.02
+2023,British Columbia,"Victoria, British Columbia",House only,126.67,181960.0,1436.49,13760.0,470.0,0011 - Legislators,108.63,772.56,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Toronto, Ontario",Total (house and land),90.33,96265.0,1065.7,23515.0,475.0,0011 - Legislators,260.32,663.01,126.57,126.56,1.13,1.63,1.77
+2016,British Columbia,"Victoria, British Columbia",Land only,99.25,103720.0,1045.04,10115.0,470.0,0011 - Legislators,101.91,573.48,128.37,128.38,1.44,1.82,1.99
+2017,Newfoundland and Labrador,Newfoundland and Labrador,House only,98.58,108870.0,1104.38,1005.0,310.0,0012 - Senior government managers and officials,10.19,557.29,130.42,130.43,1.6,1.44,1.63
+2018,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",House only,100.75,117625.0,1167.49,1715.0,369.0,"0013 - Senior managers - financial, communications and other business services",17.02,592.26,133.38,133.36,2.27,1.94,1.88
+2016,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,8.33,103720.0,12451.38,12770.0,482.0,0011 - Legislators,1533.01,6992.2,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Hamilton, Ontario",Land only,99.92,108870.0,1089.57,26770.0,475.0,0011 - Legislators,267.91,678.74,130.42,130.43,1.6,1.44,1.63
+2017,Ontario,"St. Catharines-Niagara, Ontario",House only,103.58,108870.0,1051.07,26770.0,475.0,0011 - Legislators,258.45,654.76,130.42,130.43,1.6,1.44,1.63
+2023,Quebec,"Montréal, Quebec",House only,160.58,181960.0,1133.14,13935.0,482.0,0011 - Legislators,86.78,609.96,157.11,157.11,3.89,3.89,4.02
+2023,Saskatchewan,"Saskatoon, Saskatchewan",House only,114.92,181960.0,1583.36,7140.0,386.0,0012 - Senior government managers and officials,62.13,822.75,157.11,157.11,3.89,3.89,4.02
+2018,Quebec,"Québec, Quebec",House only,100.0,117625.0,1176.25,17045.0,482.0,0011 - Legislators,170.45,673.35,133.38,133.36,2.27,1.94,1.88
+2018,Quebec,"Montréal, Quebec",Total (house and land),102.92,117625.0,1142.88,17045.0,482.0,0011 - Legislators,165.61,654.25,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"Oshawa, Ontario",Land only,106.0,117625.0,1109.67,27435.0,475.0,0011 - Legislators,258.82,684.25,133.38,133.36,2.27,1.94,1.88
+2019,Saskatchewan,Saskatchewan,House only,94.42,126555.0,1340.34,5215.0,386.0,0012 - Senior government managers and officials,55.23,697.79,135.98,135.97,1.94,2.05,2.01
+2019,British Columbia,"Kelowna, British Columbia",Total (house and land),102.92,126555.0,1229.64,15480.0,470.0,0011 - Legislators,150.41,690.03,135.98,135.97,1.94,2.05,2.01
+2021,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),154.42,152280.0,986.14,22675.0,475.0,0011 - Legislators,146.84,566.49,141.61,141.61,3.4,2.91,2.65
+2022,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",House only,120.25,168235.0,1399.04,5690.0,369.0,"0013 - Senior managers - financial, communications and other business services",47.32,723.18,151.24,151.24,6.8,5.25,4.84
+2022,British Columbia,"Vancouver, British Columbia",Total (house and land),128.17,168235.0,1312.59,12545.0,470.0,0011 - Legislators,97.88,705.23,151.24,151.24,6.8,5.25,4.84
+2023,Newfoundland and Labrador,Newfoundland and Labrador,House only,108.67,181960.0,1674.43,4520.0,310.0,0012 - Senior government managers and officials,41.59,858.01,157.11,157.11,3.89,3.89,4.02
+2016,Alberta,"Edmonton, Alberta",Land only,99.08,103720.0,1046.83,7035.0,436.0,0011 - Legislators,71.0,558.92,128.37,128.38,1.44,1.82,1.99
+2018,Ontario,"London, Ontario",Land only,100.42,117625.0,1171.33,27435.0,475.0,0011 - Legislators,273.2,722.27,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,"Oshawa, Ontario",House only,101.42,126555.0,1247.83,29875.0,475.0,0011 - Legislators,294.57,771.2,135.98,135.97,1.94,2.05,2.01
+2020,,Canada,House only,104.42,105815.0,1013.36,,,,,,136.96,136.95,0.73,1.77,1.88
+2021,Nova Scotia,Nova Scotia,Total (house and land),115.58,152280.0,1317.53,7055.0,391.0,0012 - Senior government managers and officials,61.04,689.29,141.61,141.61,3.4,2.91,2.65
+2017,Ontario,"Oshawa, Ontario",House only,102.92,108870.0,1057.81,26770.0,475.0,0011 - Legislators,260.1,658.95,130.42,130.43,1.6,1.44,1.63
+2017,Alberta,"Edmonton, Alberta",House only,99.42,108870.0,1095.05,5980.0,436.0,0011 - Legislators,60.15,577.6,130.42,130.43,1.6,1.44,1.63
+2022,Quebec,"Trois-Rivières, Quebec",Total (house and land),111.0,168235.0,1515.63,17755.0,482.0,0011 - Legislators,159.95,837.79,151.24,151.24,6.8,5.25,4.84
+2023,British Columbia,"Kelowna, British Columbia",House only,126.08,181960.0,1443.21,13760.0,470.0,0011 - Legislators,109.14,776.18,157.11,157.11,3.89,3.89,4.02
+2017,Manitoba,Manitoba,Total (house and land),101.58,108870.0,1071.77,6825.0,409.0,0012 - Senior government managers and officials,67.19,569.48,130.42,130.43,1.6,1.44,1.63
+2022,Prince Edward Island,Prince Edward Island,House only,125.75,168235.0,1337.85,2290.0,250.0,0011 - Legislators,18.21,678.03,151.24,151.24,6.8,5.25,4.84
+2015,New Brunswick,New Brunswick,Total (house and land),97.75,96265.0,984.81,1030.0,369.0,"0013 - Senior managers - financial, communications and other business services",10.54,497.67,126.57,126.56,1.13,1.63,1.77
+2016,Prince Edward Island,Prince Edward Island,House only,99.92,103720.0,1038.03,610.0,250.0,0011 - Legislators,6.1,522.06,128.37,128.38,1.44,1.82,1.99
+2017,British Columbia,"Vancouver, British Columbia",Total (house and land),104.42,108870.0,1042.62,10470.0,470.0,0011 - Legislators,100.27,571.44,130.42,130.43,1.6,1.44,1.63
+2018,Manitoba,"Winnipeg, Manitoba",Land only,100.75,117625.0,1167.49,8325.0,409.0,0012 - Senior government managers and officials,82.63,625.06,133.38,133.36,2.27,1.94,1.88
+2018,Saskatchewan,"Regina, Saskatchewan",Total (house and land),98.58,117625.0,1193.19,4790.0,386.0,0012 - Senior government managers and officials,48.59,620.89,133.38,133.36,2.27,1.94,1.88
+2020,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),107.92,105815.0,980.49,14745.0,482.0,0011 - Legislators,136.63,558.56,136.96,136.95,0.73,1.77,1.88
+2020,British Columbia,"Vancouver, British Columbia",House only,107.17,105815.0,987.36,7240.0,470.0,0011 - Legislators,67.56,527.46,136.96,136.95,0.73,1.77,1.88
+2022,Quebec,"Québec, Quebec",Total (house and land),124.25,168235.0,1354.0,17755.0,482.0,0011 - Legislators,142.9,748.45,151.24,151.24,6.8,5.25,4.84
+2023,Prince Edward Island,"Charlottetown, Prince Edward Island",Total (house and land),122.0,181960.0,1491.48,3435.0,250.0,0011 - Legislators,28.16,759.82,157.11,157.11,3.89,3.89,4.02
+2016,Alberta,Alberta,Total (house and land),99.75,103720.0,1039.8,7035.0,436.0,0011 - Legislators,70.53,555.17,128.37,128.38,1.44,1.82,1.99
+2018,Ontario,"Hamilton, Ontario",Total (house and land),103.0,117625.0,1141.99,27435.0,475.0,0011 - Legislators,266.36,704.18,133.38,133.36,2.27,1.94,1.88
+2019,Quebec,"Québec, Quebec",House only,100.0,126555.0,1265.55,22435.0,482.0,0011 - Legislators,224.35,744.95,135.98,135.97,1.94,2.05,2.01
+2021,New Brunswick,New Brunswick,Land only,101.92,152280.0,1494.11,4175.0,369.0,"0013 - Senior managers - financial, communications and other business services",40.96,767.54,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"St. Catharines-Niagara, Ontario",House only,124.58,152280.0,1222.35,22675.0,475.0,0011 - Legislators,182.01,702.18,141.61,141.61,3.4,2.91,2.65
+2020,Nova Scotia,"Halifax, Nova Scotia",Total (house and land),105.67,105815.0,1001.37,4250.0,391.0,0012 - Senior government managers and officials,40.22,520.8,136.96,136.95,0.73,1.77,1.88
+2021,Saskatchewan,Saskatchewan,Land only,99.75,152280.0,1526.62,6115.0,386.0,0012 - Senior government managers and officials,61.3,793.96,141.61,141.61,3.4,2.91,2.65
+2015,Nova Scotia,"Halifax, Nova Scotia",Total (house and land),98.5,96265.0,977.31,1970.0,391.0,0012 - Senior government managers and officials,20.0,498.66,126.57,126.56,1.13,1.63,1.77
+2019,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),105.08,126555.0,1204.37,29875.0,475.0,0011 - Legislators,284.31,744.34,135.98,135.97,1.94,2.05,2.01
+2021,Prince Edward Island,Prince Edward Island,Total (house and land),116.5,152280.0,1307.12,2050.0,250.0,0011 - Legislators,17.6,662.36,141.61,141.61,3.4,2.91,2.65
+2023,Ontario,"London, Ontario",House only,152.5,181960.0,1193.18,29680.0,475.0,0011 - Legislators,194.62,693.9,157.11,157.11,3.89,3.89,4.02
+2016,Prince Edward Island,"Charlottetown, Prince Edward Island",House only,99.92,103720.0,1038.03,610.0,250.0,0011 - Legislators,6.1,522.06,128.37,128.38,1.44,1.82,1.99
+2022,Quebec,"Trois-Rivières, Quebec",Land only,104.0,168235.0,1617.64,17755.0,482.0,0011 - Legislators,170.72,894.18,151.24,151.24,6.8,5.25,4.84
+2019,Quebec,"Montréal, Quebec",Land only,102.75,126555.0,1231.68,22435.0,482.0,0011 - Legislators,218.35,725.02,135.98,135.97,1.94,2.05,2.01
+2019,Alberta,"Edmonton, Alberta",Land only,100.0,126555.0,1265.55,5500.0,436.0,0011 - Legislators,55.0,660.28,135.98,135.97,1.94,2.05,2.01
+2021,Prince Edward Island,"Charlottetown, Prince Edward Island",Total (house and land),116.5,152280.0,1307.12,2050.0,250.0,0011 - Legislators,17.6,662.36,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"London, Ontario",Land only,117.75,168235.0,1428.75,29435.0,475.0,0011 - Legislators,249.98,839.37,151.24,151.24,6.8,5.25,4.84
+2023,Alberta,Alberta,House only,122.08,181960.0,1490.5,6605.0,436.0,0011 - Legislators,54.1,772.3,157.11,157.11,3.89,3.89,4.02
+2016,Quebec,"Sherbrooke, Quebec",Total (house and land),8.33,103720.0,12451.38,12770.0,482.0,0011 - Legislators,1533.01,6992.2,128.37,128.38,1.44,1.82,1.99
+2017,Quebec,"Trois-Rivières, Quebec",House only,100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2017,Ontario,"Hamilton, Ontario",House only,102.92,108870.0,1057.81,26770.0,475.0,0011 - Legislators,260.1,658.95,130.42,130.43,1.6,1.44,1.63
+2019,Nova Scotia,"Halifax, Nova Scotia",Land only,100.0,126555.0,1265.55,4485.0,391.0,0012 - Senior government managers and officials,44.85,655.2,135.98,135.97,1.94,2.05,2.01
+2021,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,104.33,152280.0,1459.6,17550.0,482.0,0011 - Legislators,168.22,813.91,141.61,141.61,3.4,2.91,2.65
+2023,Quebec,"Sherbrooke, Quebec",House only,112.17,181960.0,1622.18,13935.0,482.0,0011 - Legislators,124.23,873.21,157.11,157.11,3.89,3.89,4.02
+2023,Saskatchewan,Saskatchewan,Total (house and land),104.42,181960.0,1742.58,7140.0,386.0,0012 - Senior government managers and officials,68.38,905.48,157.11,157.11,3.89,3.89,4.02
+2018,Quebec,"Sherbrooke, Quebec",Land only,100.83,117625.0,1166.57,17045.0,482.0,0011 - Legislators,169.05,667.81,133.38,133.36,2.27,1.94,1.88
+2020,Manitoba,"Winnipeg, Manitoba",House only,107.83,105815.0,981.31,7230.0,409.0,0012 - Senior government managers and officials,67.05,524.18,136.96,136.95,0.73,1.77,1.88
+2021,Nova Scotia,Atlantic Region,Land only,102.0,152280.0,1492.94,7055.0,391.0,0012 - Senior government managers and officials,69.17,781.06,141.61,141.61,3.4,2.91,2.65
+2021,Quebec,"Sherbrooke, Quebec",Land only,103.58,152280.0,1470.17,17550.0,482.0,0011 - Legislators,169.43,819.8,141.61,141.61,3.4,2.91,2.65
+2022,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",House only,106.92,168235.0,1573.47,3240.0,310.0,0012 - Senior government managers and officials,30.3,801.89,151.24,151.24,6.8,5.25,4.84
+2023,Nova Scotia,"Halifax, Nova Scotia",Land only,103.0,181960.0,1766.6,6735.0,391.0,0012 - Senior government managers and officials,65.39,916.0,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,Ontario,House only,90.67,96265.0,1061.71,23515.0,475.0,0011 - Legislators,259.35,660.53,126.57,126.56,1.13,1.63,1.77
+2018,Ontario,"Toronto, Ontario",Total (house and land),103.17,117625.0,1140.11,27435.0,475.0,0011 - Legislators,265.92,703.02,133.38,133.36,2.27,1.94,1.88
+2023,Manitoba,Manitoba,Land only,109.92,181960.0,1655.39,1145.0,409.0,0012 - Senior government managers and officials,10.42,832.91,157.11,157.11,3.89,3.89,4.02
+2016,Ontario,"Hamilton, Ontario",Total (house and land),98.17,103720.0,1056.53,25565.0,475.0,0011 - Legislators,260.42,658.48,128.37,128.38,1.44,1.82,1.99
+2018,Alberta,"Calgary, Alberta",Total (house and land),99.25,117625.0,1185.14,5060.0,436.0,0011 - Legislators,50.98,618.06,133.38,133.36,2.27,1.94,1.88
+2021,Manitoba,"Winnipeg, Manitoba",Total (house and land),122.08,152280.0,1247.38,7220.0,409.0,0012 - Senior government managers and officials,59.14,653.26,141.61,141.61,3.4,2.91,2.65
+2022,Quebec,Quebec,House only,147.75,168235.0,1138.65,17755.0,482.0,0011 - Legislators,120.17,629.41,151.24,151.24,6.8,5.25,4.84
+2015,Prince Edward Island,"Charlottetown, Prince Edward Island",Land only,98.75,96265.0,974.84,240.0,250.0,0011 - Legislators,2.43,488.64,126.57,126.56,1.13,1.63,1.77
+2016,Quebec,"Trois-Rivières, Quebec",Total (house and land),8.33,103720.0,12451.38,12770.0,482.0,0011 - Legislators,1533.01,6992.2,128.37,128.38,1.44,1.82,1.99
+2017,New Brunswick,New Brunswick,House only,100.08,108870.0,1087.83,1370.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.69,550.76,130.42,130.43,1.6,1.44,1.63
+2020,Ontario,"Toronto, Ontario",Total (house and land),103.0,105815.0,1027.33,17775.0,475.0,0011 - Legislators,172.57,599.95,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"Greater Sudbury, Ontario",House only,116.75,152280.0,1304.33,22675.0,475.0,0011 - Legislators,194.22,749.28,141.61,141.61,3.4,2.91,2.65
+2021,British Columbia,"Victoria, British Columbia",Total (house and land),113.92,152280.0,1336.73,9615.0,470.0,0011 - Legislators,84.4,710.57,141.61,141.61,3.4,2.91,2.65
+2023,Alberta,"Calgary, Alberta",Land only,108.92,181960.0,1670.58,6605.0,436.0,0011 - Legislators,60.64,865.61,157.11,157.11,3.89,3.89,4.02
+2020,Alberta,Prairie Region,Total (house and land),97.5,105815.0,1085.28,6200.0,436.0,0011 - Legislators,63.59,574.44,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"Greater Sudbury, Ontario",Land only,114.5,152280.0,1329.96,22675.0,475.0,0011 - Legislators,198.03,764.0,141.61,141.61,3.4,2.91,2.65
+2016,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,99.17,103720.0,1045.88,25565.0,475.0,0011 - Legislators,257.79,651.84,128.37,128.38,1.44,1.82,1.99
+2018,,Canada,House only,102.33,117625.0,1149.47,,,,,,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"St. Catharines-Niagara, Ontario",House only,105.83,117625.0,1111.45,27435.0,475.0,0011 - Legislators,259.24,685.35,133.38,133.36,2.27,1.94,1.88
+2021,Ontario,"London, Ontario",Total (house and land),131.67,152280.0,1156.53,22675.0,475.0,0011 - Legislators,172.21,664.37,141.61,141.61,3.4,2.91,2.65
+2015,,Canada,Total (house and land),95.67,96265.0,1006.22,,,,,,126.57,126.56,1.13,1.63,1.77
+2015,British Columbia,"Vancouver, British Columbia",Land only,99.0,96265.0,972.37,7465.0,470.0,0011 - Legislators,75.4,523.89,126.57,126.56,1.13,1.63,1.77
+2019,Saskatchewan,Saskatchewan,Total (house and land),96.25,126555.0,1314.86,5215.0,386.0,0012 - Senior government managers and officials,54.18,684.52,135.98,135.97,1.94,2.05,2.01
+2020,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Total (house and land),97.67,105815.0,1083.39,985.0,310.0,0012 - Senior government managers and officials,10.08,546.74,136.96,136.95,0.73,1.77,1.88
+2020,Ontario,"Hamilton, Ontario",Land only,102.17,105815.0,1035.68,17775.0,475.0,0011 - Legislators,173.97,604.83,136.96,136.95,0.73,1.77,1.88
+2022,Newfoundland and Labrador,Newfoundland and Labrador,Total (house and land),104.58,168235.0,1608.67,3240.0,310.0,0012 - Senior government managers and officials,30.98,819.83,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Guelph, Ontario",Total (house and land),123.25,181960.0,1476.35,29680.0,475.0,0011 - Legislators,240.81,858.58,157.11,157.11,3.89,3.89,4.02
+2023,British Columbia,"Kelowna, British Columbia",Land only,118.0,181960.0,1542.03,13760.0,470.0,0011 - Legislators,116.61,829.32,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,"Montréal, Quebec",House only,98.08,96265.0,981.49,13220.0,482.0,0011 - Legislators,134.79,558.14,126.57,126.56,1.13,1.63,1.77
+2016,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Total (house and land),99.92,103720.0,1038.03,1180.0,310.0,0012 - Senior government managers and officials,11.81,524.92,128.37,128.38,1.44,1.82,1.99
+2016,Manitoba,Manitoba,House only,98.17,103720.0,1056.53,6310.0,409.0,0012 - Senior government managers and officials,64.28,560.41,128.37,128.38,1.44,1.82,1.99
+2017,Alberta,Alberta,Total (house and land),99.75,108870.0,1091.43,5980.0,436.0,0011 - Legislators,59.95,575.69,130.42,130.43,1.6,1.44,1.63
+2018,,Canada,Land only,103.33,117625.0,1138.34,,,,,,133.38,133.36,2.27,1.94,1.88
+2022,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,134.5,168235.0,1250.82,29435.0,475.0,0011 - Legislators,218.85,734.83,151.24,151.24,6.8,5.25,4.84
+2022,British Columbia,British Columbia,Total (house and land),127.33,168235.0,1321.25,12545.0,470.0,0011 - Legislators,98.52,709.89,151.24,151.24,6.8,5.25,4.84
+2015,British Columbia,"Kelowna, British Columbia",House only,0.0,96265.0,,7465.0,470.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"London, Ontario",Total (house and land),98.17,103720.0,1056.53,25565.0,475.0,0011 - Legislators,260.42,658.48,128.37,128.38,1.44,1.82,1.99
+2017,Quebec,"Trois-Rivières, Quebec",Total (house and land),100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2019,Nova Scotia,Atlantic Region,House only,100.0,126555.0,1265.55,4485.0,391.0,0012 - Senior government managers and officials,44.85,655.2,135.98,135.97,1.94,2.05,2.01
+2021,Quebec,"Sherbrooke, Quebec",House only,104.5,152280.0,1457.22,17550.0,482.0,0011 - Legislators,167.94,812.58,141.61,141.61,3.4,2.91,2.65
+2022,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),118.33,168235.0,1421.74,5690.0,369.0,"0013 - Senior managers - financial, communications and other business services",48.09,734.92,151.24,151.24,6.8,5.25,4.84
+2023,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",House only,108.67,181960.0,1674.43,4520.0,310.0,0012 - Senior government managers and officials,41.59,858.01,157.11,157.11,3.89,3.89,4.02
+2023,Ontario,Ontario,Land only,120.0,181960.0,1516.33,29680.0,475.0,0011 - Legislators,247.33,881.83,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,"Trois-Rivières, Quebec",Total (house and land),0.0,96265.0,,13220.0,482.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2017,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2020,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Land only,99.0,105815.0,1068.84,985.0,310.0,0012 - Senior government managers and officials,9.95,539.4,136.96,136.95,0.73,1.77,1.88
+2020,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),126.08,105815.0,839.27,17775.0,475.0,0011 - Legislators,140.98,490.13,136.96,136.95,0.73,1.77,1.88
+2015,Prince Edward Island,"Charlottetown, Prince Edward Island",Total (house and land),99.42,96265.0,968.27,240.0,250.0,0011 - Legislators,2.41,485.34,126.57,126.56,1.13,1.63,1.77
+2017,Ontario,"Guelph, Ontario",Total (house and land),103.08,108870.0,1056.17,26770.0,475.0,0011 - Legislators,259.7,657.94,130.42,130.43,1.6,1.44,1.63
+2017,British Columbia,"Victoria, British Columbia",Total (house and land),100.92,108870.0,1078.78,10470.0,470.0,0011 - Legislators,103.75,591.27,130.42,130.43,1.6,1.44,1.63
+2019,Saskatchewan,"Saskatoon, Saskatchewan",Land only,100.92,126555.0,1254.01,5215.0,386.0,0012 - Senior government managers and officials,51.67,652.84,135.98,135.97,1.94,2.05,2.01
+2022,Alberta,Prairie Region,Total (house and land),117.83,168235.0,1427.78,5205.0,436.0,0011 - Legislators,44.17,735.98,151.24,151.24,6.8,5.25,4.84
+2016,Alberta,Prairie Region,House only,99.83,103720.0,1038.97,7035.0,436.0,0011 - Legislators,70.47,554.72,128.37,128.38,1.44,1.82,1.99
+2018,Saskatchewan,Saskatchewan,House only,97.08,117625.0,1211.63,4790.0,386.0,0012 - Senior government managers and officials,49.34,630.49,133.38,133.36,2.27,1.94,1.88
+2018,Alberta,"Calgary, Alberta",Land only,100.0,117625.0,1176.25,5060.0,436.0,0011 - Legislators,50.6,613.43,133.38,133.36,2.27,1.94,1.88
+2021,Ontario,Ontario,House only,120.17,152280.0,1267.2,22675.0,475.0,0011 - Legislators,188.69,727.95,141.61,141.61,3.4,2.91,2.65
+2023,Ontario,"St. Catharines-Niagara, Ontario",Total (house and land),127.08,181960.0,1431.85,29680.0,475.0,0011 - Legislators,233.55,832.7,157.11,157.11,3.89,3.89,4.02
+2023,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Land only,158.25,181960.0,1149.83,29680.0,475.0,0011 - Legislators,187.55,668.69,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,"Sherbrooke, Quebec",Land only,0.0,96265.0,,13220.0,482.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2017,Alberta,"Calgary, Alberta",Total (house and land),99.5,108870.0,1094.17,5980.0,436.0,0011 - Legislators,60.1,577.14,130.42,130.43,1.6,1.44,1.63
+2019,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",House only,101.17,126555.0,1250.91,2225.0,369.0,"0013 - Senior managers - financial, communications and other business services",21.99,636.45,135.98,135.97,1.94,2.05,2.01
+2023,Prince Edward Island,Prince Edward Island,Total (house and land),122.0,181960.0,1491.48,3435.0,250.0,0011 - Legislators,28.16,759.82,157.11,157.11,3.89,3.89,4.02
+2016,,Canada,House only,98.17,103720.0,1056.53,,,,,,128.37,128.38,1.44,1.82,1.99
+2016,Alberta,Prairie Region,Land only,99.08,103720.0,1046.83,7035.0,436.0,0011 - Legislators,71.0,558.92,128.37,128.38,1.44,1.82,1.99
+2017,Newfoundland and Labrador,Newfoundland and Labrador,Total (house and land),98.75,108870.0,1102.48,1005.0,310.0,0012 - Senior government managers and officials,10.18,556.33,130.42,130.43,1.6,1.44,1.63
+2017,British Columbia,British Columbia,Total (house and land),103.92,108870.0,1047.63,10470.0,470.0,0011 - Legislators,100.75,574.19,130.42,130.43,1.6,1.44,1.63
+2022,Quebec,"Trois-Rivières, Quebec",House only,112.0,168235.0,1502.1,17755.0,482.0,0011 - Legislators,158.53,830.31,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Oshawa, Ontario",House only,123.92,181960.0,1468.37,29680.0,475.0,0011 - Legislators,239.51,853.94,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Land only,99.0,96265.0,972.37,23515.0,475.0,0011 - Legislators,237.53,604.95,126.57,126.56,1.13,1.63,1.77
+2018,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),107.08,117625.0,1098.48,27435.0,475.0,0011 - Legislators,256.21,677.35,133.38,133.36,2.27,1.94,1.88
+2019,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,100.08,126555.0,1264.54,2225.0,369.0,"0013 - Senior managers - financial, communications and other business services",22.23,643.39,135.98,135.97,1.94,2.05,2.01
+2020,Saskatchewan,"Regina, Saskatchewan",House only,89.58,105815.0,1181.23,4500.0,386.0,0012 - Senior government managers and officials,50.23,615.73,136.96,136.95,0.73,1.77,1.88
+2017,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),102.0,108870.0,1067.35,26770.0,475.0,0011 - Legislators,262.45,664.9,130.42,130.43,1.6,1.44,1.63
+2017,Ontario,"Oshawa, Ontario",Total (house and land),102.83,108870.0,1058.74,26770.0,475.0,0011 - Legislators,260.33,659.54,130.42,130.43,1.6,1.44,1.63
+2018,Quebec,"Sherbrooke, Quebec",Total (house and land),99.83,117625.0,1178.25,17045.0,482.0,0011 - Legislators,170.74,674.5,133.38,133.36,2.27,1.94,1.88
+2020,Ontario,"Toronto, Ontario",House only,99.75,105815.0,1060.8,17775.0,475.0,0011 - Legislators,178.2,619.5,136.96,136.95,0.73,1.77,1.88
+2022,Alberta,"Calgary, Alberta",House only,129.92,168235.0,1294.91,5205.0,436.0,0011 - Legislators,40.06,667.49,151.24,151.24,6.8,5.25,4.84
+2016,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),97.42,103720.0,1064.67,25565.0,475.0,0011 - Legislators,262.42,663.55,128.37,128.38,1.44,1.82,1.99
+2017,Quebec,"Montréal, Quebec",Land only,100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2019,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Land only,99.58,126555.0,1270.89,1245.0,310.0,0012 - Senior government managers and officials,12.5,641.7,135.98,135.97,1.94,2.05,2.01
+2020,Quebec,Quebec,House only,113.5,105815.0,932.29,14745.0,482.0,0011 - Legislators,129.91,531.1,136.96,136.95,0.73,1.77,1.88
+2023,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Land only,102.0,181960.0,1783.92,4520.0,310.0,0012 - Senior government managers and officials,44.31,914.12,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"St. Catharines-Niagara, Ontario",Total (house and land),93.08,96265.0,1034.22,23515.0,475.0,0011 - Legislators,252.63,643.43,126.57,126.56,1.13,1.63,1.77
+2015,British Columbia,"Vancouver, British Columbia",Total (house and land),94.17,96265.0,1022.25,7465.0,470.0,0011 - Legislators,79.27,550.76,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"London, Ontario",Land only,99.17,103720.0,1045.88,25565.0,475.0,0011 - Legislators,257.79,651.84,128.37,128.38,1.44,1.82,1.99
+2019,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Land only,104.42,126555.0,1211.98,29875.0,475.0,0011 - Legislators,286.1,749.04,135.98,135.97,1.94,2.05,2.01
+2018,Quebec,"Trois-Rivières, Quebec",House only,100.25,117625.0,1173.32,17045.0,482.0,0011 - Legislators,170.02,671.67,133.38,133.36,2.27,1.94,1.88
+2018,Alberta,Alberta,Land only,100.0,117625.0,1176.25,5060.0,436.0,0011 - Legislators,50.6,613.43,133.38,133.36,2.27,1.94,1.88
+2016,Prince Edward Island,"Charlottetown, Prince Edward Island",Total (house and land),99.92,103720.0,1038.03,610.0,250.0,0011 - Legislators,6.1,522.06,128.37,128.38,1.44,1.82,1.99
+2016,Saskatchewan,"Regina, Saskatchewan",House only,100.5,103720.0,1032.04,6020.0,386.0,0012 - Senior government managers and officials,59.9,545.97,128.37,128.38,1.44,1.82,1.99
+2017,Saskatchewan,"Saskatoon, Saskatchewan",Land only,99.33,108870.0,1096.04,4950.0,386.0,0012 - Senior government managers and officials,49.83,572.94,130.42,130.43,1.6,1.44,1.63
+2021,Quebec,"Sherbrooke, Quebec",Total (house and land),104.83,152280.0,1452.64,17550.0,482.0,0011 - Legislators,167.41,810.03,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Land only,147.75,152280.0,1030.66,22675.0,475.0,0011 - Legislators,153.47,592.07,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,185.92,168235.0,904.88,29435.0,475.0,0011 - Legislators,158.32,531.6,151.24,151.24,6.8,5.25,4.84
+2015,New Brunswick,New Brunswick,House only,97.5,96265.0,987.33,1030.0,369.0,"0013 - Senior managers - financial, communications and other business services",10.56,498.95,126.57,126.56,1.13,1.63,1.77
+2017,Quebec,Quebec,Total (house and land),100.25,108870.0,1085.99,15475.0,482.0,0011 - Legislators,154.36,620.18,130.42,130.43,1.6,1.44,1.63
+2017,Quebec,"Sherbrooke, Quebec",Total (house and land),99.33,108870.0,1096.04,15475.0,482.0,0011 - Legislators,155.79,625.92,130.42,130.43,1.6,1.44,1.63
+2019,Nova Scotia,Nova Scotia,Total (house and land),101.92,126555.0,1241.71,4485.0,391.0,0012 - Senior government managers and officials,44.01,642.86,135.98,135.97,1.94,2.05,2.01
+2020,New Brunswick,New Brunswick,House only,103.17,105815.0,1025.64,2510.0,369.0,"0013 - Senior managers - financial, communications and other business services",24.33,524.99,136.96,136.95,0.73,1.77,1.88
+2020,Alberta,Prairie Region,House only,96.0,105815.0,1102.24,6200.0,436.0,0011 - Legislators,64.58,583.41,136.96,136.95,0.73,1.77,1.88
+2020,Alberta,Prairie Region,Land only,100.0,105815.0,1058.15,6200.0,436.0,0011 - Legislators,62.0,560.08,136.96,136.95,0.73,1.77,1.88
+2021,Alberta,"Edmonton, Alberta",House only,101.83,152280.0,1495.43,3710.0,436.0,0011 - Legislators,36.43,765.93,141.61,141.61,3.4,2.91,2.65
+2023,Quebec,Quebec,House only,149.42,181960.0,1217.78,13935.0,482.0,0011 - Legislators,93.26,655.52,157.11,157.11,3.89,3.89,4.02
+2016,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),8.33,103720.0,12451.38,12770.0,482.0,0011 - Legislators,1533.01,6992.2,128.37,128.38,1.44,1.82,1.99
+2019,Ontario,"Oshawa, Ontario",Land only,106.0,126555.0,1193.92,29875.0,475.0,0011 - Legislators,281.84,737.88,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Oshawa, Ontario",Total (house and land),104.67,105815.0,1010.94,17775.0,475.0,0011 - Legislators,169.82,590.38,136.96,136.95,0.73,1.77,1.88
+2017,Ontario,"Windsor, Ontario",House only,100.92,108870.0,1078.78,26770.0,475.0,0011 - Legislators,265.26,672.02,130.42,130.43,1.6,1.44,1.63
+2021,Quebec,"Montréal, Quebec",House only,141.0,152280.0,1080.0,17550.0,482.0,0011 - Legislators,124.47,602.24,141.61,141.61,3.4,2.91,2.65
+2016,Saskatchewan,"Regina, Saskatchewan",Land only,98.75,103720.0,1050.33,6020.0,386.0,0012 - Senior government managers and officials,60.96,555.65,128.37,128.38,1.44,1.82,1.99
+2018,Nova Scotia,"Halifax, Nova Scotia",House only,101.75,117625.0,1156.02,3115.0,391.0,0012 - Senior government managers and officials,30.61,593.31,133.38,133.36,2.27,1.94,1.88
+2018,Quebec,Quebec,House only,102.67,117625.0,1145.66,17045.0,482.0,0011 - Legislators,166.02,655.84,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"Guelph, Ontario",Land only,104.0,117625.0,1131.01,27435.0,475.0,0011 - Legislators,263.8,697.41,133.38,133.36,2.27,1.94,1.88
+2020,Ontario,Ontario,Land only,108.08,105815.0,979.04,17775.0,475.0,0011 - Legislators,164.46,571.75,136.96,136.95,0.73,1.77,1.88
+2021,Saskatchewan,"Saskatoon, Saskatchewan",Land only,100.17,152280.0,1520.22,6115.0,386.0,0012 - Senior government managers and officials,61.05,790.64,141.61,141.61,3.4,2.91,2.65
+2022,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Land only,102.0,168235.0,1649.36,3240.0,310.0,0012 - Senior government managers and officials,31.76,840.56,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Oshawa, Ontario",Total (house and land),121.33,181960.0,1499.71,29680.0,475.0,0011 - Legislators,244.62,872.17,157.11,157.11,3.89,3.89,4.02
+2021,Ontario,"Guelph, Ontario",Land only,107.33,152280.0,1418.8,22675.0,475.0,0011 - Legislators,211.26,815.03,141.61,141.61,3.4,2.91,2.65
+2015,Quebec,"Sherbrooke, Quebec",Total (house and land),0.0,96265.0,,13220.0,482.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2019,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,101.25,126555.0,1249.93,22435.0,482.0,0011 - Legislators,221.58,735.76,135.98,135.97,1.94,2.05,2.01
+2022,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",House only,153.83,168235.0,1093.64,29435.0,475.0,0011 - Legislators,191.35,642.5,151.24,151.24,6.8,5.25,4.84
+2015,Ontario,"Guelph, Ontario",House only,0.0,96265.0,,23515.0,475.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2016,Nova Scotia,"Halifax, Nova Scotia",Total (house and land),98.83,103720.0,1049.48,2955.0,391.0,0012 - Senior government managers and officials,29.9,539.69,128.37,128.38,1.44,1.82,1.99
+2018,Nova Scotia,"Halifax, Nova Scotia",Land only,99.83,117625.0,1178.25,3115.0,391.0,0012 - Senior government managers and officials,31.2,604.73,133.38,133.36,2.27,1.94,1.88
+2020,Prince Edward Island,Prince Edward Island,Total (house and land),103.0,105815.0,1027.33,1185.0,250.0,0011 - Legislators,11.5,519.42,136.96,136.95,0.73,1.77,1.88
+2020,Quebec,"Montréal, Quebec",Total (house and land),115.25,105815.0,918.13,14745.0,482.0,0011 - Legislators,127.94,523.04,136.96,136.95,0.73,1.77,1.88
+2020,British Columbia,"Vancouver, British Columbia",Land only,108.58,105815.0,974.53,7240.0,470.0,0011 - Legislators,66.68,520.61,136.96,136.95,0.73,1.77,1.88
+2020,British Columbia,"Victoria, British Columbia",Total (house and land),103.25,105815.0,1024.84,7240.0,470.0,0011 - Legislators,70.12,547.48,136.96,136.95,0.73,1.77,1.88
+2020,British Columbia,"Victoria, British Columbia",Land only,102.33,105815.0,1034.06,7240.0,470.0,0011 - Legislators,70.75,552.41,136.96,136.95,0.73,1.77,1.88
+2022,Newfoundland and Labrador,Newfoundland and Labrador,House only,106.92,168235.0,1573.47,3240.0,310.0,0012 - Senior government managers and officials,30.3,801.89,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Hamilton, Ontario",Total (house and land),115.17,181960.0,1579.93,29680.0,475.0,0011 - Legislators,257.71,918.82,157.11,157.11,3.89,3.89,4.02
+2016,New Brunswick,New Brunswick,House only,98.58,103720.0,1052.14,1285.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.04,532.59,128.37,128.38,1.44,1.82,1.99
+2019,Alberta,"Calgary, Alberta",Total (house and land),97.67,126555.0,1295.74,5500.0,436.0,0011 - Legislators,56.31,676.03,135.98,135.97,1.94,2.05,2.01
+2019,British Columbia,British Columbia,House only,106.17,126555.0,1192.0,15480.0,470.0,0011 - Legislators,145.8,668.9,135.98,135.97,1.94,2.05,2.01
+2022,British Columbia,British Columbia,House only,127.08,168235.0,1323.85,12545.0,470.0,0011 - Legislators,98.72,711.29,151.24,151.24,6.8,5.25,4.84
+2016,Saskatchewan,Saskatchewan,House only,99.92,103720.0,1038.03,6020.0,386.0,0012 - Senior government managers and officials,60.25,549.14,128.37,128.38,1.44,1.82,1.99
+2016,Alberta,"Calgary, Alberta",House only,100.0,103720.0,1037.2,7035.0,436.0,0011 - Legislators,70.35,553.78,128.37,128.38,1.44,1.82,1.99
+2020,Prince Edward Island,"Charlottetown, Prince Edward Island",Land only,100.5,105815.0,1052.89,1185.0,250.0,0011 - Legislators,11.79,532.34,136.96,136.95,0.73,1.77,1.88
+2020,Saskatchewan,"Regina, Saskatchewan",Land only,98.58,105815.0,1073.39,4500.0,386.0,0012 - Senior government managers and officials,45.65,559.52,136.96,136.95,0.73,1.77,1.88
+2021,Quebec,"Québec, Quebec",Total (house and land),114.67,152280.0,1327.98,17550.0,482.0,0011 - Legislators,153.05,740.52,141.61,141.61,3.4,2.91,2.65
+2017,New Brunswick,New Brunswick,Land only,100.0,108870.0,1088.7,1370.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.7,551.2,130.42,130.43,1.6,1.44,1.63
+2018,Quebec,Quebec,Land only,100.92,117625.0,1165.53,17045.0,482.0,0011 - Legislators,168.9,667.22,133.38,133.36,2.27,1.94,1.88
+2019,British Columbia,British Columbia,Land only,104.5,126555.0,1211.05,15480.0,470.0,0011 - Legislators,148.13,679.59,135.98,135.97,1.94,2.05,2.01
+2020,Quebec,"Montréal, Quebec",Land only,107.75,105815.0,982.04,14745.0,482.0,0011 - Legislators,136.84,559.44,136.96,136.95,0.73,1.77,1.88
+2021,Quebec,"Québec, Quebec",House only,118.75,152280.0,1282.36,17550.0,482.0,0011 - Legislators,147.79,715.07,141.61,141.61,3.4,2.91,2.65
+2023,British Columbia,"Vancouver, British Columbia",House only,126.58,181960.0,1437.51,13760.0,470.0,0011 - Legislators,108.71,773.11,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Windsor, Ontario",Total (house and land),95.0,96265.0,1013.32,23515.0,475.0,0011 - Legislators,247.53,630.43,126.57,126.56,1.13,1.63,1.77
+2015,Alberta,Alberta,Total (house and land),100.17,96265.0,961.02,8370.0,436.0,0011 - Legislators,83.56,522.29,126.57,126.56,1.13,1.63,1.77
+2019,Saskatchewan,"Saskatoon, Saskatchewan",House only,94.58,126555.0,1338.07,5215.0,386.0,0012 - Senior government managers and officials,55.14,696.61,135.98,135.97,1.94,2.05,2.01
+2021,Newfoundland and Labrador,Newfoundland and Labrador,Land only,100.0,152280.0,1522.8,1535.0,310.0,0012 - Senior government managers and officials,15.35,769.07,141.61,141.61,3.4,2.91,2.65
+2022,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Land only,159.0,168235.0,1058.08,29435.0,475.0,0011 - Legislators,185.13,621.61,151.24,151.24,6.8,5.25,4.84
+2023,Nova Scotia,"Halifax, Nova Scotia",Total (house and land),120.92,181960.0,1504.8,6735.0,391.0,0012 - Senior government managers and officials,55.7,780.25,157.11,157.11,3.89,3.89,4.02
+2015,,Canada,Land only,97.33,96265.0,989.06,,,,,,126.57,126.56,1.13,1.63,1.77
+2016,Nova Scotia,Atlantic Region,Land only,99.33,103720.0,1044.2,2955.0,391.0,0012 - Senior government managers and officials,29.75,536.98,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,101.58,108870.0,1071.77,26770.0,475.0,0011 - Legislators,263.54,667.66,130.42,130.43,1.6,1.44,1.63
+2018,Quebec,"Trois-Rivières, Quebec",Total (house and land),100.25,117625.0,1173.32,17045.0,482.0,0011 - Legislators,170.02,671.67,133.38,133.36,2.27,1.94,1.88
+2019,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,104.75,126555.0,1208.16,22435.0,482.0,0011 - Legislators,214.18,711.17,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"St. Catharines-Niagara, Ontario",Land only,105.25,126555.0,1202.42,29875.0,475.0,0011 - Legislators,283.85,743.14,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Hamilton, Ontario",House only,109.17,105815.0,969.27,17775.0,475.0,0011 - Legislators,162.82,566.05,136.96,136.95,0.73,1.77,1.88
+2023,Nova Scotia,Atlantic Region,Land only,102.0,181960.0,1783.92,6735.0,391.0,0012 - Senior government managers and officials,66.03,924.98,157.11,157.11,3.89,3.89,4.02
+2015,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Total (house and land),99.5,96265.0,967.49,930.0,310.0,0012 - Senior government managers and officials,9.35,488.42,126.57,126.56,1.13,1.63,1.77
+2015,Prince Edward Island,Prince Edward Island,Land only,98.75,96265.0,974.84,240.0,250.0,0011 - Legislators,2.43,488.64,126.57,126.56,1.13,1.63,1.77
+2016,British Columbia,"Vancouver, British Columbia",Land only,99.25,103720.0,1045.04,10115.0,470.0,0011 - Legislators,101.91,573.48,128.37,128.38,1.44,1.82,1.99
+2017,Alberta,Alberta,House only,99.67,108870.0,1092.3,5980.0,436.0,0011 - Legislators,60.0,576.15,130.42,130.43,1.6,1.44,1.63
+2021,,Canada,House only,116.75,152280.0,1304.33,,,,,,141.61,141.61,3.4,2.91,2.65
+2016,Alberta,"Edmonton, Alberta",House only,100.25,103720.0,1034.61,7035.0,436.0,0011 - Legislators,70.17,552.39,128.37,128.38,1.44,1.82,1.99
+2018,British Columbia,British Columbia,Total (house and land),107.25,117625.0,1096.74,12395.0,470.0,0011 - Legislators,115.57,606.16,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,Ontario,House only,103.33,126555.0,1224.77,29875.0,475.0,0011 - Legislators,289.12,756.94,135.98,135.97,1.94,2.05,2.01
+2019,Saskatchewan,"Regina, Saskatchewan",Total (house and land),95.92,126555.0,1319.38,5215.0,386.0,0012 - Senior government managers and officials,54.37,686.88,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",House only,112.5,105815.0,940.58,17775.0,475.0,0011 - Legislators,158.0,549.29,136.96,136.95,0.73,1.77,1.88
+2021,,Canada,Land only,112.33,152280.0,1355.65,,,,,,141.61,141.61,3.4,2.91,2.65
+2022,Nova Scotia,Atlantic Region,House only,119.67,168235.0,1405.82,8140.0,391.0,0012 - Senior government managers and officials,68.02,736.92,151.24,151.24,6.8,5.25,4.84
+2022,Prince Edward Island,"Charlottetown, Prince Edward Island",House only,125.75,168235.0,1337.85,2290.0,250.0,0011 - Legislators,18.21,678.03,151.24,151.24,6.8,5.25,4.84
+2018,British Columbia,"Kelowna, British Columbia",Total (house and land),103.0,117625.0,1141.99,12395.0,470.0,0011 - Legislators,120.34,631.17,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,"St. Catharines-Niagara, Ontario",Total (house and land),106.25,126555.0,1191.11,29875.0,475.0,0011 - Legislators,281.18,736.15,135.98,135.97,1.94,2.05,2.01
+2019,Alberta,Prairie Region,Land only,100.0,126555.0,1265.55,5500.0,436.0,0011 - Legislators,55.0,660.28,135.98,135.97,1.94,2.05,2.01
+2019,Saskatchewan,"Regina, Saskatchewan",Land only,100.0,126555.0,1265.55,5215.0,386.0,0012 - Senior government managers and officials,52.15,658.85,135.98,135.97,1.94,2.05,2.01
+2023,Quebec,"Trois-Rivières, Quebec",Land only,104.0,181960.0,1749.62,13935.0,482.0,0011 - Legislators,133.99,941.81,157.11,157.11,3.89,3.89,4.02
+2019,Manitoba,Manitoba,Land only,101.0,126555.0,1253.02,8615.0,409.0,0012 - Senior government managers and officials,85.3,669.16,135.98,135.97,1.94,2.05,2.01
+2016,Ontario,"Toronto, Ontario",Total (house and land),96.33,103720.0,1076.72,25565.0,475.0,0011 - Legislators,265.39,671.06,128.37,128.38,1.44,1.82,1.99
+2016,Saskatchewan,"Saskatoon, Saskatchewan",Total (house and land),99.58,103720.0,1041.57,6020.0,386.0,0012 - Senior government managers and officials,60.45,551.01,128.37,128.38,1.44,1.82,1.99
+2016,British Columbia,"Vancouver, British Columbia",Total (house and land),98.5,103720.0,1052.99,10115.0,470.0,0011 - Legislators,102.69,577.84,128.37,128.38,1.44,1.82,1.99
+2019,Alberta,"Calgary, Alberta",House only,96.08,126555.0,1317.18,5500.0,436.0,0011 - Legislators,57.24,687.21,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,111.33,105815.0,950.46,17775.0,475.0,0011 - Legislators,159.66,555.06,136.96,136.95,0.73,1.77,1.88
+2021,New Brunswick,New Brunswick,Total (house and land),110.83,152280.0,1374.0,4175.0,369.0,"0013 - Senior managers - financial, communications and other business services",37.67,705.84,141.61,141.61,3.4,2.91,2.65
+2021,Quebec,"Trois-Rivières, Quebec",Total (house and land),108.58,152280.0,1402.47,17550.0,482.0,0011 - Legislators,161.63,782.05,141.61,141.61,3.4,2.91,2.65
+2022,Nova Scotia,Nova Scotia,Land only,103.0,168235.0,1633.35,8140.0,391.0,0012 - Senior government managers and officials,79.03,856.19,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Guelph, Ontario",Land only,107.25,181960.0,1696.6,29680.0,475.0,0011 - Legislators,276.74,986.67,157.11,157.11,3.89,3.89,4.02
+2017,Ontario,"St. Catharines-Niagara, Ontario",Land only,101.17,108870.0,1076.11,26770.0,475.0,0011 - Legislators,264.6,670.36,130.42,130.43,1.6,1.44,1.63
+2018,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",House only,97.67,117625.0,1204.31,1100.0,310.0,0012 - Senior government managers and officials,11.26,607.79,133.38,133.36,2.27,1.94,1.88
+2018,Alberta,"Edmonton, Alberta",House only,98.67,117625.0,1192.1,5060.0,436.0,0011 - Legislators,51.28,621.69,133.38,133.36,2.27,1.94,1.88
+2020,Quebec,"Québec, Quebec",Land only,101.83,105815.0,1039.13,14745.0,482.0,0011 - Legislators,144.8,591.97,136.96,136.95,0.73,1.77,1.88
+2022,Alberta,Alberta,Land only,104.58,168235.0,1608.67,5205.0,436.0,0011 - Legislators,49.77,829.22,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Oshawa, Ontario",Land only,114.17,181960.0,1593.76,29680.0,475.0,0011 - Legislators,259.96,926.86,157.11,157.11,3.89,3.89,4.02
+2015,Alberta,Alberta,House only,101.17,96265.0,951.52,8370.0,436.0,0011 - Legislators,82.73,517.13,126.57,126.56,1.13,1.63,1.77
+2018,Alberta,Prairie Region,Total (house and land),99.33,117625.0,1184.18,5060.0,436.0,0011 - Legislators,50.94,617.56,133.38,133.36,2.27,1.94,1.88
+2019,Quebec,"Trois-Rivières, Quebec",Land only,100.33,126555.0,1261.39,22435.0,482.0,0011 - Legislators,223.61,742.5,135.98,135.97,1.94,2.05,2.01
+2020,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",House only,103.17,105815.0,1025.64,2510.0,369.0,"0013 - Senior managers - financial, communications and other business services",24.33,524.99,136.96,136.95,0.73,1.77,1.88
+2015,Alberta,Prairie Region,Total (house and land),100.0,96265.0,962.65,8370.0,436.0,0011 - Legislators,83.7,523.18,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"Oshawa, Ontario",Land only,8.33,103720.0,12451.38,25565.0,475.0,0011 - Legislators,3069.03,7760.21,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Total (house and land),102.5,108870.0,1062.15,26770.0,475.0,0011 - Legislators,261.17,661.66,130.42,130.43,1.6,1.44,1.63
+2020,Ontario,"London, Ontario",Total (house and land),116.17,105815.0,910.86,17775.0,475.0,0011 - Legislators,153.01,531.94,136.96,136.95,0.73,1.77,1.88
+2020,Saskatchewan,Saskatchewan,Total (house and land),94.83,105815.0,1115.84,4500.0,386.0,0012 - Senior government managers and officials,47.45,581.65,136.96,136.95,0.73,1.77,1.88
+2022,Nova Scotia,"Halifax, Nova Scotia",Land only,103.0,168235.0,1633.35,8140.0,391.0,0012 - Senior government managers and officials,79.03,856.19,151.24,151.24,6.8,5.25,4.84
+2022,Quebec,"Sherbrooke, Quebec",Total (house and land),110.25,168235.0,1525.94,17755.0,482.0,0011 - Legislators,161.04,843.49,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Windsor, Ontario",Total (house and land),145.58,181960.0,1249.9,29680.0,475.0,0011 - Legislators,203.87,726.89,157.11,157.11,3.89,3.89,4.02
+2023,Manitoba,Manitoba,Total (house and land),140.58,181960.0,1294.35,1145.0,409.0,0012 - Senior government managers and officials,8.14,651.25,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,"Trois-Rivières, Quebec",Land only,0.0,96265.0,,13220.0,482.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2015,Alberta,"Edmonton, Alberta",Land only,99.0,96265.0,972.37,8370.0,436.0,0011 - Legislators,84.55,528.46,126.57,126.56,1.13,1.63,1.77
+2019,,Canada,House only,102.0,126555.0,1240.74,,,,,,135.98,135.97,1.94,2.05,2.01
+2021,Ontario,"Windsor, Ontario",House only,129.75,152280.0,1173.64,22675.0,475.0,0011 - Legislators,174.76,674.2,141.61,141.61,3.4,2.91,2.65
+2022,Manitoba,"Winnipeg, Manitoba",Total (house and land),141.25,168235.0,1191.04,4250.0,409.0,0012 - Senior government managers and officials,30.09,610.56,151.24,151.24,6.8,5.25,4.84
+2020,Quebec,Quebec,Land only,105.75,105815.0,1000.61,14745.0,482.0,0011 - Legislators,139.43,570.02,136.96,136.95,0.73,1.77,1.88
+2020,Ontario,"Hamilton, Ontario",Total (house and land),106.92,105815.0,989.67,17775.0,475.0,0011 - Legislators,166.25,577.96,136.96,136.95,0.73,1.77,1.88
+2020,Alberta,"Calgary, Alberta",Land only,99.42,105815.0,1064.32,6200.0,436.0,0011 - Legislators,62.36,563.34,136.96,136.95,0.73,1.77,1.88
+2018,Newfoundland and Labrador,Newfoundland and Labrador,House only,97.67,117625.0,1204.31,1100.0,310.0,0012 - Senior government managers and officials,11.26,607.79,133.38,133.36,2.27,1.94,1.88
+2020,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,110.08,105815.0,961.26,14745.0,482.0,0011 - Legislators,133.95,547.61,136.96,136.95,0.73,1.77,1.88
+2023,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",House only,152.58,181960.0,1192.55,29680.0,475.0,0011 - Legislators,194.52,693.54,157.11,157.11,3.89,3.89,4.02
+2023,Manitoba,"Winnipeg, Manitoba",Total (house and land),140.58,181960.0,1294.35,1145.0,409.0,0012 - Senior government managers and officials,8.14,651.25,157.11,157.11,3.89,3.89,4.02
+2023,Saskatchewan,"Saskatoon, Saskatchewan",Total (house and land),106.33,181960.0,1711.28,7140.0,386.0,0012 - Senior government managers and officials,67.15,889.22,157.11,157.11,3.89,3.89,4.02
+2023,British Columbia,British Columbia,Total (house and land),126.75,181960.0,1435.58,13760.0,470.0,0011 - Legislators,108.56,772.07,157.11,157.11,3.89,3.89,4.02
+2019,Quebec,"Montréal, Quebec",House only,108.5,126555.0,1166.41,22435.0,482.0,0011 - Legislators,206.77,686.59,135.98,135.97,1.94,2.05,2.01
+2021,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),110.83,152280.0,1374.0,4175.0,369.0,"0013 - Senior managers - financial, communications and other business services",37.67,705.84,141.61,141.61,3.4,2.91,2.65
+2022,Quebec,"Québec, Quebec",House only,131.83,168235.0,1276.15,17755.0,482.0,0011 - Legislators,134.68,705.42,151.24,151.24,6.8,5.25,4.84
+2018,Ontario,"Oshawa, Ontario",House only,102.83,117625.0,1143.88,27435.0,475.0,0011 - Legislators,266.8,705.34,133.38,133.36,2.27,1.94,1.88
+2019,Prince Edward Island,Prince Edward Island,House only,101.0,126555.0,1253.02,1490.0,250.0,0011 - Legislators,14.75,633.89,135.98,135.97,1.94,2.05,2.01
+2022,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Total (house and land),104.58,168235.0,1608.67,3240.0,310.0,0012 - Senior government managers and officials,30.98,819.83,151.24,151.24,6.8,5.25,4.84
+2022,British Columbia,"Kelowna, British Columbia",House only,126.42,168235.0,1330.76,12545.0,470.0,0011 - Legislators,99.23,715.0,151.24,151.24,6.8,5.25,4.84
+2018,Ontario,"Oshawa, Ontario",Total (house and land),103.75,117625.0,1133.73,27435.0,475.0,0011 - Legislators,264.43,699.08,133.38,133.36,2.27,1.94,1.88
+2019,British Columbia,"Vancouver, British Columbia",Land only,105.08,126555.0,1204.37,15480.0,470.0,0011 - Legislators,147.32,675.84,135.98,135.97,1.94,2.05,2.01
+2020,British Columbia,British Columbia,House only,106.92,105815.0,989.67,7240.0,470.0,0011 - Legislators,67.71,528.69,136.96,136.95,0.73,1.77,1.88
+2021,Ontario,"Hamilton, Ontario",Land only,105.0,152280.0,1450.29,22675.0,475.0,0011 - Legislators,215.95,833.12,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"London, Ontario",Land only,111.17,152280.0,1369.79,22675.0,475.0,0011 - Legislators,203.97,786.88,141.61,141.61,3.4,2.91,2.65
+2022,Nova Scotia,Atlantic Region,Total (house and land),116.08,168235.0,1449.3,8140.0,391.0,0012 - Senior government managers and officials,70.12,759.71,151.24,151.24,6.8,5.25,4.84
+2023,Quebec,"Trois-Rivières, Quebec",Total (house and land),111.0,181960.0,1639.28,13935.0,482.0,0011 - Legislators,125.54,882.41,157.11,157.11,3.89,3.89,4.02
+2015,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,100.0,96265.0,962.65,1030.0,369.0,"0013 - Senior managers - financial, communications and other business services",10.3,486.47,126.57,126.56,1.13,1.63,1.77
+2016,Saskatchewan,"Regina, Saskatchewan",Total (house and land),99.92,103720.0,1038.03,6020.0,386.0,0012 - Senior government managers and officials,60.25,549.14,128.37,128.38,1.44,1.82,1.99
+2016,Alberta,"Calgary, Alberta",Land only,98.75,103720.0,1050.33,7035.0,436.0,0011 - Legislators,71.24,560.79,128.37,128.38,1.44,1.82,1.99
+2017,Nova Scotia,Atlantic Region,Total (house and land),99.5,108870.0,1094.17,2900.0,391.0,0012 - Senior government managers and officials,29.15,561.66,130.42,130.43,1.6,1.44,1.63
+2017,Saskatchewan,"Saskatoon, Saskatchewan",House only,98.25,108870.0,1108.09,4950.0,386.0,0012 - Senior government managers and officials,50.38,579.24,130.42,130.43,1.6,1.44,1.63
+2019,Ontario,"Toronto, Ontario",House only,99.08,126555.0,1277.3,29875.0,475.0,0011 - Legislators,301.52,789.41,135.98,135.97,1.94,2.05,2.01
+2019,Alberta,"Calgary, Alberta",Land only,99.67,126555.0,1269.74,5500.0,436.0,0011 - Legislators,55.18,662.46,135.98,135.97,1.94,2.05,2.01
+2020,,Canada,Land only,105.67,105815.0,1001.37,,,,,,136.96,136.95,0.73,1.77,1.88
+2020,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),103.17,105815.0,1025.64,2510.0,369.0,"0013 - Senior managers - financial, communications and other business services",24.33,524.99,136.96,136.95,0.73,1.77,1.88
+2021,Saskatchewan,Saskatchewan,House only,100.08,152280.0,1521.58,6115.0,386.0,0012 - Senior government managers and officials,61.1,791.34,141.61,141.61,3.4,2.91,2.65
+2023,Quebec,"Québec, Quebec",Total (house and land),128.42,181960.0,1416.91,13935.0,482.0,0011 - Legislators,108.51,762.71,157.11,157.11,3.89,3.89,4.02
+2019,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),100.92,126555.0,1254.01,2225.0,369.0,"0013 - Senior managers - financial, communications and other business services",22.05,638.03,135.98,135.97,1.94,2.05,2.01
+2019,Manitoba,"Winnipeg, Manitoba",Land only,101.0,126555.0,1253.02,8615.0,409.0,0012 - Senior government managers and officials,85.3,669.16,135.98,135.97,1.94,2.05,2.01
+2022,Prince Edward Island,Prince Edward Island,Total (house and land),121.25,168235.0,1387.51,2290.0,250.0,0011 - Legislators,18.89,703.2,151.24,151.24,6.8,5.25,4.84
+2022,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Land only,104.0,168235.0,1617.64,17755.0,482.0,0011 - Legislators,170.72,894.18,151.24,151.24,6.8,5.25,4.84
+2022,Saskatchewan,"Saskatoon, Saskatchewan",Total (house and land),107.67,168235.0,1562.51,8910.0,386.0,0012 - Senior government managers and officials,82.75,822.63,151.24,151.24,6.8,5.25,4.84
+2023,New Brunswick,New Brunswick,Land only,102.0,181960.0,1783.92,8210.0,369.0,"0013 - Senior managers - financial, communications and other business services",80.49,932.21,157.11,157.11,3.89,3.89,4.02
+2017,Ontario,Ontario,Total (house and land),102.92,108870.0,1057.81,26770.0,475.0,0011 - Legislators,260.1,658.95,130.42,130.43,1.6,1.44,1.63
+2017,Alberta,Prairie Region,House only,99.92,108870.0,1089.57,5980.0,436.0,0011 - Legislators,59.85,574.71,130.42,130.43,1.6,1.44,1.63
+2021,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,125.67,152280.0,1211.75,22675.0,475.0,0011 - Legislators,180.43,696.09,141.61,141.61,3.4,2.91,2.65
+2023,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Land only,102.0,181960.0,1783.92,8210.0,369.0,"0013 - Senior managers - financial, communications and other business services",80.49,932.21,157.11,157.11,3.89,3.89,4.02
+2023,British Columbia,"Kelowna, British Columbia",Total (house and land),122.67,181960.0,1483.33,13760.0,470.0,0011 - Legislators,112.17,797.75,157.11,157.11,3.89,3.89,4.02
+2022,Quebec,"Montréal, Quebec",House only,159.0,168235.0,1058.08,17755.0,482.0,0011 - Legislators,111.67,584.88,151.24,151.24,6.8,5.25,4.84
+2023,Ontario,"Toronto, Ontario",House only,113.17,181960.0,1607.85,29680.0,475.0,0011 - Legislators,262.26,935.06,157.11,157.11,3.89,3.89,4.02
+2015,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),97.75,96265.0,984.81,1030.0,369.0,"0013 - Senior managers - financial, communications and other business services",10.54,497.67,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"Toronto, Ontario",House only,95.92,103720.0,1081.32,25565.0,475.0,0011 - Legislators,266.52,673.92,128.37,128.38,1.44,1.82,1.99
+2021,Manitoba,Manitoba,Total (house and land),122.08,152280.0,1247.38,7220.0,409.0,0012 - Senior government managers and officials,59.14,653.26,141.61,141.61,3.4,2.91,2.65
+2022,Alberta,"Edmonton, Alberta",Total (house and land),108.83,168235.0,1545.85,5205.0,436.0,0011 - Legislators,47.83,796.84,151.24,151.24,6.8,5.25,4.84
+2015,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",House only,93.92,96265.0,1024.97,23515.0,475.0,0011 - Legislators,250.37,637.67,126.57,126.56,1.13,1.63,1.77
+2017,Quebec,"Montréal, Quebec",Total (house and land),100.33,108870.0,1085.12,15475.0,482.0,0011 - Legislators,154.24,619.68,130.42,130.43,1.6,1.44,1.63
+2018,Manitoba,Manitoba,Land only,100.75,117625.0,1167.49,8325.0,409.0,0012 - Senior government managers and officials,82.63,625.06,133.38,133.36,2.27,1.94,1.88
+2018,Saskatchewan,"Saskatoon, Saskatchewan",Total (house and land),97.83,117625.0,1202.34,4790.0,386.0,0012 - Senior government managers and officials,48.96,625.65,133.38,133.36,2.27,1.94,1.88
+2019,British Columbia,"Vancouver, British Columbia",Total (house and land),106.92,126555.0,1183.64,15480.0,470.0,0011 - Legislators,144.78,664.21,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Windsor, Ontario",House only,109.5,105815.0,966.35,17775.0,475.0,0011 - Legislators,162.33,564.34,136.96,136.95,0.73,1.77,1.88
+2016,British Columbia,"Kelowna, British Columbia",Total (house and land),8.33,103720.0,12451.38,10115.0,470.0,0011 - Legislators,1214.29,6832.83,128.37,128.38,1.44,1.82,1.99
+2017,Saskatchewan,"Saskatoon, Saskatchewan",Total (house and land),98.67,108870.0,1103.37,4950.0,386.0,0012 - Senior government managers and officials,50.17,576.77,130.42,130.43,1.6,1.44,1.63
+2018,Prince Edward Island,Prince Edward Island,Land only,100.0,117625.0,1176.25,1080.0,250.0,0011 - Legislators,10.8,593.53,133.38,133.36,2.27,1.94,1.88
+2018,Quebec,Quebec,Total (house and land),102.0,117625.0,1153.19,17045.0,482.0,0011 - Legislators,167.11,660.15,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,"Kitchener-Cambridge-Waterloo, Ontario",Land only,104.0,117625.0,1131.01,27435.0,475.0,0011 - Legislators,263.8,697.41,133.38,133.36,2.27,1.94,1.88
+2018,Saskatchewan,Saskatchewan,Land only,100.0,117625.0,1176.25,4790.0,386.0,0012 - Senior government managers and officials,47.9,612.08,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,"Guelph, Ontario",Land only,104.17,126555.0,1214.89,29875.0,475.0,0011 - Legislators,286.79,750.84,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Greater Sudbury, Ontario",House only,102.5,105815.0,1032.34,17775.0,475.0,0011 - Legislators,173.41,602.88,136.96,136.95,0.73,1.77,1.88
+2022,British Columbia,"Vancouver, British Columbia",House only,126.58,168235.0,1329.08,12545.0,470.0,0011 - Legislators,99.11,714.09,151.24,151.24,6.8,5.25,4.84
+2015,Ontario,"London, Ontario",Land only,98.33,96265.0,979.0,23515.0,475.0,0011 - Legislators,239.14,609.07,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,98.75,103720.0,1050.33,25565.0,475.0,0011 - Legislators,258.89,654.61,128.37,128.38,1.44,1.82,1.99
+2019,Manitoba,"Winnipeg, Manitoba",Total (house and land),104.17,126555.0,1214.89,8615.0,409.0,0012 - Senior government managers and officials,82.7,648.8,135.98,135.97,1.94,2.05,2.01
+2023,Nova Scotia,Nova Scotia,Total (house and land),120.92,181960.0,1504.8,6735.0,391.0,0012 - Senior government managers and officials,55.7,780.25,157.11,157.11,3.89,3.89,4.02
+2023,Ontario,"Greater Sudbury, Ontario",Total (house and land),119.83,181960.0,1518.48,29680.0,475.0,0011 - Legislators,247.68,883.08,157.11,157.11,3.89,3.89,4.02
+2023,Alberta,"Edmonton, Alberta",House only,108.83,181960.0,1671.97,6605.0,436.0,0011 - Legislators,60.69,866.33,157.11,157.11,3.89,3.89,4.02
+2019,Quebec,"Trois-Rivières, Quebec",Total (house and land),101.75,126555.0,1243.78,22435.0,482.0,0011 - Legislators,220.49,732.14,135.98,135.97,1.94,2.05,2.01
+2019,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,106.58,126555.0,1187.42,29875.0,475.0,0011 - Legislators,280.31,733.87,135.98,135.97,1.94,2.05,2.01
+2021,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Land only,100.0,152280.0,1522.8,1535.0,310.0,0012 - Senior government managers and officials,15.35,769.07,141.61,141.61,3.4,2.91,2.65
+2021,Alberta,Alberta,Total (house and land),103.5,152280.0,1471.3,3710.0,436.0,0011 - Legislators,35.85,753.57,141.61,141.61,3.4,2.91,2.65
+2021,Alberta,"Edmonton, Alberta",Land only,100.75,152280.0,1511.46,3710.0,436.0,0011 - Legislators,36.82,774.14,141.61,141.61,3.4,2.91,2.65
+2023,Alberta,Alberta,Total (house and land),117.0,181960.0,1555.21,6605.0,436.0,0011 - Legislators,56.45,805.83,157.11,157.11,3.89,3.89,4.02
+2015,New Brunswick,New Brunswick,Land only,100.0,96265.0,962.65,1030.0,369.0,"0013 - Senior managers - financial, communications and other business services",10.3,486.47,126.57,126.56,1.13,1.63,1.77
+2016,Ontario,Ontario,House only,96.33,103720.0,1076.72,25565.0,475.0,0011 - Legislators,265.39,671.06,128.37,128.38,1.44,1.82,1.99
+2017,Quebec,"Sherbrooke, Quebec",House only,99.08,108870.0,1098.81,15475.0,482.0,0011 - Legislators,156.19,627.5,130.42,130.43,1.6,1.44,1.63
+2020,Ontario,Ontario,House only,106.92,105815.0,989.67,17775.0,475.0,0011 - Legislators,166.25,577.96,136.96,136.95,0.73,1.77,1.88
+2022,Ontario,"Windsor, Ontario",Total (house and land),145.33,168235.0,1157.61,29435.0,475.0,0011 - Legislators,202.54,680.07,151.24,151.24,6.8,5.25,4.84
+2022,Saskatchewan,"Saskatoon, Saskatchewan",House only,112.67,168235.0,1493.17,8910.0,386.0,0012 - Senior government managers and officials,79.08,786.13,151.24,151.24,6.8,5.25,4.84
+2023,New Brunswick,New Brunswick,House only,120.92,181960.0,1504.8,8210.0,369.0,"0013 - Senior managers - financial, communications and other business services",67.9,786.35,157.11,157.11,3.89,3.89,4.02
+2023,Quebec,"Québec, Quebec",Land only,109.5,181960.0,1661.74,13935.0,482.0,0011 - Legislators,127.26,894.5,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,Quebec,Land only,99.0,96265.0,972.37,13220.0,482.0,0011 - Legislators,133.54,552.96,126.57,126.56,1.13,1.63,1.77
+2016,Quebec,"Sherbrooke, Quebec",House only,8.33,103720.0,12451.38,12770.0,482.0,0011 - Legislators,1533.01,6992.2,128.37,128.38,1.44,1.82,1.99
+2019,British Columbia,"Kelowna, British Columbia",Land only,101.0,126555.0,1253.02,15480.0,470.0,0011 - Legislators,153.27,703.15,135.98,135.97,1.94,2.05,2.01
+2020,British Columbia,"Kelowna, British Columbia",Land only,101.5,105815.0,1042.51,7240.0,470.0,0011 - Legislators,71.33,556.92,136.96,136.95,0.73,1.77,1.88
+2021,Nova Scotia,Atlantic Region,Total (house and land),111.0,152280.0,1371.89,7055.0,391.0,0012 - Senior government managers and officials,63.56,717.73,141.61,141.61,3.4,2.91,2.65
+2021,Saskatchewan,"Regina, Saskatchewan",House only,94.5,152280.0,1611.43,6115.0,386.0,0012 - Senior government managers and officials,64.71,838.07,141.61,141.61,3.4,2.91,2.65
+2023,Ontario,"Guelph, Ontario",House only,132.5,181960.0,1373.28,29680.0,475.0,0011 - Legislators,224.0,798.64,157.11,157.11,3.89,3.89,4.02
+2016,British Columbia,"Kelowna, British Columbia",House only,8.33,103720.0,12451.38,10115.0,470.0,0011 - Legislators,1214.29,6832.83,128.37,128.38,1.44,1.82,1.99
+2018,British Columbia,"Vancouver, British Columbia",House only,109.33,117625.0,1075.87,12395.0,470.0,0011 - Legislators,113.37,594.62,133.38,133.36,2.27,1.94,1.88
+2019,Nova Scotia,"Halifax, Nova Scotia",House only,102.67,126555.0,1232.64,4485.0,391.0,0012 - Senior government managers and officials,43.68,638.16,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",House only,130.83,105815.0,808.8,17775.0,475.0,0011 - Legislators,135.86,472.33,136.96,136.95,0.73,1.77,1.88
+2020,Ontario,"Oshawa, Ontario",House only,103.17,105815.0,1025.64,17775.0,475.0,0011 - Legislators,172.29,598.97,136.96,136.95,0.73,1.77,1.88
+2020,Alberta,"Edmonton, Alberta",Land only,100.0,105815.0,1058.15,6200.0,436.0,0011 - Legislators,62.0,560.08,136.96,136.95,0.73,1.77,1.88
+2021,Saskatchewan,Saskatchewan,Total (house and land),100.17,152280.0,1520.22,6115.0,386.0,0012 - Senior government managers and officials,61.05,790.64,141.61,141.61,3.4,2.91,2.65
+2023,British Columbia,"Victoria, British Columbia",Land only,109.5,181960.0,1661.74,13760.0,470.0,0011 - Legislators,125.66,893.7,157.11,157.11,3.89,3.89,4.02
+2016,Quebec,"Montréal, Quebec",Total (house and land),99.25,103720.0,1045.04,12770.0,482.0,0011 - Legislators,128.66,586.85,128.37,128.38,1.44,1.82,1.99
+2016,Saskatchewan,Saskatchewan,Total (house and land),99.75,103720.0,1039.8,6020.0,386.0,0012 - Senior government managers and officials,60.35,550.07,128.37,128.38,1.44,1.82,1.99
+2017,Quebec,"Sherbrooke, Quebec",Land only,100.0,108870.0,1088.7,15475.0,482.0,0011 - Legislators,154.75,621.73,130.42,130.43,1.6,1.44,1.63
+2020,Nova Scotia,Nova Scotia,Total (house and land),105.67,105815.0,1001.37,4250.0,391.0,0012 - Senior government managers and officials,40.22,520.8,136.96,136.95,0.73,1.77,1.88
+2023,Ontario,Ontario,Total (house and land),125.67,181960.0,1447.92,29680.0,475.0,0011 - Legislators,236.17,842.05,157.11,157.11,3.89,3.89,4.02
+2016,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",House only,99.83,103720.0,1038.97,1180.0,310.0,0012 - Senior government managers and officials,11.82,525.4,128.37,128.38,1.44,1.82,1.99
+2019,Nova Scotia,Nova Scotia,House only,102.67,126555.0,1232.64,4485.0,391.0,0012 - Senior government managers and officials,43.68,638.16,135.98,135.97,1.94,2.05,2.01
+2021,Ontario,"Hamilton, Ontario",House only,120.0,152280.0,1269.0,22675.0,475.0,0011 - Legislators,188.96,728.98,141.61,141.61,3.4,2.91,2.65
+2021,British Columbia,"Kelowna, British Columbia",Land only,112.67,152280.0,1351.56,9615.0,470.0,0011 - Legislators,85.34,718.45,141.61,141.61,3.4,2.91,2.65
+2022,British Columbia,British Columbia,Land only,120.0,168235.0,1401.96,12545.0,470.0,0011 - Legislators,104.54,753.25,151.24,151.24,6.8,5.25,4.84
+2023,Nova Scotia,Atlantic Region,Total (house and land),116.92,181960.0,1556.28,6735.0,391.0,0012 - Senior government managers and officials,57.6,806.94,157.11,157.11,3.89,3.89,4.02
+2023,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",House only,120.92,181960.0,1504.8,8210.0,369.0,"0013 - Senior managers - financial, communications and other business services",67.9,786.35,157.11,157.11,3.89,3.89,4.02
+2023,Ontario,"Greater Sudbury, Ontario",Land only,118.33,181960.0,1537.73,29680.0,475.0,0011 - Legislators,250.82,894.28,157.11,157.11,3.89,3.89,4.02
+2015,Ontario,"Hamilton, Ontario",Total (house and land),95.42,96265.0,1008.86,23515.0,475.0,0011 - Legislators,246.44,627.65,126.57,126.56,1.13,1.63,1.77
+2015,Ontario,"Hamilton, Ontario",Land only,99.08,96265.0,971.59,23515.0,475.0,0011 - Legislators,237.33,604.46,126.57,126.56,1.13,1.63,1.77
+2015,Alberta,Prairie Region,House only,100.92,96265.0,953.87,8370.0,436.0,0011 - Legislators,82.94,518.41,126.57,126.56,1.13,1.63,1.77
+2015,British Columbia,"Kelowna, British Columbia",Total (house and land),0.0,96265.0,,7465.0,470.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2018,British Columbia,"Kelowna, British Columbia",House only,104.0,117625.0,1131.01,12395.0,470.0,0011 - Legislators,119.18,625.1,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Total (house and land),113.08,126555.0,1119.16,29875.0,475.0,0011 - Legislators,264.19,691.68,135.98,135.97,1.94,2.05,2.01
+2021,,Canada,Total (house and land),115.83,152280.0,1314.69,,,,,,141.61,141.61,3.4,2.91,2.65
+2023,,Canada,Land only,116.08,181960.0,1567.54,,,,,,157.11,157.11,3.89,3.89,4.02
+2023,Ontario,"Greater Sudbury, Ontario",House only,119.92,181960.0,1517.34,29680.0,475.0,0011 - Legislators,247.5,882.42,157.11,157.11,3.89,3.89,4.02
+2017,Nova Scotia,Atlantic Region,House only,99.42,108870.0,1095.05,2900.0,391.0,0012 - Senior government managers and officials,29.17,562.11,130.42,130.43,1.6,1.44,1.63
+2017,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",Total (house and land),98.75,108870.0,1102.48,1005.0,310.0,0012 - Senior government managers and officials,10.18,556.33,130.42,130.43,1.6,1.44,1.63
+2018,New Brunswick,New Brunswick,Land only,100.0,117625.0,1176.25,1715.0,369.0,"0013 - Senior managers - financial, communications and other business services",17.15,596.7,133.38,133.36,2.27,1.94,1.88
+2022,,Canada,Total (house and land),124.67,168235.0,1349.44,,,,,,151.24,151.24,6.8,5.25,4.84
+2015,Ontario,"Oshawa, Ontario",Total (house and land),0.0,96265.0,,23515.0,475.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2016,Manitoba,Manitoba,Total (house and land),98.42,103720.0,1053.85,6310.0,409.0,0012 - Senior government managers and officials,64.11,558.98,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"Guelph, Ontario",Land only,103.25,108870.0,1054.43,26770.0,475.0,0011 - Legislators,259.27,656.85,130.42,130.43,1.6,1.44,1.63
+2022,Ontario,"Hamilton, Ontario",House only,120.92,168235.0,1391.29,29435.0,475.0,0011 - Legislators,243.43,817.36,151.24,151.24,6.8,5.25,4.84
+2023,Prince Edward Island,Prince Edward Island,Land only,104.0,181960.0,1749.62,3435.0,250.0,0011 - Legislators,33.03,891.32,157.11,157.11,3.89,3.89,4.02
+2015,Quebec,"Sherbrooke, Quebec",House only,0.0,96265.0,,13220.0,482.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2016,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",House only,98.58,103720.0,1052.14,1285.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.04,532.59,128.37,128.38,1.44,1.82,1.99
+2017,Ontario,"London, Ontario",Total (house and land),104.17,108870.0,1045.12,26770.0,475.0,0011 - Legislators,256.98,651.05,130.42,130.43,1.6,1.44,1.63
+2017,Alberta,"Calgary, Alberta",Land only,99.92,108870.0,1089.57,5980.0,436.0,0011 - Legislators,59.85,574.71,130.42,130.43,1.6,1.44,1.63
+2018,Quebec,"Montréal, Quebec",House only,103.5,117625.0,1136.47,17045.0,482.0,0011 - Legislators,164.69,650.58,133.38,133.36,2.27,1.94,1.88
+2018,Ontario,Ontario,Total (house and land),104.0,117625.0,1131.01,27435.0,475.0,0011 - Legislators,263.8,697.41,133.38,133.36,2.27,1.94,1.88
+2021,Prince Edward Island,Prince Edward Island,House only,119.58,152280.0,1273.46,2050.0,250.0,0011 - Legislators,17.14,645.3,141.61,141.61,3.4,2.91,2.65
+2021,Alberta,Prairie Region,Total (house and land),105.08,152280.0,1449.18,3710.0,436.0,0011 - Legislators,35.31,742.25,141.61,141.61,3.4,2.91,2.65
+2021,British Columbia,British Columbia,Land only,115.17,152280.0,1322.22,9615.0,470.0,0011 - Legislators,83.49,702.86,141.61,141.61,3.4,2.91,2.65
+2016,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",Total (house and land),98.58,103720.0,1052.14,1285.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.04,532.59,128.37,128.38,1.44,1.82,1.99
+2016,Quebec,"Montréal, Quebec",Land only,99.33,103720.0,1044.2,12770.0,482.0,0011 - Legislators,128.56,586.38,128.37,128.38,1.44,1.82,1.99
+2020,Alberta,"Calgary, Alberta",House only,94.17,105815.0,1123.66,6200.0,436.0,0011 - Legislators,65.84,594.75,136.96,136.95,0.73,1.77,1.88
+2021,Nova Scotia,Nova Scotia,House only,120.0,152280.0,1269.0,7055.0,391.0,0012 - Senior government managers and officials,58.79,663.9,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"Oshawa, Ontario",Land only,113.33,152280.0,1343.69,22675.0,475.0,0011 - Legislators,200.08,771.89,141.61,141.61,3.4,2.91,2.65
+2021,Alberta,Alberta,House only,103.83,152280.0,1466.63,3710.0,436.0,0011 - Legislators,35.73,751.18,141.61,141.61,3.4,2.91,2.65
+2023,Ontario,"St. Catharines-Niagara, Ontario",Land only,120.42,181960.0,1511.04,29680.0,475.0,0011 - Legislators,246.47,878.76,157.11,157.11,3.89,3.89,4.02
+2015,New Brunswick,"Saint John, Fredericton, and Moncton, New Brunswick",House only,97.5,96265.0,987.33,1030.0,369.0,"0013 - Senior managers - financial, communications and other business services",10.56,498.95,126.57,126.56,1.13,1.63,1.77
+2015,Ontario,"Toronto, Ontario",Land only,94.25,96265.0,1021.38,23515.0,475.0,0011 - Legislators,249.5,635.44,126.57,126.56,1.13,1.63,1.77
+2016,Quebec,"Trois-Rivières, Quebec",House only,8.33,103720.0,12451.38,12770.0,482.0,0011 - Legislators,1533.01,6992.2,128.37,128.38,1.44,1.82,1.99
+2016,Alberta,"Calgary, Alberta",Total (house and land),99.5,103720.0,1042.41,7035.0,436.0,0011 - Legislators,70.7,556.56,128.37,128.38,1.44,1.82,1.99
+2017,New Brunswick,New Brunswick,Total (house and land),100.08,108870.0,1087.83,1370.0,369.0,"0013 - Senior managers - financial, communications and other business services",13.69,550.76,130.42,130.43,1.6,1.44,1.63
+2018,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Land only,103.83,117625.0,1132.86,27435.0,475.0,0011 - Legislators,264.23,698.55,133.38,133.36,2.27,1.94,1.88
+2019,Ontario,"Hamilton, Ontario",Land only,101.0,126555.0,1253.02,29875.0,475.0,0011 - Legislators,295.79,774.41,135.98,135.97,1.94,2.05,2.01
+2020,Ontario,"St. Catharines-Niagara, Ontario",House only,111.42,105815.0,949.69,17775.0,475.0,0011 - Legislators,159.53,554.61,136.96,136.95,0.73,1.77,1.88
+2022,Ontario,"Hamilton, Ontario",Total (house and land),116.0,168235.0,1450.3,29435.0,475.0,0011 - Legislators,253.75,852.03,151.24,151.24,6.8,5.25,4.84
+2022,Saskatchewan,"Regina, Saskatchewan",Land only,100.83,168235.0,1668.5,8910.0,386.0,0012 - Senior government managers and officials,88.37,878.44,151.24,151.24,6.8,5.25,4.84
+2015,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",Total (house and land),0.0,96265.0,,13220.0,482.0,0011 - Legislators,,,126.57,126.56,1.13,1.63,1.77
+2016,Newfoundland and Labrador,Newfoundland and Labrador,House only,99.83,103720.0,1038.97,1180.0,310.0,0012 - Senior government managers and officials,11.82,525.4,128.37,128.38,1.44,1.82,1.99
+2018,Ontario,"Greater Sudbury, Ontario",House only,99.67,117625.0,1180.14,27435.0,475.0,0011 - Legislators,275.26,727.7,133.38,133.36,2.27,1.94,1.88
+2020,Quebec,"Trois-Rivières, Quebec",Land only,101.92,105815.0,1038.22,14745.0,482.0,0011 - Legislators,144.67,591.45,136.96,136.95,0.73,1.77,1.88
+2020,British Columbia,"Kelowna, British Columbia",Total (house and land),104.25,105815.0,1015.01,7240.0,470.0,0011 - Legislators,69.45,542.23,136.96,136.95,0.73,1.77,1.88
+2015,Saskatchewan,"Saskatoon, Saskatchewan",House only,102.92,96265.0,935.34,4945.0,386.0,0012 - Senior government managers and officials,48.05,491.7,126.57,126.56,1.13,1.63,1.77
+2021,Ontario,"Windsor, Ontario",Total (house and land),130.0,152280.0,1171.38,22675.0,475.0,0011 - Legislators,174.42,672.9,141.61,141.61,3.4,2.91,2.65
+2023,Quebec,"Québec, Quebec",House only,137.0,181960.0,1328.18,13935.0,482.0,0011 - Legislators,101.72,714.95,157.11,157.11,3.89,3.89,4.02
+2015,Alberta,"Calgary, Alberta",House only,101.58,96265.0,947.68,8370.0,436.0,0011 - Legislators,82.4,515.04,126.57,126.56,1.13,1.63,1.77
+2018,Ontario,"Greater Sudbury, Ontario",Land only,100.0,117625.0,1176.25,27435.0,475.0,0011 - Legislators,274.35,725.3,133.38,133.36,2.27,1.94,1.88
+2021,Ontario,"Toronto, Ontario",House only,107.5,152280.0,1416.56,22675.0,475.0,0011 - Legislators,210.93,813.75,141.61,141.61,3.4,2.91,2.65
+2015,Quebec,Quebec,Total (house and land),98.58,96265.0,976.52,13220.0,482.0,0011 - Legislators,134.1,555.31,126.57,126.56,1.13,1.63,1.77
+2017,Manitoba,"Winnipeg, Manitoba",Total (house and land),101.58,108870.0,1071.77,6825.0,409.0,0012 - Senior government managers and officials,67.19,569.48,130.42,130.43,1.6,1.44,1.63
+2019,British Columbia,"Victoria, British Columbia",Land only,101.25,126555.0,1249.93,15480.0,470.0,0011 - Legislators,152.89,701.41,135.98,135.97,1.94,2.05,2.01
+2018,British Columbia,"Kelowna, British Columbia",Land only,101.0,117625.0,1164.6,12395.0,470.0,0011 - Legislators,122.72,643.66,133.38,133.36,2.27,1.94,1.88
+2019,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",House only,96.0,126555.0,1318.28,1245.0,310.0,0012 - Senior government managers and officials,12.97,665.63,135.98,135.97,1.94,2.05,2.01
+2019,Quebec,"Québec, Quebec",Land only,101.0,126555.0,1253.02,22435.0,482.0,0011 - Legislators,222.13,737.58,135.98,135.97,1.94,2.05,2.01
+2021,Nova Scotia,"Halifax, Nova Scotia",House only,120.0,152280.0,1269.0,7055.0,391.0,0012 - Senior government managers and officials,58.79,663.9,141.61,141.61,3.4,2.91,2.65
+2021,Quebec,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",House only,118.08,152280.0,1289.63,17550.0,482.0,0011 - Legislators,148.63,719.13,141.61,141.61,3.4,2.91,2.65
+2021,Ontario,"London, Ontario",House only,137.08,152280.0,1110.88,22675.0,475.0,0011 - Legislators,165.41,638.15,141.61,141.61,3.4,2.91,2.65
+2023,Saskatchewan,Saskatchewan,Land only,96.08,181960.0,1893.84,7140.0,386.0,0012 - Senior government managers and officials,74.31,984.07,157.11,157.11,3.89,3.89,4.02
