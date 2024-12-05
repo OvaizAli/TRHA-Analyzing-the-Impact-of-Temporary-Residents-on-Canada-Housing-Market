@@ -16,17 +16,17 @@ df = pd.read_csv('df_combined.csv')
 
 # Preprocess data for PCA and Clustering
 df = df[df['Province'].notna()]
-df_filtered = df[['Province', 'Year', 'Avg_Value', 'Total_Workers_Count', 'Avg_Total_CPI']]
+df_filtered = df[['Province', 'Year', 'Avg_Housing_Value', 'Total_Workers_Count', 'Avg_Total_CPI']]
 
 # Aggregate the data by province and year
 df_grouped = df_filtered.groupby(['Province', 'Year']).agg({
-    'Avg_Value': 'mean',
+    'Avg_Housing_Value': 'mean',
     'Total_Workers_Count': 'mean',
     'Avg_Total_CPI': 'mean',
 }).reset_index()
 
 # Standardize the features
-features = ['Avg_Value', 'Total_Workers_Count', 'Avg_Total_CPI']
+features = ['Avg_Housing_Value', 'Total_Workers_Count', 'Avg_Total_CPI']
 scaler = StandardScaler()
 df_grouped[features] = scaler.fit_transform(df_grouped[features])
 
@@ -46,13 +46,13 @@ cluster_means = df_grouped.groupby('Cluster')[features].mean().reset_index()
 # Dynamically create descriptions based on cluster feature means
 cluster_descriptions = {}
 for idx, row in cluster_means.iterrows():
-    avg_value = row['Avg_Value']
+    Avg_Housing_Value = row['Avg_Housing_Value']
     workers_count = row['Total_Workers_Count']
     cpi = row['Avg_Total_CPI']
 
-    if avg_value > 0.5 and workers_count < 0:
+    if Avg_Housing_Value > 0.5 and workers_count < 0:
         cluster_descriptions[row['Cluster']] = f"Cluster {row['Cluster']}: High Housing Prices, Low Workers"
-    elif avg_value < 0 and workers_count > 0:
+    elif Avg_Housing_Value < 0 and workers_count > 0:
         cluster_descriptions[row['Cluster']] = f"Cluster {row['Cluster']}: Low Housing Prices, High Workers"
     elif cpi > 0.5:
         cluster_descriptions[row['Cluster']] = f"Cluster {row['Cluster']}: High CPI, Moderate Housing"
@@ -60,7 +60,7 @@ for idx, row in cluster_means.iterrows():
         cluster_descriptions[row['Cluster']] = f"Cluster {row['Cluster']}: Balanced Economic Factors"
 
 # Group data for Time Series Forecasting
-df_grouped_ts = df.groupby(['Province', 'Year'], as_index=False)['Avg_Value'].mean()
+df_grouped_ts = df.groupby(['Province', 'Year'], as_index=False)['Avg_Housing_Value'].mean()
 
 # Initialize Dash app
 app = dash.Dash(__name__)
@@ -161,7 +161,7 @@ app.layout = html.Div([
                 dcc.Dropdown(
                     id='size-feature-dropdown',
                     options=[
-                        {'label': 'Avg_Value', 'value': 'Avg_Value'},
+                        {'label': 'Avg_Housing_Value', 'value': 'Avg_Housing_Value'},
                         {'label': 'Study_Permit_To_Value_Impact_Metric', 'value': 'Study_Permit_To_Value_Impact_Metric'},
                         {'label': 'Total_Workers_Count', 'value': 'Total_Workers_Count'},
                         {'label': 'Number_of_Class_Titles', 'value': 'Number_of_Class_Titles'},
@@ -171,7 +171,7 @@ app.layout = html.Div([
                         {'label': 'Avg_Total_CPI_Seasonally_Adjusted', 'value': 'Avg_Total_CPI_Seasonally_Adjusted'},
                         {'label': 'Avg_CPI_MEDIAN', 'value': 'Avg_CPI_MEDIAN'}
                     ],
-                    value='Avg_Value',  # default value
+                    value='Avg_Housing_Value',  # default value
                     clearable=False,
                     style={'width': '100%'}
                 ),
@@ -245,11 +245,11 @@ app.layout = html.Div([
                 dcc.Dropdown(
                     id='metric-dropdown',
                     options=[
-                        {'label': 'Housing Price Index (Avg_Value)', 'value': 'Avg_Value'},
+                        {'label': 'Housing Price Index (Avg_Housing_Value)', 'value': 'Avg_Housing_Value'},
                         {'label': 'Total_Workers_Count', 'value': 'Total_Workers_Count'},
                         {'label': 'Combined_Impact_Ratio', 'value': 'Combined_Impact_Ratio'}
                     ],
-                    value='Avg_Value',
+                    value='Avg_Housing_Value',
                     clearable=False,
                     style={'width': '100%'}
                 ),
@@ -281,14 +281,14 @@ app.layout = html.Div([
 )
 def update_time_series_forecast(selected_province, forecast_years):
     df_province_ts = df_grouped_ts[df_grouped_ts['Province'] == selected_province]
-    model = ARIMA(df_province_ts['Avg_Value'], order=(5, 1, 0), enforce_stationarity=False, enforce_invertibility=False)
+    model = ARIMA(df_province_ts['Avg_Housing_Value'], order=(5, 1, 0), enforce_stationarity=False, enforce_invertibility=False)
     model_fit = model.fit()
     forecast = model_fit.forecast(steps=forecast_years)
 
     # Create the plotly figure
     fig = go.Figure()
 
-    fig.add_trace(go.Scatter(x=df_province_ts['Year'], y=df_province_ts['Avg_Value'], mode='lines+markers', name='Historical Data'))
+    fig.add_trace(go.Scatter(x=df_province_ts['Year'], y=df_province_ts['Avg_Housing_Value'], mode='lines+markers', name='Historical Data'))
     fig.add_trace(go.Scatter(x=np.arange(df_province_ts['Year'].max(), df_province_ts['Year'].max() + forecast_years),
                              y=forecast, mode='lines+markers', name='Forecast', line=dict(dash='dash')))
 
@@ -315,7 +315,7 @@ def update_scatter_plot(selected_province, x_feature, y_feature, size_feature, y
                      (df['Year'] <= year_range[1])]
     
     fig = px.scatter(df_province, x=x_feature, y=y_feature, size=size_feature,
-                     color="Province", hover_data=["Year", "Avg_Value"],
+                     color="Province", hover_data=["Year", "Avg_Housing_Value"],
                      title=f"{x_feature} vs {y_feature} for {selected_province}")
 
     fig.update_layout(title=f"Selected Feature(s) Relationship for {selected_province}")
@@ -335,14 +335,14 @@ def update_cluster_plot(selected_province, chart_type):
 
     if chart_type == 'scatter':
         df_province['Cluster'] = df_province['Cluster'].astype(str)
-        df_province['hover_text'] = df_province.apply(lambda row: f"Cluster: {cluster_descriptions[int(row['Cluster'])]}<br>Avg Value: {row['Avg_Value']:.2f}<br>Workers Count: {row['Total_Workers_Count']:.2f}<br>CPI: {row['Avg_Total_CPI']:.2f}<br>Year: {row['Year']}", axis=1)
+        df_province['hover_text'] = df_province.apply(lambda row: f"Cluster: {cluster_descriptions[int(row['Cluster'])]}<br>Avg Value: {row['Avg_Housing_Value']:.2f}<br>Workers Count: {row['Total_Workers_Count']:.2f}<br>CPI: {row['Avg_Total_CPI']:.2f}<br>Year: {row['Year']}", axis=1)
         
         fig = px.scatter(df_province,
                          x='PCA1', y='PCA2', color='Cluster',
                          title=f"Clustered Regional Housing Trends for {selected_province}",
                          labels={'PCA1': 'Economic Dimension 1', 'PCA2': 'Economic Dimension 2'},
                          hover_name='Province',
-                         hover_data={'Year': True, 'Avg_Value': True, 'Total_Workers_Count': True, 'Avg_Total_CPI': True},
+                         hover_data={'Year': True, 'Avg_Housing_Value': True, 'Total_Workers_Count': True, 'Avg_Total_CPI': True},
                          color_discrete_sequence=px.colors.qualitative.Set1)
         
         fig.for_each_trace(lambda t: t.update(name=cluster_descriptions[int(t.name)]))
