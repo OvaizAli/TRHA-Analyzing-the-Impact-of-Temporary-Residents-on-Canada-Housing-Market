@@ -146,7 +146,12 @@ app.layout = html.Div([
                         {'label': 'Study Permits to Housing Price Ratio', 'value': 'Study_Permit_To_Value_Impact_Metric'},
                         {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},
                         {'label': 'Temporary Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
-                        {'label': 'Avg Total CPI', 'value': 'Avg_Total_CPI'}
+                        {'label': 'Combined Impact of Study Permits and Workers', 'value': 'Combined_Impact_Ratio'},
+                        {'label': 'Average Total CPI', 'value': 'Avg_Total_CPI'},
+                        {'label': 'Bank Interest Rate (Weekly)', 'value': 'Avg_Bank_Interest_Rate_Weekly'},
+                        {'label': 'Variable Mortgage Rate', 'value': 'Avg_Estimated_Variable_Mortgage_Rate'},
+                        {'label': 'Effective Household Interest Rate (Weekly)', 'value': 'Avg_Weekly_Effective_Household_Interest_Rate'},
+                        {'label': 'Effective Business Interest Rate (Weekly)', 'value': 'Avg_Weekly_Effective_Business_Interest_Rate'}
                     ],
                     value='Number_of_Study_Permits_Issued',  # default value
                     clearable=False,
@@ -163,7 +168,12 @@ app.layout = html.Div([
                         {'label': 'Study Permits to Housing Price Ratio', 'value': 'Study_Permit_To_Value_Impact_Metric'},
                         {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},
                         {'label': 'Temporary Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
-                        {'label': 'Avg Total CPI', 'value': 'Avg_Total_CPI'}
+                        {'label': 'Combined Impact of Study Permits and Workers', 'value': 'Combined_Impact_Ratio'},
+                        {'label': 'Average Total CPI', 'value': 'Avg_Total_CPI'},
+                        {'label': 'Bank Interest Rate (Weekly)', 'value': 'Avg_Bank_Interest_Rate_Weekly'},
+                        {'label': 'Variable Mortgage Rate', 'value': 'Avg_Estimated_Variable_Mortgage_Rate'},
+                        {'label': 'Effective Household Interest Rate (Weekly)', 'value': 'Avg_Weekly_Effective_Household_Interest_Rate'},
+                        {'label': 'Effective Business Interest Rate (Weekly)', 'value': 'Avg_Weekly_Effective_Business_Interest_Rate'}
                     ],
                     value='Total_Workers_Count',  # default value
                     clearable=False,
@@ -176,14 +186,14 @@ app.layout = html.Div([
                 dcc.Dropdown(
                     id='size-feature-dropdown',
                     options=[
-                        {'label': 'Avg Housing Price', 'value': 'Avg_Housing_Value'},
+                        {'label': 'Average Housing Price', 'value': 'Avg_Housing_Value'},
                         {'label': 'Study Permits to Housing Price Ratio', 'value': 'Study_Permit_To_Value_Impact_Metric'},
                         {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},
                         {'label': 'Number of Class Titles', 'value': 'Number_of_Class_Titles'},
                         {'label': 'Temporary Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
-                        {'label': 'Combined Impact of Study Permits and Workers on Housing Prices', 'value': 'Combined_Impact_Ratio'},
-                        {'label': 'Avg Total CPI', 'value': 'Avg_Total_CPI'},
-                        {'label': 'Avg CPI MEDIAN', 'value': 'Avg_CPI_MEDIAN'}
+                        {'label': 'Combined Impact of Study Permits and Workers', 'value': 'Combined_Impact_Ratio'},
+                        {'label': 'Average Total CPI', 'value': 'Avg_Total_CPI'},
+                        {'label': 'Variable Mortgage Rate', 'value': 'Avg_Estimated_Variable_Mortgage_Rate'}
                     ],
                     value='Avg_Housing_Value',  # default value
                     clearable=False,
@@ -261,7 +271,9 @@ app.layout = html.Div([
                     options=[
                         {'label': 'Avg Housing Price', 'value': 'Avg_Housing_Value'},
                         {'label': 'CPI Index', 'value': 'CPI_Index'},
-                         {'label': 'Combined Impact of Study Permits and Workers on Housing Prices', 'value': 'Combined_Impact_Ratio'}
+                        {'label': 'Combined Impact of Study Permits and Workers on Housing Prices', 'value': 'Combined_Impact_Ratio'},
+                        {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},  # New metric
+                        {'label': 'Number of Study Permits Issued', 'value': 'Number_of_Study_Permits_Issued'}  # New metric
                     ],
                     value='Avg_Housing_Value',
                     clearable=False,
@@ -302,13 +314,16 @@ app.layout = html.Div([
             dcc.Dropdown(
                 id='metric-dropdown-trend',
                 options=[
-                    {'label': 'Average Housing Price', 'value': 'Avg_Housing_Value'},
-                    {'label': 'Average CPI', 'value': 'Avg_Total_CPI'},
-                    {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},
-                    {'label': 'Study Permits to Housing Price Ratio', 'value': 'Study_Permit_To_Value_Impact_Metric'},
-                    {'label': 'Temporary Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
-                    {'label': 'Combined Impact of Study Permits and Workers on Housing Prices', 'value': 'Combined_Impact_Ratio'},
-                    {'label': 'Avg Bank Interest Rate Weekly', 'value': 'Avg_Bank_Interest_Rate_Weekly'}
+                        {'label': 'Average Housing Price', 'value': 'Avg_Housing_Value'},
+                        {'label': 'Average Total CPI', 'value': 'Avg_Total_CPI'},
+                        {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},
+                        {'label': 'Study Permits to Housing Price Ratio', 'value': 'Study_Permit_To_Value_Impact_Metric'},
+                        {'label': 'Temporary Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
+                        {'label': 'Combined Impact of Study Permits and Workers', 'value': 'Combined_Impact_Ratio'},
+                        {'label': 'Bank Interest Rate (Weekly)', 'value': 'Avg_Bank_Interest_Rate_Weekly'},
+                        {'label': 'Variable Mortgage Rate', 'value': 'Avg_Estimated_Variable_Mortgage_Rate'},
+                        {'label': 'Effective Household Interest Rate (Weekly)', 'value': 'Avg_Weekly_Effective_Household_Interest_Rate'},
+                        {'label': 'Effective Business Interest Rate (Weekly)', 'value': 'Avg_Weekly_Effective_Business_Interest_Rate'}
                 ],
                 value='Avg_Housing_Value',
                 clearable=False,
@@ -592,7 +607,7 @@ def update_occupational_influence_plot(selected_class_title, selected_metric, se
         df_filtered_class_year,
         x='Province',  # Group by Province
         y=selected_metric,  # Dynamically selected metric (Avg_Value or CPI_Index)
-        title=f"Comparison of {selected_metric.replace('_', ' ').title()} for {selected_class_title} in {selected_year} by Province",
+        # title=f"Comparison of {selected_metric.replace('_', ' ').title()} for {selected_class_title} in {selected_year} by Province",
         labels={selected_metric: selected_metric.replace('_', ' ').title()},  # Label based on selected metric
         color='Province',  # Color by Province
         color_discrete_sequence=px.colors.qualitative.Set2,
