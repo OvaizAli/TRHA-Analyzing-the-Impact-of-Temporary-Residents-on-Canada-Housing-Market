@@ -12,7 +12,7 @@ np.bool = np.bool_
 from statsmodels.tsa.arima.model import ARIMA
 
 # Load data
-df = pd.read_csv('df_final_VA.csv')
+df = pd.read_csv('df_combined.csv')
 
 # Preprocess data for PCA and Clustering
 df = df[df['Province'].notna()]
