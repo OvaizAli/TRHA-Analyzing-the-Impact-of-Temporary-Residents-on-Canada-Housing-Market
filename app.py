@@ -12,7 +12,7 @@ np.bool = np.bool_
 from statsmodels.tsa.arima.model import ARIMA
 
 # Load data
-df = pd.read_csv('df_combined.csv')
+df = pd.read_csv('df_final_VA.csv')
 
 # Preprocess data for PCA and Clustering
 df = df[df['Province'].notna()]
@@ -81,6 +81,7 @@ df_grouped_ts = df.groupby(['Province', 'Year'], as_index=False)['Avg_Housing_Va
 
 # Initialize Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 # App layout
 app.layout = html.Div([
