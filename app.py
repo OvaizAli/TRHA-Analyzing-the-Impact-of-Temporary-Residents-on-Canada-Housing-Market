@@ -92,7 +92,7 @@ app.layout = html.Div([
 
     # Row for the first plot: Time Series Forecasting
     html.Div([
-        html.H2("Forecasting Average Housing Price Index Value by Province"),
+        html.H2("Forecasting Average Housing Price by Province"),
         html.Div([
             html.Div([
                 html.Label("Select Province"),
@@ -131,7 +131,7 @@ app.layout = html.Div([
                 dcc.Dropdown(
                     id='province-dropdown-2',
                     options=[{'label': prov, 'value': prov} for prov in df['Province'].unique()],
-                    value='Ontario',  # default value
+                    value='Ontario',  
                     clearable=False,
                     style={'width': '100%'}
                 ),
@@ -142,12 +142,11 @@ app.layout = html.Div([
                 dcc.Dropdown(
                     id='x-feature-dropdown',
                     options=[
-                        {'label': 'Number_of_Study_Permits_Issued', 'value': 'Number_of_Study_Permits_Issued'},
-                        {'label': 'Study_Permit_To_Value_Impact_Metric', 'value': 'Study_Permit_To_Value_Impact_Metric'},
-                        {'label': 'Total_Workers_Count', 'value': 'Total_Workers_Count'},
-                        {'label': 'Workers_To_Housing_Impact_Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
-                        {'label': 'Avg_Total_CPI', 'value': 'Avg_Total_CPI'},
-                        {'label': 'Avg_CPI_TRIM', 'value': 'Avg_CPI_TRIM'}
+                        {'label': 'Number of Study Permits Issued', 'value': 'Number_of_Study_Permits_Issued'},
+                        {'label': 'Study Permits to Housing Price Ratio', 'value': 'Study_Permit_To_Value_Impact_Metric'},
+                        {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},
+                        {'label': 'Temporary Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
+                        {'label': 'Avg Total CPI', 'value': 'Avg_Total_CPI'}
                     ],
                     value='Number_of_Study_Permits_Issued',  # default value
                     clearable=False,
@@ -160,12 +159,11 @@ app.layout = html.Div([
                 dcc.Dropdown(
                     id='y-feature-dropdown',
                     options=[
-                        {'label': 'Number_of_Study_Permits_Issued', 'value': 'Number_of_Study_Permits_Issued'},
-                        {'label': 'Study_Permit_To_Value_Impact_Metric', 'value': 'Study_Permit_To_Value_Impact_Metric'},
-                        {'label': 'Total_Workers_Count', 'value': 'Total_Workers_Count'},
-                        {'label': 'Workers_To_Housing_Impact_Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
-                        {'label': 'Avg_Total_CPI', 'value': 'Avg_Total_CPI'},
-                        {'label': 'Avg_CPI_TRIM', 'value': 'Avg_CPI_TRIM'}
+                        {'label': 'Number of Study Permits Issued', 'value': 'Number_of_Study_Permits_Issued'},
+                        {'label': 'Study Permits to Housing Price Ratio', 'value': 'Study_Permit_To_Value_Impact_Metric'},
+                        {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},
+                        {'label': 'Temporary Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
+                        {'label': 'Avg Total CPI', 'value': 'Avg_Total_CPI'}
                     ],
                     value='Total_Workers_Count',  # default value
                     clearable=False,
@@ -178,15 +176,14 @@ app.layout = html.Div([
                 dcc.Dropdown(
                     id='size-feature-dropdown',
                     options=[
-                        {'label': 'Avg_Housing_Value', 'value': 'Avg_Housing_Value'},
-                        {'label': 'Study_Permit_To_Value_Impact_Metric', 'value': 'Study_Permit_To_Value_Impact_Metric'},
-                        {'label': 'Total_Workers_Count', 'value': 'Total_Workers_Count'},
-                        {'label': 'Number_of_Class_Titles', 'value': 'Number_of_Class_Titles'},
-                        {'label': 'Workers_To_Housing_Impact_Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
-                        {'label': 'Combined_Impact_Ratio', 'value': 'Combined_Impact_Ratio'},
-                        {'label': 'Avg_Total_CPI', 'value': 'Avg_Total_CPI'},
-                        {'label': 'Avg_Total_CPI_Seasonally_Adjusted', 'value': 'Avg_Total_CPI_Seasonally_Adjusted'},
-                        {'label': 'Avg_CPI_MEDIAN', 'value': 'Avg_CPI_MEDIAN'}
+                        {'label': 'Avg Housing Price', 'value': 'Avg_Housing_Value'},
+                        {'label': 'Study Permits to Housing Price Ratio', 'value': 'Study_Permit_To_Value_Impact_Metric'},
+                        {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},
+                        {'label': 'Number of Class Titles', 'value': 'Number_of_Class_Titles'},
+                        {'label': 'Temporary Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
+                        {'label': 'Combined Impact of Study Permits and Workers on Housing Prices', 'value': 'Combined_Impact_Ratio'},
+                        {'label': 'Avg Total CPI', 'value': 'Avg_Total_CPI'},
+                        {'label': 'Avg CPI MEDIAN', 'value': 'Avg_CPI_MEDIAN'}
                     ],
                     value='Avg_Housing_Value',  # default value
                     clearable=False,
@@ -242,7 +239,7 @@ app.layout = html.Div([
     ], style={'padding': '20px'}),
 
         html.Div([
-        html.H1("Impact of Occupation on Housing Demand in Canada", style={'textAlign': 'left', 'padding': '20px'}),
+        html.H2("Impact of Occupation on Housing Demand in Canada", style={'textAlign': 'left', 'padding': '20px'}),
 
         # Container for dropdowns to be in line
         html.Div([
@@ -262,9 +259,9 @@ app.layout = html.Div([
                 dcc.Dropdown(
                     id='metric-dropdown',
                     options=[
-                        {'label': 'Housing Price Index (Avg_Value)', 'value': 'Avg_Housing_Value'},
+                        {'label': 'Avg Housing Price', 'value': 'Avg_Housing_Value'},
                         {'label': 'CPI Index', 'value': 'CPI_Index'},
-                         {'label': 'Combined_Impact_Ratio', 'value': 'Combined_Impact_Ratio'}
+                         {'label': 'Combined Impact of Study Permits and Workers on Housing Prices', 'value': 'Combined_Impact_Ratio'}
                     ],
                     value='Avg_Housing_Value',
                     clearable=False,
@@ -305,13 +302,12 @@ app.layout = html.Div([
             dcc.Dropdown(
                 id='metric-dropdown-trend',
                 options=[
-                    {'label': 'Average Housing Value', 'value': 'Avg_Housing_Value'},
+                    {'label': 'Average Housing Price', 'value': 'Avg_Housing_Value'},
                     {'label': 'Average CPI', 'value': 'Avg_Total_CPI'},
-                    {'label': 'Total Workers Count', 'value': 'Total_Workers_Count'},
-                    {'label': 'New Housing Price Index', 'value': 'New Housing Price Index'},
-                    {'label': 'Study Permit to Value Impact Metric', 'value': 'Study_Permit_To_Value_Impact_Metric'},
-                    {'label': 'Workers to Housing Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
-                    {'label': 'Combined Impact Ratio', 'value': 'Combined_Impact_Ratio'},
+                    {'label': 'Total Temporary Workers Count', 'value': 'Total_Workers_Count'},
+                    {'label': 'Study Permits to Housing Price Ratio', 'value': 'Study_Permit_To_Value_Impact_Metric'},
+                    {'label': 'Temporary Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
+                    {'label': 'Combined Impact of Study Permits and Workers on Housing Prices', 'value': 'Combined_Impact_Ratio'},
                     {'label': 'Avg Bank Interest Rate Weekly', 'value': 'Avg_Bank_Interest_Rate_Weekly'}
                 ],
                 value='Avg_Housing_Value',
@@ -326,7 +322,7 @@ app.layout = html.Div([
                 id='method-dropdown',
                 options=[
                     {'label': 'Z-Score Analysis', 'value': 'z_score'},
-                    {'label': 'IQR Analysis', 'value': 'iqr'}
+                    {'label': 'Interquartile Range (IQR) Analysis', 'value': 'iqr'}
                 ],
                 value='z_score',
                 clearable=False,
@@ -342,7 +338,7 @@ app.layout = html.Div([
 # Callback for updating the graph based on selected province and forecast years
 @app.callback(
     Output("avg-value-time-series", "figure"),
-    [Input("province-dropdown", "value"),
+    [Input("province-dropdown-1", "value"),
      Input("forecast-years-slider", "value")]
 )
 def update_graph(selected_province, forecast_years):
@@ -370,8 +366,8 @@ def update_graph(selected_province, forecast_years):
 
     # Plot the original data and forecast
     fig = px.line(df_filtered, x="Year", y="Avg_Housing_Value",
-                  # title=f"Average Housing Price Index in {selected_province}",
-                  labels={"Avg_Housing_Value": "Average Housing Price Index"},
+                  # title=f"Average Housing Price in {selected_province}",
+                  labels={"Avg_Housing_Value": "Average Housing Price"},
                   markers=True)
 
     # Add the forecasted data as a continuous line with dotted style and markers (dots)
@@ -385,7 +381,7 @@ def update_graph(selected_province, forecast_years):
     fig.update_layout(
         title=dict(x=0.5, xanchor='center'),  # Center the title
         xaxis_title="Year",
-        yaxis_title="Average Housing Price Index",
+        yaxis_title="Average Housing Price",
         font=dict(family="Arial", size=12),
         hovermode="x unified",  # Display hover information for all traces on the x-axis
         template="plotly_white",  # Light background theme for better readability
@@ -414,7 +410,7 @@ def update_graph(selected_province, forecast_years):
         Output('y-feature-dropdown', 'options')  # Update y-feature dropdown options
     ],
     [
-        Input("province-dropdown", "value"),
+        Input("province-dropdown-2", "value"),
         Input("x-feature-dropdown", "value"),
         Input("y-feature-dropdown", "value"),
         Input("size-feature-dropdown", "value"),
@@ -429,12 +425,12 @@ def update_graph(selected_province, x_feature, y_feature, size_feature, year_ran
 
     # Update y-feature dropdown options dynamically
     available_y_options = [
-        {'label': 'Number_of_Study_Permits_Issued', 'value': 'Number_of_Study_Permits_Issued'},
+        {'label': 'Number of Study Permits Issued', 'value': 'Number_of_Study_Permits_Issued'},
         {'label': 'Study_Permit_To_Value_Impact_Metric', 'value': 'Study_Permit_To_Value_Impact_Metric'},
-        {'label': 'Total_Workers_Count', 'value': 'Total_Workers_Count'},
-        {'label': 'Workers_To_Housing_Impact_Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
-        {'label': 'Avg_Total_CPI', 'value': 'Avg_Total_CPI'},
-        {'label': 'Avg_CPI_TRIM', 'value': 'Avg_CPI_TRIM'}
+        {'label': 'Total Workers Count', 'value': 'Total_Workers_Count'},
+        {'label': 'Workers To Housing Price Impact Ratio', 'value': 'Workers_To_Housing_Impact_Ratio'},
+        {'label': 'Avg Total CPI', 'value': 'Avg_Total_CPI'},
+        {'label': 'Avg CPI TRIM', 'value': 'Avg_CPI_TRIM'}
     ]
     # Remove x_feature from y_feature dropdown options
     available_y_options = [opt for opt in available_y_options if opt['value'] != x_feature]
@@ -445,7 +441,7 @@ def update_graph(selected_province, x_feature, y_feature, size_feature, year_ran
                  x=x_feature,
                  y=y_feature,
                  size=size_feature,  # Use selected size feature for the size of the dots
-                 title=f"Impact of {x_feature} vs. {y_feature} on Housing Prices in {selected_province} (Size Based on {size_feature})",
+                #  title=f"Impact of {x_feature} vs. {y_feature} on Housing Prices in {selected_province} (Size Based on {size_feature})",
                  labels={x_feature: x_feature, y_feature: y_feature},
                  color="Avg_Value_Class",  # Color by the class of Avg_Value
                  hover_data=["Year", "Province", "Avg_Value_Class"])  # Display year, province, and class on hover
@@ -494,7 +490,7 @@ def update_cluster_plot(selected_province, chart_type):
                         x='PCA1',
                         y='PCA2',
                         color='Cluster',  # Cluster as color
-                        title=f"Clustered Regional Housing Trends for {selected_province}",
+                        # title=f"Clustered Regional Housing Trends for {selected_province}",
                         labels={'PCA1': 'Economic Dimension 1', 'PCA2': 'Economic Dimension 2'},
                         hover_name='Province',
                         hover_data={'Year': True, 'Avg_Housing_Value': True, 'Total_Workers_Count': True, 'Avg_Total_CPI': True},
@@ -674,7 +670,7 @@ def update_trend_analysis_chart(province, metric, method):
             'Normal': 'blue'
         },
         labels={'Trend': 'Trend Analysis'},
-        title=f"Trend Analysis of {metric} in {province} - Method: {method.capitalize()}"
+        # title=f"Trend Analysis of {metric} in {province} - Method: {method.capitalize()}"
     )
 
     # Update layout for legend on the right with border
