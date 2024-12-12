@@ -11,11 +11,14 @@ import numpy as np
 np.bool = np.bool_
 from statsmodels.tsa.arima.model import ARIMA
 
-# Load data
+# Load the dataset
+# Best Practice: Use relative paths or configurable paths for flexibility
 df = pd.read_csv('df_final_VA.csv')
 
-# Preprocess data for PCA and Clustering
+# Preprocess data for PCA and clustering
+# Drop rows with missing values in 'Province' column
 df = df[df['Province'].notna()]
+
 df_filtered = df[['Province', 'Year', 'Avg_Housing_Value', 'Total_Workers_Count', 'Avg_Total_CPI']]
 
 # Create categories for Avg_Value (Low, Medium, High)
