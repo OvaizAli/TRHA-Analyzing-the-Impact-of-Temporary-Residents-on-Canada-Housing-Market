@@ -127,7 +127,7 @@ We analyze relationships between immigration, economic factors, and housing tren
 ---
 
 ## **Complete Dashboard**
-[View Deployed Dashboard](https://trha-dashboard.onrender.com/)
+[Link to view the deployed dashboard](https://trha-dashboard.onrender.com/)
 
 ![Complete Dashboard](Complete-Dashboard.png)
 
