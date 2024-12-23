@@ -11,7 +11,6 @@ import numpy as np
 np.bool = np.bool_
 from statsmodels.tsa.arima.model import ARIMA
 from transformers import AutoTokenizer, AutoModelForCausalLM
-import torch
 
 # Load the dataset
 # Best Practice: Use relative paths or configurable paths for flexibility
